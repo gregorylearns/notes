@@ -328,10 +328,6 @@ text
 # LFT
 ## Summary
 
-
-## QA
-
-```text
 ### **Topic: Liver Function Tests (LFTs) & Hepatocellular Enzymes**
 
 * In Liver Function Tests, <b><font color="red">ALT (Alanine Aminotransferase)</font></b> is primarily a marker of hepatocyte injury and is more specific to the liver than AST.
@@ -427,7 +423,7 @@ text
 * Compare <b><font color="red">GGT vs. ALP</font></b>: Both rise in biliary disease, but <b><font color="red">GGT</font></b> does not rise in bone disease, making it a "confirmatory" test for hepatic ALP origin.
 * Compare <b><font color="red">Wilson's Disease vs. Hemochromatosis</font></b>: Wilson’s is a defect in <b><font color="red">Copper</font></b> (low ceruloplasmin); Hemochromatosis involves iron overload.
 * Compare <b><font color="red">HBV Window Period Serology</font></b>: The patient will be negative for both HBsAg and Anti-HBs; <b><font color="red">IgM Anti-HBc</font></b> is the only marker of infection.
-```
+
 
 
 ## QA
