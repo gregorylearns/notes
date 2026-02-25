@@ -19,3 +19,4 @@
 - [11-CLINPATH](11_CLINPATH/README.md)
     - [4th_Shifting](11_CLINPATH/4th_Shifting.md)
 - [12-NEURO](12_NEURO/README.md)
+    - [2nd Shifting](12_NEURO/2nd_Shifting.md)
