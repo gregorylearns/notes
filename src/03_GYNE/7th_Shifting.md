@@ -1,6 +1,6 @@
 # 1
 ## Summary
-```text
+text
 ### <b><i style="color:red;">Infertility and Assisted Reproductive Technology (ART) Overview</i></b>
 
 | Topic | Definition/Pathogenesis | Clinical Manifestations/Findings | Diagnosis/Work-up | Treatment/Management |
@@ -148,10 +148,10 @@
 18. <b style="color:red;">Basal Body Temperature (BBT)</b> only confirms *that* ovulation happened after it occurred; it is *not* good for timing intercourse in the same cycle.
 19. <b style="color:red;">Infertility Workup</b>: A single abnormal semen analysis is *not* diagnostic; it must be repeated after 4 weeks because sperm takes ~3 months to mature.
 20. <b style="color:red;">GIFT vs. ZIFT</b>: GIFT is Gamete transfer (pre-fertilization) into the tube; ZIFT is Zygote transfer (post-fertilization) into the tube. Both are rarely used compared to IVF-ET.
-```
+
 
 ## QA
-```text
+text
 ### <b><i style="color:red;">Infertility and Assisted Reproductive Technology (ART) Overview</i></b>
 
 1. What is the definition of <b><font color="red">Infertility</font></b>? | Inability to conceive <br>After 1 year of unprotected sex (6 months if >35).
@@ -311,12 +311,12 @@
 125. Why is <b><font color="red">Basal Body Temperature (BBT)</font></b> bad for timing? | Only confirms ovulation occurred <br>Retroactive confirmation only.
 126. Why is one <b><font color="red">Semen analysis</font></b> result not diagnostic? | Sperm takes 3 months to mature <br>Must repeat after 4 weeks.
 127. Compare <b><font color="red">GIFT vs ZIFT</font></b>. | GIFT: Gametes into tube <br>ZIFT: Zygote into tube.
-```
+
 
 ---
 # 2
 ## Summary
-```text
+text
 ### <b><i style="color:red;">I. Overview of Immunologic Response</i></b>
 
 | Feature | <b><font color="red">Innate Immunity</font></b> | <b><font color="red">Adaptive Immunity</font></b> |
@@ -420,10 +420,10 @@
 13. <b><font color="red">G-CSF vs. Erythropoietin (EPO)</font></b>: G-CSF stimulates <b>neutrophil</b> production (innate); EPO stimulates <b>red blood cell</b> production.
 14. <b><font color="red">Cytotoxic T-cells (CTLs) vs. Natural Killer (NK) Cells</font></b>: CTLs require MHC presentation to recognize targets; NK cells kill targets specifically because they <b>lack</b> MHC I expression.
 15. <b><font color="red">MSI-H vs. dMMR</font></b>: MSI-H (High Microsatellite Instability) is the <b>phenotype/effect</b>; dMMR (deficient Mismatch Repair) is the <b>mechanism/cause</b>.
-```
+
 
 ## QA
-```code
+code
 ### <b><i style="color:red;">I. Overview of Immunologic Response</i></b>
 
 1. Describe the specificity of <b><font color="red">Innate Immunity</font></b>. | Non-specific; recognizes broad patterns (PAMPs).
@@ -579,12 +579,12 @@
 130. Contrast <b><font color="red">G-CSF vs. EPO</font></b> targets. | G-CSF: Neutrophils; EPO: Red blood cells.
 131. Contrast <b><font color="red">CTLs vs. NK Cells</font></b> recognition. | CTLs require MHC; NK cells kill if MHC is lacking.
 132. Compare <b><font color="red">MSI-H vs. dMMR</font></b> relationship. | MSI-H: Phenotype/effect; dMMR: Mechanism/cause.
-```
+
 
 ---
 # 3
 ## Summary
-```text
+text
 ### <b><i style="color:red;">I. Principles of Radiation Therapy & Physics</i></b>
 
 * <font color="red">Electromagnetic radiation</font> is a form of energy with no mass or charge that travels at the speed of light.
@@ -711,10 +711,10 @@
 * <font color="red">Vincristine vs. Paclitaxel</font>: Both cause neuropathy, but Vincristine prevents microtubule polymerization while Paclitaxel prevents depolymerization.
 * <font color="red">Ionization vs. Excitation</font>: Ionization removes an electron from an atom; Excitation merely moves it to a higher energy state.
 * <font color="red">Amsterdam vs. Bethesda (Context)</font>: While not in this text, remember Bethesda is more sensitive for MSI testing while Amsterdam is specific for Lynch Syndrome.
-```
+
 
 ## QA
-```text
+text
 ### <b><i style="color:red;">I. Principles of Radiation Therapy & Physics</i></b>
 
 1. Describe the mass and charge of <b><font color="red">Electromagnetic radiation</font></b>. | No mass or charge. <br>Travels at the speed of light.
@@ -882,12 +882,12 @@
 118. Which antibiotic is <b><font color="red">red</font></b> in color? | Doxorubicin.
 119. <b><font color="red">Topotecan</font></b> inhibits which Topoisomerase? | Topoisomerase I.
 120. <b><font color="red">Etoposide</font></b> inhibits which Topoisomerase? | Topoisomerase II.
-```
+
 
 ---
 # 4
 ## Summary
-```text
+text
 ### <b><i style="color:red;">I. General Principles of Lower Genital Tract Intraepithelial Neoplasia (LGTIN)</i></b>
 
 * **<font color="red">Lower Genital Tract Intraepithelial Neoplasia (LGTIN)</font>** refers to a group of premalignant epithelial lesions characterized by dysplastic cellular changes confined to the epithelium of the cervix, vagina, and vulva without invasion of the basement membrane.
@@ -1022,10 +1022,10 @@
 * **<font color="red">Pregnancy vs. Non-pregnancy CIN Management</font>**: In pregnancy, CIN is usually managed expectantly and ECC is contraindicated; postpartum, many low-grade lesions regress.
 * **<font color="red">Bivalent vs. Quadrivalent Vaccine</font>**: Bivalent (16, 18) only covers cancer-causing types, whereas Quadrivalent (6, 11, 16, 18) covers both cancer and genital warts.
 * **<font color="red">Cytology Sensitivity vs. HPV Testing</font>**: Standard Pap smear has lower sensitivity (~51%) compared to HR-HPV testing, leading to the preference for HPV testing in modern screening.
-```
+
 
 ## QA
-```text
+text
 ### <b><i style="color:red;">I. General Principles of LGTIN</i></b>
 
 1. Describe <b><font color="red">Lower Genital Tract Intraepithelial Neoplasia (LGTIN)</font></b>. | Premalignant lesions with dysplastic changes.
@@ -1187,7 +1187,7 @@
 130. Management difference: <b><font color="red">Pregnancy vs Non-pregnancy CIN</font></b>? | Pregnancy: expectant management; ECC is contraindicated.
 131. Vaccine coverage: <b><font color="red">Bivalent vs Quadrivalent</font></b>? | Bivalent: cancer types; Quadrivalent: cancer + warts.
 132. Sensitivity: <b><font color="red">Cytology vs HR-HPV Testing</font></b>? | Cytology lower (~51%) than HR-HPV.
-```
+
 
 ---
 # 5
