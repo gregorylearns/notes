@@ -10,6 +10,7 @@
     - [3b](04_IM/3rd_Shifting/3b.md)
     - [3c](04_IM/3rd_Shifting/3c.md)
 - [05-SURG](05_SURG/README.md)
+    - [7th Shifting](05_SURG/SURG_7th_Shift.md)
 - [06-ST](06_ST/README.md)
     - [ST-REHAB](06_ST/4th_Shifting_-_Rehab.md)
 - [08-PEDIA](08_PEDIA/README.md)

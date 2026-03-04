@@ -1162,7 +1162,7 @@ text
 
 
 
-# 3
+# 4.3
 ## Summary
 text
 ### NEISSERIA GONORRHOEAE (GONOCOCCUS)
@@ -1431,7 +1431,7 @@ text
 
 
 
-# 4
+# 4.4
 ## Summary
 text
 ### FUNGAL INFECTIONS
