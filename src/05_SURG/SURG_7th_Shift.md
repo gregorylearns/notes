@@ -1,6 +1,6 @@
 # 1 - clinical plastic surgery
 ## Summary
-```text
+text
 ### <b><i style="color:red;">I. Definitions and General Principles</i></b>
 
 * <font color="red">"Plastikos"</font> is the Greek origin of the word plastic, meaning "to mold," referring to the ability to modify an object's shape without destruction.
@@ -137,9 +137,9 @@
 * <font color="red">Maceration vs. Desiccation</font>: <b><font color="red">Maceration</font></b> is tissue breakdown from too much moisture; <b><font color="red">Desiccation</font></b> is tissue death from a wound bed that is too dry.
 * <font color="red">Alginate vs. Hydrogel</font>: <b><font color="red">Alginates</font></b> absorb heavy exudate; <b><font color="red">Hydrogels</font></b> add moisture to dry beds.
 * <font color="red">Type I vs. Type III Collagen</font>: <b><font color="red">Type III</font></b> is laid down first during proliferation; <b><font color="red">Type I</font></b> is the stronger collagen used in the remodeling/scar maturation phase.
-```
+
 ## QA
-```text
+text
 ### <b><i style="color:red;">I. Definitions and General Principles</i></b>
 1. What is the Greek origin and meaning of the word <b><font color="red">Plastikos</font></b>? | "To mold" <br>Refers to the ability to modify an object's shape without destruction.
 2. What is the focus of the subspecialty <b><font color="red">Plastic Surgery</font></b>? | Restore function and form <br>Uses reconstructive and aesthetic methods.
@@ -242,11 +242,11 @@
 77. Compare <b><font color="red">Maceration vs. Desiccation</font></b> causes. | Excess moisture vs. Dryness <br>Maceration: breakdown; Desiccation: tissue death.
 78. Compare <b><font color="red">Alginate vs. Hydrogel</font></b> moisture. | Alginate: absorbs; Hydrogel: adds <br>Alginates are for heavy exudate; Hydrogels are for dry beds.
 79. Compare <b><font color="red">Type I vs. Type III Collagen</font></b> sequence. | Type III: first; Type I: remodeling <br>Type I is stronger and marks scar maturation.
-```
+
 
 # 2 - Aesthetic Surgery
 ## Summary
-```text
+text
 ### <b><i style="color:red;">I. General Principles of Aesthetic Surgery</i></b>
 
 *   The primary goal of <b><font color="red">Aesthetic Surgery</font></b> (also known as cosmetic surgery) is to reshape normal body structures to improve appearance and self-esteem.
@@ -344,9 +344,9 @@
 *   Distinguish <b><font color="red">Facelift Vectors</font></b>: SMAS tightening should follow an oblique/upward vector (toward cheekbones), not a horizontal/backward vector.
 *   Distinguish <b><font color="red">Areola Size</font></b>: An aesthetically pleasing areola is 4–6 cm in diameter; larger areolas are corrected via specialized incisions during mastopexy.
 *   Distinguish <b><font color="red">Hematoma Management</font></b>: Use COLD compress for the first 48 hours (vasoconstriction); use WARM compress after 72 hours (vasodilation to absorb fluid).
-```
+
 ## QA
-```text
+text
 ### <b><i style="color:red;">I. General Principles of Aesthetic Surgery</i></b>
 
 1. What is the primary goal of <b><font color="red">Aesthetic Surgery</font></b>? | Reshape normal structures
@@ -454,11 +454,11 @@
 85. What is the correct vector for <b><font color="red">SMAS tightening</font></b> in a Facelift? | Oblique/upward vector
 86. What is the aesthetically pleasing diameter for an <b><font color="red">Areola</font></b>? | 4–6 cm
 87. Contrast the timing of cold vs warm compress for <b><font color="red">Hematoma Management</font></b>. | Cold (48h); Warm (72h)
-```
+
 
 # 3 - Basic Neuroradiology and Neurosurgery
 ## Summary
-```text
+text
 ### <b><i style="color:red;">I. Fundamentals of Neuroradiology</i></b>
 
 | Feature | <font color="red">CT Scan</font> | <font color="red">MRI</font> |
@@ -553,9 +553,9 @@
 *   Contrast <font color="red">Vasopressors in TSI</font>: Fluid resuscitation is 1st line; **Norepinephrine** is preferred over others to maintain MAP.
 *   Contrast <font color="red">Dermabrasion vs. Microdermabrasion</font>: Dermabrasion reaches the dermis for acne scars; microdermabrasion only removes dead skin via suction.
 *   Contrast <font color="red">Standard vs. Fleur-de-lis Abdominoplasty</font>: Fleur-de-lis adds a **vertical** incision to address massive weight loss skin excess.
-```
+
 ## QA
-```text
+text
 ### <b><i style="color:red;">I. Fundamentals of Neuroradiology</i></b>
 
 1. Compare the Primary Parameter of <b><font color="red">CT Scan</font></b> vs. <b><font color="red">MRI</font></b>. | Density vs. Intensity
@@ -644,5 +644,5 @@
 66. Comparison of <b><font color="red">Vasopressors in TSI</font></b>. | Norepinephrine preferred to maintain MAP
 67. Contrast <b><font color="red">Dermabrasion vs. Microdermabrasion</font></b>. | Dermis depth vs. dead skin suction
 68. Contrast <b><font color="red">Standard vs. Fleur-de-lis Abdominoplasty</font></b>. | Standard vs. 추가 (vertical) incision
-```
+
 
