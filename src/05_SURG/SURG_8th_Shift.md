@@ -1,6 +1,6 @@
 # 8.1
 # Summary
-```text
+text
 | COMPARISON OF ACYANOTIC VS. CYANOTIC HEART DISEASE |
 | :--- | :--- |
 | **Feature** | **Details** |
@@ -81,10 +81,10 @@
 | • <span style="color:red">**Fixed Split S2 vs. Machinery Murmur**</span>: A fixed split S2 is the hallmark of **ASD**; a continuous machinery murmur is the hallmark of **PDA**. |
 | • <span style="color:red">**Parvus et tardus vs. Bounding Pulse**</span>: Parvus et tardus (weak and late) is found in **Aortic Stenosis**; bounding pulses with wide pulse pressure are characteristic of **PDA** or **Aortic Regurgitation**. |
 | • <span style="color:red">**D-TGA vs. L-TGA**</span>: D-TGA is the common cyanotic type (VA discordance); L-TGA is "physiologically corrected" (both AV and VA discordance) but prone to later RV failure. |
-```
+
 
 # QA
-```text
+text
 1. Describe the mechanism of <b><font color="red">Acyanotic Heart Disease</font></b>. | Simple/single lesions with left-to-right shunts or obstructive lesions.
 2. Describe the mechanism of <b><font color="red">Cyanotic Heart Disease</font></b>. | Complex lesions with right-to-left shunts, common mixing, or parallel circulations.
 3. What is the laboratory threshold for clinical <b><font color="red">Cyanosis</font></b> in terms of hemoglobin? | Capillary reduced hemoglobin >5gm %.
@@ -188,7 +188,7 @@
 101. What findings (2) occur in <b><font color="red">Aortic Stenosis (AS)</font></b>? | 1) LVH on ECG <br>2) Crescendo-decrescendo murmur.
 102. Where does <b><font color="red">Coarctation of the Aorta (COA)</font></b> typically occur? | Distal to the Left Subclavian Artery.
 103. What are the key findings (2) for <b><font color="red">Patent Ductus Arteriosus (PDA)</font></b> examination? | 1) Bounding pulses <br>2) Continuous machinery murmur.
-```
+
 
 ___
 
