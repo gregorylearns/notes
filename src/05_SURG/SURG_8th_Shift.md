@@ -1,7 +1,7 @@
 # 8.1
 # Summary
 
-| COMPARISON OF ACYANOTIC VS. CYANOTIC HEART DISEASE |
+| COMPARISON OF ACYANOTIC VS. CYANOTIC HEART DISEASE | |
 | :--- | :--- |
 | **Feature** | **Details** |
 | **Mechanism** | <span style="color:red">**Acyanotic Heart Disease**</span> involves simple/single lesions with left-to-right shunts or obstructive lesions. <span style="color:red">**Cyanotic Heart Disease**</span> involves complex lesions with right-to-left shunts, common mixing, or parallel circulations. |
@@ -9,7 +9,7 @@
 | **Incidence** | <span style="color:red">**Congenital Heart Disease (CHD)**</span> occurs in 8 out of every 1000 live births. |
 
 
-| SUMMARY OF COMMON CONGENITAL HEART DEFECTS |
+| SUMMARY OF COMMON CONGENITAL HEART DEFECTS | | | |
 | :--- | :--- | :--- | :--- |
 | **Disease Entity** | **Key Pathophysiology** | **Diagnostic Findings** | **Management / Treatment** |
 | <span style="color:red">**Atrial Septal Defect (ASD)**</span> | Left to right shunt; <span style="color:red">**Ostium secundum**</span> is the most common type (80%). | **Fixed splitting of S2**; RV heave; 2D Echo shows shunt. | Surgery indicated if **Qp:Qs > 1.5:1**; Transcatheter closure requires 5mm rim. |
@@ -20,7 +20,7 @@
 | <span style="color:red">**Transposition of Great Arteries (TGA)**</span> | Parallel circulation; VA discordance; LV atrophies if not corrected early. | **"Egg-shaped"** heart on CXR; Cyanosis at birth. | **Arterial Switch (Jatene)** ideally within 2-3 weeks; Senning/Mustard (Atrial repair). |
 
 
-| PALLIATION STAGES FOR SINGLE VENTRICLE PHYSIOLOGY |
+| PALLIATION STAGES FOR SINGLE VENTRICLE PHYSIOLOGY | | |
 | :--- | :--- | :--- |
 | **Stage** | **Procedure Name** | **Key Mechanism/Timing** |
 | **Stage 1** | <span style="color:red">**Norwood Procedure**</span> or <span style="color:red">**BTS**</span> | Establishes systemic/pulmonary flow in neonates (e.g., HLHS or Tricuspid Atresia). |
