@@ -1,6 +1,6 @@
 # 8.1
 # Summary
-text
+
 | COMPARISON OF ACYANOTIC VS. CYANOTIC HEART DISEASE |
 | :--- | :--- |
 | **Feature** | **Details** |
