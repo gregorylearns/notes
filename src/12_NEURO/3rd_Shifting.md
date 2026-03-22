@@ -261,6 +261,7 @@ DISTINGUISHING ENTITIES & TIPS
 # 2
 ## Summary
 text
+
 | TOPIC | PATHOGENESIS | CLINICAL MANIFESTATIONS | DIAGNOSIS | TREATMENT |
 | :--- | :--- | :--- | :--- | :--- |
 | <span style="color:red">**Amyotrophic Lateral Sclerosis (ALS)**</span> | Death of both <font color="red">LMN</font> and <font color="red">UMN</font>; <font color="red">ubiquitin aggregates</font> and <font color="red">TDP43</font> are found in neurons. | Progressive asymmetric distal weakness, <font color="red">fasciculations</font>, and <font color="red">pseudobulbar affect</font>; spares ocular motility and bowel/bladder. | Simultaneous UMN and LMN involvement; <font color="red">Definite ALS</font> requires 3 out of 4 body regions involved. | <font color="red">Riluzole</font> (prolongs survival) and <font color="red">Edaravone</font> (slows worsening); supportive care is mainstay. |
