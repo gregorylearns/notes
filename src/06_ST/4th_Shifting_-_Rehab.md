@@ -1100,3 +1100,252 @@ text
 48. What is the required verbal command for <b><font color="red">Instructions</font></b>? | "Hold, don't let me move you."
 49. When do you transition to a <b><font color="red">Gravity Reduced</font></b> position? | Cannot perform against gravity.
 50. What is the purpose of <b><font color="red">Palpation</font></b> in the gravity-reduced position? | Distinguish Grade 1 from 0.
+
+
+
+# 4 - Exercise Prescription
+## Summary
+
+text
+
+| TOPIC | ASPECT | DETAILS |
+| :--- | :--- | :--- |
+| **Non-Communicable Diseases (NCDs)** | **Mortality Impact** | Accounted for 60% of deaths in 2005 and 73% of deaths in 2020. |
+| **Leading Causes of Death** | **Historical Shift** | Shifted from infectious (TB, Pneumonia, Diarrhea in 1900) to chronic (Heart disease, Cancer, Stroke in 2005). |
+| **Common Filipino Risk Factors** | **Prevalence** | 90% of Filipinos have ≥1 risk factor: Physical inactivity (60.5%), Smoking (34.8%), Hypertension (22.5%). |
+| **Metabolic Syndrome (CAD Risks)** | **Defining Levels** | WC >102cm (M) / >88cm (W); TG ≥150; HDL <40 (M) / <50 (W); BP ≥130/85; FBG ≥110 mg/dL. |
+| **Prevention Levels** | **Definitions** | Primary (preventing onset), Secondary (decreasing severity/duration), Tertiary (rehab for chronic/irreversible disease). |
+| **Total Fitness & Wellness** | **Components** | Complete physical, mental, social, and spiritual well-being; includes financial and emotional health. |
+| **Muscle Fiber Types** | **I vs IIA vs IIB** | Type I (Slow-twitch/Oxidative/Aerobic) vs Type II (Fast-twitch/Glycolytic/Anaerobic). |
+| **Exercise Physiology** | **Gears Model** | Interaction between three "gears": Muscle (ATP/contraction), Heart/Blood (carrier), and Lungs (O2 supply). |
+| **Energy Sources** | **Substrate Use** | Order of use during aerobic exercise: 1. Carbohydrates (CHO), 2. Fats, 3. Proteins (last). |
+| **Ventilatory Thresholds** | **VT vs. RCP** | Lactate Threshold (VT) marks the onset of hyperventilation; RCP marks the point where blood becomes acidic. |
+| **Risk Stratification** | **ACSM Categories** | Low Risk (<2 risk factors), Moderate Risk (≥2 risk factors), High Risk (Known disease or signs/symptoms). |
+| **Exercise Prescription** | **FITT-P** | Frequency, Intensity, Time (Duration), Type, and Progression. |
+| **Intensity Measures** | **Calculation tools** | Max HR (220-age), Karvonen Formula (HRR), Borg RPE, METs, and the Talk Test. |
+| **Strengthening Goals** | **Training Focus** | Strength (high load/low reps), Hypertrophy (mid load/mid reps), Endurance (low load/high reps). |
+
+***
+
+### SITUATION & EPIDEMIOLOGY (FILIPINO CONTEXT)
+
+- In the Philippines, <font color="red">**Non-Communicable Diseases (NCDs) or lifestyle-related diseases**</font> are the most common cause of morbidity and mortality as of 2020.
+- <font color="red">**Physical inactivity**</font> is the most prevalent risk factor for NCDs in the Philippines, affecting 60.5% of the population.
+- <font color="red">**Heart disease, cancer, and stroke**</font> currently represent the top three leading causes of death, replacing the infectious diseases prominent in the 1900s.
+- <font color="red">**Hypertension and Diseases of the Heart**</font> are the top two leading causes of morbidity in the Philippines.
+- <font color="red">**Metabolic syndrome**</font> increases the risk for coronary artery disease and is identified via abdominal circumference, lipid profile, blood pressure, and glucose levels.
+
+### THE THREE LEVELS OF PREVENTION
+
+- <font color="red">**Primary Prevention**</font> (Topic: Prevention) aims at preventing a target problem or condition in an individual or community at risk (e.g., exercise, vaccination).
+- <font color="red">**Secondary Prevention**</font> (Topic: Prevention) focuses on decreasing the duration and severity of a disease once it has occurred.
+- <font color="red">**Tertiary Prevention**</font> (Topic: Prevention) involves rehabilitation and decreasing the degree of disability for individuals with chronic or irreversible diseases.
+- <font color="red">**Rehabilitation**</font> (Topic: Prevention) is specifically classified as a tertiary prevention measure.
+
+### EXERCISE PHYSIOLOGY & ENERGY SYSTEMS
+
+- <font color="red">**Muscle contraction**</font> (Topic: Exercise Physiology) requires ATP for actin and myosin to glide over each other, a process facilitated by Myosin ATPase.
+- <font color="red">**Stored ATP**</font> (Topic: Energy Sources) in the muscle is limited (about 4-6 ATPs), providing only enough energy for initial anaerobic bursts like sprinting.
+- <font color="red">**Lactic acidosis**</font> (Topic: Metabolism) occurs when pyruvate cannot be converted into Acetyl Coenzyme A (due to O2 lack) and is instead converted into lactate, causing muscle soreness.
+- <font color="red">**Isocapnic buffering**</font> (Topic: Metabolism) is the point during exercise where lactate is buffered by bicarbonate (HCO3-), resulting in exhaled CO2.
+- <font color="red">**Respiratory Compensation Point (RCP)**</font> (Topic: Metabolism) is reached when bicarbonate stores are exhausted, leading to increased acidity and the inability to continue exercise.
+- <font color="red">**Aerobic Metabolism**</font> (Topic: Metabolism) substrates are utilized in the following order: Carbohydrates first, then Fats, and Proteins last.
+
+### MUSCLE FIBER TYPE CHARACTERISTICS
+
+- <font color="red">**Slow-Twitch (Type I/ST)**</font> fibers are oxidative, have high capillary/mitochondrial density, high resistance to fatigue, and are used primarily for aerobic activities.
+- <font color="red">**Fast-Twitch B (Type IIB/FT-B)**</font> fibers are glycolytic, have very fast contraction times, low resistance to fatigue, and are used for short-term anaerobic activity (sprinting).
+- <font color="red">**Fast-Twitch A (Type IIA/FT-A)**</font> fibers are intermediate, used for long-term anaerobic activities, and possess intermediate resistance to fatigue.
+- <font color="red">**Marathoners**</font> (Topic: Muscle Training) typically develop Type I (Slow-twitch) lean muscles, whereas sprinters develop bulky Type II (Fast-twitch) muscles.
+
+### CLINICAL SCREENING & THE PAR-Q
+
+- <font color="red">**Sudden Cardiac Death (SCD)**</font> (Topic: Exercise Risk) risk increases transiently and acutely in individuals with diagnosed or occult cardiovascular disease during vigorous exercise.
+- <font color="red">**The Physical Activity Readiness Questionnaire (PAR-Q)**</font> (Topic: Screening) is a 7-item screening tool where an answer of "YES" to any question requires seeing an EIM certified specialist.
+- <font color="red">**PAR-Q Questions**</font> (Topic: Screening) include:
+    1.  Heart condition diagnosis/doctor restriction.
+    2.  Current meds for BP or heart.
+    3.  Chest/neck/jaw pain during activity or rest.
+    4.  Shortness of breath with mild exertion.
+    5.  Frequent fatigue/drowsiness without activity.
+    6.  Rapid weight loss without extreme hunger.
+    7.  Bone/joint pain increasing with movement.
+    8.  Other known reasons not to exercise.
+- <font color="red">**Common findings against ischemic origin chest pain**</font> (Topic: Cardiac S/Sx) include sharp, knifelike, or stabbing pain, or pain occurring after the completion of exercise rather than during.
+- <font color="red">**Common findings favoring ischemic origin chest pain**</font> (Topic: Cardiac S/Sx) include constricting/burning sensations located substernally and provoked by exertion or stress.
+- <font color="red">**Intermittent claudication**</font> (Topic: Vascular S/Sx) is muscle pain (usually calf) occurring during exercise due to inadequate blood supply (atherosclerosis), which disappears within 1-2 mins of rest.
+
+### ACSM RISK STRATIFICATION
+
+- <font color="red">**CAD Positive Risk Factors**</font> (Topic: Risk Stratification):
+    *   **Age**: Men ≥45, Women ≥55.
+    *   **Family History**: MI/SCD in male first-degree relative <55 y/o or female <65 y/o.
+    *   **Smoking**: Current or quit within last 6 months.
+    *   **Sedentary**: <30 mins moderate exercise, 3 days/week, for 3 months.
+    *   **Obesity**: BMI ≥27.5 or WC ≥90cm (M) / ≥80cm (W) [Asia-Pacific].
+    *   **Hypertension**: ≥140/90 mmHg or on meds.
+    *   **Hypercholesterolemia**: TC ≥5.2 mmol/L, LDL ≥3.4 mmol/L, or HDL <1.0 mmol/L.
+    *   **Prediabetes**: Fasting glucose ≥6.1 mmol/L.
+- <font color="red">**Negative Risk Factor**</font> (Topic: Risk Stratification): High serum HDL (≥1.6 mmol/L) allows the subtraction of one risk factor from the total score.
+- <font color="red">**Low Risk Category**</font> (Topic: ACSM Classification): Individuals with <2 risk factors and no signs/symptoms/diagnosed disease; they can start any intensity without supervision.
+- <font color="red">**Moderate Risk Category**</font> (Topic: ACSM Classification): Individuals with ≥2 risk factors but no signs/symptoms; safe for light/moderate exercise, but medical clearance is needed for vigorous exercise.
+- <font color="red">**High Risk Category**</font> (Topic: ACSM Classification): Individuals with ≥1 sign/symptom or diagnosed cardiovascular, pulmonary, or metabolic disease; requires medical clearance and clinical supervision for any intensity.
+
+### EXERCISE PRESCRIPTION (FITT-P)
+
+- <font color="red">**Frequency**</font> (Topic: Aerobics) should be 5x a week for aerobics (150-300 mins total).
+- <font color="red">**Target Heart Rate (Karvonen)**</font> (Topic: Intensity): `Target HR = [(220 - Age - Resting HR) x %Intensity] + Resting HR`.
+- <font color="red">**Borg Rating of Perceived Exertion (RPE)**</font> (Topic: Intensity) correlates with heart rate; "Somewhat Hard" (12-14) is moderate, while "Hard" (15-16) and above is high intensity.
+- <font color="red">**The Talk Test**</font> (Topic: Intensity) defines moderate intensity as being able to talk but not sing during the activity.
+- <font color="red">**Metabolic Equivalent (MET)**</font> (Topic: Intensity) defines 1 MET as 3.5 mL/kg/min O2 uptake or 1 kcal/kg/hour (sitting quietly).
+- <font color="red">**Progression**</font> (Topic: FITT-P) typically follows a 4-to-6-week cycle where intensity or duration is adjusted.
+- <font color="red">**Reversibility**</font> (Topic: Exercise Principles) states that benefits are lost if exercise stops for 2 weeks; the individual may become heavier than before.
+- <font color="red">**Hypertension Contraindication**</font> (Topic: Exercise Safety): Patients with resting SBP ≥200 mmHg or DBP ≥110 mmHg should NOT undergo exercise testing or exercise until blood pressure is controlled.
+
+### STRENGTHENING PARAMETERS
+
+- <font color="red">**Strength Training**</font> (Topic: Muscle Goals) focuses on high load (>85% of 1RM), low repetitions (1-5 reps), and long recovery (3-5 mins).
+- <font color="red">**Hypertrophy Training**</font> (Topic: Muscle Goals) focuses on moderate weight (67-85% of 1RM), moderate reps (6-12), and 1-2 mins recovery.
+- <font color="red">**Endurance Training**</font> (Topic: Muscle Goals) focuses on low load (<67% of 1RM), high repetitions (12+), and short recovery (30-60 seconds).
+- <font color="red">**10-Repetition Maximum (10RM)**</font> (Topic: Strengthening) is the maximum weight a patient can lift exactly 10 times with proper form, commonly used in rehabilitation.
+
+***
+
+### DIFFERENTIATING DISEASE ENTITIES AND CONCEPTS
+
+1. <font color="red">**Aerobic vs. Anaerobic Thresholds**</font>: Aerobic threshold (VT/Lactate threshold) is the upper limit for light intensity where the patient can talk/sing; Anaerobic threshold (RCP) is the point of lactic acidosis where the patient must stop due to breathlessness and acidity.
+2. <font color="red">**Type I vs. Type IIB Muscle Fibers**</font>: Type I (Slow-twitch) is designed for endurance/marathons with high mitochondrial density and low fatigue; Type IIB (Fast-twitch) is designed for power/sprinting with high glycolytic capacity and low capillary density.
+3. <font color="red">**Moderate vs. High ACSM Risk**</font>: Moderate risk is defined solely by having 2+ risk factors with no symptoms; High risk is defined by the presence of at least one symptom OR a known diagnosed disease (even if well-controlled).
+4. <font color="red">**Ischemic vs. Non-Ischemic Chest Pain**</font>: Ischemic pain feels like "heaviness" or "burning" and occurs during exertion; Non-ischemic pain feels "knifelike" or "stabbing" and often occurs after exercise or with specific body movements.
+5. <font color="red">**Orthopnea vs. Paroxysmal Nocturnal Dyspnea (PND)**</font>: Orthopnea happens immediately upon lying down and is relieved by sitting; PND begins 2-5 hours after sleep onset and may be caused by LV dysfunction or COPD (COPD-related PND is relieved by clearing secretions).
+6. <font color="red">**Bilateral vs. Unilateral Ankle Edema**</font>: Bilateral edema is characteristic of heart failure or venous insufficiency; Unilateral edema suggests venous thrombosis or lymphatic blockage.
+7. <font color="red">**HIIT vs. Constant Workload Training**</font>: HIIT involves short stimulus phases (seconds/minutes) followed by recovery phases at lower intensities; Constant workload is continuous aerobic activity at a steady pace for 20-30 minutes.
+8. <font color="red">**Strengthening vs. Endurance Recovery**</font>: Strength training requires long recovery (3-5 mins) to replenish ATP; Endurance training requires short recovery (30-60 secs) to keep the muscle challenged.
+9. <font color="red">**METs vs. VO2**</font>: METs is the "language of cardiologists" expressing energy cost relative to sitting; VO2 is the "language of pulmonologists" expressing O2 uptake per minute.
+10. <font color="red">**Primary vs. Tertiary Prevention**</font>: Primary prevention (like vaccination or initial exercise) happens before disease; Tertiary prevention (rehab) happens after a chronic or irreversible disease is established to limit disability.
+11. <font color="red">**Isocapnic Buffering vs. Respiratory Compensation**</font>: Isocapnic buffering (Stage II) is when hyperventilation successfully maintains pH by blowing off CO2; Respiratory Compensation (Stage III) is when buffering fails and pH begins to fall.
+12. <font color="red">**1RM vs. 10RM**</font>: 1RM (Repetition Maximum) is the max weight for 1 lift (powerlifting focus); 10RM is the max weight for 10 lifts with form (rehab focus) to avoid injury.
+13. <font color="red">**VO2 Linear vs. VCO2 Steep Rise**</font>: VO2 (Oxygen consumption) remains linear because aerobic metabolism continues; VCO2 (CO2 production) rises steeply after the lactate threshold due to the combined CO2 from aerobic metabolism and bicarbonate buffering.
+14. <font color="red">**Metabolic Syndrome WC: Men vs. Women**</font>: For men, WC >102cm is the general cutoff; for women, WC >88cm is the cutoff (note: Asia-Pacific guidelines used in other tables define it as 90cm for M and 80cm for W).
+15. <font color="red">**Fast-Twitch A vs. Fast-Twitch B**</font>: Type IIA (FT-A) is "intermediate" with high oxidative capacity; Type IIB (FT-B) is "purely" glycolytic with low oxidative capacity and the fastest contraction time.
+
+
+## QA
+
+
+| Count | Question                                                                                                                          | Answer                                                                             |
+| :---- | :-------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
+|       | **SITUATION & EPIDEMIOLOGY**                                                                                                      |                                                                                    |
+| 1     | What percentage of deaths were accounted for by <b><font color="red">Non-Communicable Diseases (NCDs)</font></b> in 2005?         | 60%                                                                                |
+| 2     | What percentage of deaths were accounted for by <b><font color="red">Non-Communicable Diseases (NCDs)</font></b> in 2020?         | 73%                                                                                |
+| 3     | List the (3) historical leading causes of death in 1900.                                                                          | TB, Pneumonia, Diarrhea                                                            |
+| 4     | List the (3) chronic leading causes of death in 2005.                                                                             | Heart disease, Cancer, Stroke                                                      |
+| 5     | What percentage of Filipinos have at least one <b><font color="red">NCD risk factor</font></b>?                                   | 90%                                                                                |
+| 6     | What is the prevalence of <b><font color="red">Physical inactivity</font></b> among Filipinos?                                    | 60.5%                                                                              |
+| 7     | What is the prevalence of <b><font color="red">Smoking</font></b> among Filipinos?                                                | 34.8%                                                                              |
+| 8     | What is the prevalence of <b><font color="red">Hypertension</font></b> among Filipinos?                                           | 22.5%                                                                              |
+| 9     | What is the most common cause of morbidity and mortality in the Philippines as of 2020?                                           | <b><font color="red">Lifestyle-related diseases</font></b> (NCDs)                  |
+| 10    | What is the most prevalent risk factor for NCDs in the Philippines?                                                               | <b><font color="red">Physical inactivity</font></b>                                |
+| 11    | What are the top two leading causes of <b><font color="red">morbidity</font></b> in the Philippines?                              | Hypertension and <br>Diseases of the Heart                                         |
+| 12    | <b><font color="red">Metabolic syndrome</font></b> increases the risk for what specific condition?                                | Coronary artery disease                                                            |
+| 13    | List the (4) clinical markers used to identify <b><font color="red">Metabolic syndrome</font></b>.                                | Abdominal circumference, <br>Lipid profile, <br>Blood pressure, <br>Glucose levels |
+| 14    | What is the <b><font color="red">Metabolic Syndrome</font></b> cutoff for Waist Circumference in Men?                             | >102 cm                                                                            |
+| 15    | What is the <b><font color="red">Metabolic Syndrome</font></b> cutoff for Waist Circumference in Women?                           | >88 cm                                                                             |
+| 16    | What is the <b><font color="red">Metabolic Syndrome</font></b> cutoff for Triglycerides (TG)?                                     | ≥150 mg/dL                                                                         |
+| 17    | What is the <b><font color="red">Metabolic Syndrome</font></b> cutoff for HDL in Men?                                             | <40 mg/dL                                                                          |
+| 18    | What is the <b><font color="red">Metabolic Syndrome</font></b> cutoff for HDL in Women?                                           | <50 mg/dL                                                                          |
+| 19    | What is the <b><font color="red">Metabolic Syndrome</font></b> cutoff for Blood Pressure?                                         | ≥130/85 mmHg                                                                       |
+| 20    | What is the <b><font color="red">Metabolic Syndrome</font></b> cutoff for Fasting Blood Glucose (FBG)?                            | ≥110 mg/dL                                                                         |
+|       | **THE THREE LEVELS OF PREVENTION**                                                                                                |                                                                                    |
+| 21    | Define <b><font color="red">Primary Prevention</font></b>.                                                                        | Preventing onset of condition                                                      |
+| 22    | Define <b><font color="red">Secondary Prevention</font></b>.                                                                      | Decreasing duration and severity                                                   |
+| 23    | Define <b><font color="red">Tertiary Prevention</font></b>.                                                                       | Rehabilitation for chronic disease                                                 |
+| 24    | Examples (2) of <b><font color="red">Primary Prevention</font></b> include:                                                       | Exercise and Vaccination                                                           |
+| 25    | How is <b><font color="red">Rehabilitation</font></b> specifically classified in the levels of prevention?                        | Tertiary prevention                                                                |
+| 26    | What are the (6) components of <b><font color="red">Total Fitness & Wellness</font></b>?                                          | Physical, mental, social, <br>spiritual, financial, emotional                      |
+|       | **EXERCISE PHYSIOLOGY & ENERGY SYSTEMS**                                                                                          |                                                                                    |
+| 27    | What are the (3) components of the <b><font color="red">Gears Model</font></b> of exercise?                                       | Muscle, Heart/Blood, Lungs                                                         |
+| 28    | What is required for actin and myosin to glide during <b><font color="red">Muscle contraction</font></b>?                         | ATP                                                                                |
+| 29    | Which enzyme facilitates the use of ATP during muscle contraction?                                                                | <b><font color="red">Myosin ATPase</font></b>                                      |
+| 30    | How many ATPs are typically <b><font color="red">Stored</font></b> in the muscle?                                                 | 4-6 ATPs                                                                           |
+| 31    | Stored ATP provides energy for what type of activity?                                                                             | Initial anaerobic bursts (sprinting)                                               |
+| 32    | When does <b><font color="red">Lactic acidosis</font></b> occur?                                                                  | Pyruvate converted to lactate                                                      |
+| 33    | What causes the conversion of pyruvate to lactate instead of Acetyl CoA?                                                          | Lack of Oxygen (O2)                                                                |
+| 34    | Define <b><font color="red">Isocapnic buffering</font></b>.                                                                       | Lactate buffered by bicarbonate                                                    |
+| 35    | What is the byproduct of buffering lactate with bicarbonate (HCO3-)?                                                              | Exhaled CO2                                                                        |
+| 36    | <b><font color="red">Respiratory Compensation Point (RCP)</font></b> is reached when what stores are exhausted?                   | Bicarbonate stores                                                                 |
+| 37    | What happens to blood pH when the <b><font color="red">Respiratory Compensation Point (RCP)</font></b> is reached?                | Increased acidity                                                                  |
+| 38    | What is the order of <b><font color="red">Aerobic Metabolism</font></b> substrate use?                                            | 1. Carbohydrates, 2. Fats, 3. Proteins                                             |
+|       | **MUSCLE FIBER TYPE CHARACTERISTICS**                                                                                             |                                                                                    |
+| 39    | Describe the metabolism of <b><font color="red">Slow-Twitch (Type I)</font></b> fibers.                                           | Oxidative / Aerobic                                                                |
+| 40    | Describe the fatigue resistance of <b><font color="red">Slow-Twitch (Type I)</font></b> fibers.                                   | High resistance                                                                    |
+| 41    | Describe the metabolism of <b><font color="red">Fast-Twitch B (Type IIB)</font></b> fibers.                                       | Glycolytic / Anaerobic                                                             |
+| 42    | Describe the contraction speed of <b><font color="red">Fast-Twitch B (Type IIB)</font></b> fibers.                                | Very fast                                                                          |
+| 43    | Describe <b><font color="red">Fast-Twitch A (Type IIA)</font></b> fibers.                                                         | Intermediate / Long-term anaerobic                                                 |
+| 44    | Which muscle fiber type is bulky and used by <b><font color="red">Sprinters</font></b>?                                           | Type II (Fast-twitch)                                                              |
+| 45    | Which muscle fiber type is lean and used by <b><font color="red">Marathoners</font></b>?                                          | Type I (Slow-twitch)                                                               |
+|       | **CLINICAL SCREENING & THE PAR-Q**                                                                                                |                                                                                    |
+| 46    | When does the risk of <b><font color="red">Sudden Cardiac Death (SCD)</font></b> increase transiently?                            | During vigorous exercise                                                           |
+| 47    | How many items are in the <b><font color="red">Physical Activity Readiness Questionnaire (PAR-Q)</font></b>?                      | 7 items                                                                            |
+| 48    | What is required if a person answers "YES" to any <b><font color="red">PAR-Q</font></b> question?                                 | See EIM certified specialist                                                       |
+| 49    | <b><font color="red">PAR-Q</font></b> Q1 asks about:                                                                              | Heart condition/doctor restriction                                                 |
+| 50    | <b><font color="red">PAR-Q</font></b> Q2 asks about meds for:                                                                     | Blood pressure or heart                                                            |
+| 51    | <b><font color="red">PAR-Q</font></b> Q3 asks about pain in:                                                                      | Chest, neck, or jaw                                                                |
+| 52    | <b><font color="red">PAR-Q</font></b> Q4 asks about <b><font color="red">Shortness of breath</font></b> with:                     | Mild exertion                                                                      |
+| 53    | <b><font color="red">PAR-Q</font></b> Q5 asks about:                                                                              | Fatigue/drowsiness without activity                                                |
+| 54    | <b><font color="red">PAR-Q</font></b> Q6 asks about:                                                                              | Rapid weight loss                                                                  |
+| 55    | <b><font color="red">PAR-Q</font></b> Q7 asks about:                                                                              | Bone or joint pain                                                                 |
+| 56    | Describe the sensation of <b><font color="red">Ischemic origin chest pain</font></b>.                                             | Constricting or burning                                                            |
+| 57    | Where is <b><font color="red">Ischemic origin chest pain</font></b> typically located?                                            | Substernally                                                                       |
+| 58    | What provokes <b><font color="red">Ischemic origin chest pain</font></b>?                                                         | Exertion or stress                                                                 |
+| 59    | List (3) descriptors for <b><font color="red">Non-Ischemic chest pain</font></b>.                                                 | Sharp, knifelike, or stabbing                                                      |
+| 60    | When does <b><font color="red">Non-ischemic chest pain</font></b> often occur relative to exercise?                               | After completion                                                                   |
+| 61    | Define <b><font color="red">Intermittent claudication</font></b>.                                                                 | Exercise-induced calf pain                                                         |
+| 62    | What is the cause of <b><font color="red">Intermittent claudication</font></b>?                                                   | Inadequate blood supply/Atherosclerosis                                            |
+| 63    | How long does it take for <b><font color="red">Intermittent claudication</font></b> to disappear with rest?                       | 1-2 minutes                                                                        |
+|       | **ACSM RISK STRATIFICATION**                                                                                                      |                                                                                    |
+| 64    | What are the <b><font color="red">CAD Risk Factors</font></b> for Age (Men and Women)?                                            | Men ≥45; Women ≥55                                                                 |
+| 65    | What defines <b><font color="red">Family History</font></b> as a CAD risk factor?                                                 | MI/SCD in relative (M<55, F<65)                                                    |
+| 66    | What define <b><font color="red">Smoking</font></b> as a risk factor?                                                             | Current or quit <6 months                                                          |
+| 67    | What defines a <b><font color="red">Sedentary</font></b> lifestyle?                                                               | <30m mod exercise, 3d/wk, 3mo                                                      |
+| 68    | What is the <b><font color="red">Obesity</font></b> risk factor (BMI and Asia-Pacific WC)?                                        | BMI ≥27.5; WC M≥90cm, F≥80cm                                                       |
+| 69    | What is the <b><font color="red">Hypertension</font></b> risk factor cutoff?                                                      | ≥140/90 mmHg or on meds                                                            |
+| 70    | What is the <b><font color="red">Hypercholesterolemia</font></b> risk factor for total cholesterol (TC)?                          | ≥5.2 mmol/L                                                                        |
+| 71    | What is the <b><font color="red">Hypercholesterolemia</font></b> risk factor for LDL?                                             | ≥3.4 mmol/L                                                                        |
+| 72    | What is the <b><font color="red">Hypercholesterolemia</font></b> risk factor for HDL?                                             | <1.0 mmol/L                                                                        |
+| 73    | What is the <b><font color="red">Prediabetes</font></b> risk factor cutoff (Fasting glucose)?                                     | ≥6.1 mmol/L                                                                        |
+| 74    | What is the only <b><font color="red">Negative Risk Factor</font></b>?                                                            | HDL ≥1.6 mmol/L                                                                    |
+| 75    | How do you calculate the score using the <b><font color="red">Negative Risk Factor</font></b>?                                    | Subtract one (1) risk factor                                                       |
+| 76    | Define the <b><font color="red">Low Risk Category</font></b>.                                                                     | <2 risk factors, no Sx                                                             |
+| 77    | Define the <b><font color="red">Moderate Risk Category</font></b>.                                                                | ≥2 risk factors, no Sx                                                             |
+| 78    | When is medical clearance needed for the <b><font color="red">Moderate Risk Category</font></b>?                                  | Before vigorous exercise                                                           |
+| 79    | Define the <b><font color="red">High Risk Category</font></b>.                                                                    | ≥1 symptom or known disease                                                        |
+| 80    | What is required for the <b><font color="red">High Risk Category</font></b> before any exercise?                                  | Medical clearance/clinical supervision                                             |
+|       | **EXERCISE PRESCRIPTION (FITT-P)**                                                                                                |                                                                                    |
+| 81    | What does <b><font color="red">FITT-P</font></b> stand for?                                                                       | Frequency, Intensity, Time, Type, Progression                                      |
+| 82    | What is the recommended <b><font color="red">Frequency</font></b> for aerobic exercise?                                           | 5x a week                                                                          |
+| 83    | How is <b><font color="red">Max Heart Rate</font></b> estimated?                                                                  | 220 - Age                                                                          |
+| 84    | Write the <b><font color="red">Karvonen Formula</font></b> for Target Heart Rate.                                                 | [(220-Age-RHR) x %Intensity] + RHR                                                 |
+| 85    | What <b><font color="red">Borg RPE</font></b> range corresponds to "Moderate" intensity?                                          | 12-14 (Somewhat Hard)                                                              |
+| 86    | What <b><font color="red">Borg RPE</font></b> range corresponds to "High" intensity?                                              | 15-16 (Hard) and above                                                             |
+| 87    | Describe the <b><font color="red">Talk Test</font></b> for moderate intensity.                                                    | Talk but not sing                                                                  |
+| 88    | Define 1 <b><font color="red">Metabolic Equivalent (MET)</font></b> in O2 uptake.                                                 | 3.5 mL/kg/min                                                                      |
+| 89    | Define 1 <b><font color="red">Metabolic Equivalent (MET)</font></b> in energy cost.                                               | 1 kcal/kg/hour                                                                     |
+| 90    | What is the typical <b><font color="red">Progression</font></b> cycle duration?                                                   | 4-to-6 weeks                                                                       |
+| 91    | Define the principle of <b><font color="red">Reversibility</font></b>.                                                            | Benefits lost after 2 weeks                                                        |
+| 92    | List <b><font color="red">Hypertension Contraindications</font></b> for exercise testing.                                         | SBP ≥200 or DBP ≥110 mmHg                                                          |
+|       | **STRENGTHENING PARAMETERS**                                                                                                      |                                                                                    |
+| 93    | What are the parameters for <b><font color="red">Strength Training</font></b>?                                                    | >85% 1RM, 1-5 reps, 3-5m rest                                                      |
+| 94    | What are the parameters for <b><font color="red">Hypertrophy Training</font></b>?                                                 | 67-85% 1RM, 6-12 reps, 1-2m rest                                                   |
+| 95    | What are the parameters for <b><font color="red">Endurance Training</font></b>?                                                   | <67% 1RM, 12+ reps, 30-60s rest                                                    |
+| 96    | Define <b><font color="red">10-Repetition Maximum (10RM)</font></b>.                                                              | Max weight lifted 10 times                                                         |
+|       | **DIFFERENTIATING CONCEPTS**                                                                                                      |                                                                                    |
+| 97    | Compare the <b><font color="red">Aerobic Threshold (VT)</font></b> vs. <b><font color="red">Anaerobic Threshold (RCP)</font></b>. | VT: onset of hyperventilation. <br>RCP: acidic blood / must stop                   |
+| 98    | Contrast <b><font color="red">Moderate Risk</font></b> vs. <b><font color="red">High Risk</font></b> categories.                  | Moderate: ≥2 risk factors. <br>High: Symptoms/Known disease                        |
+| 99    | Compare <b><font color="red">Orthopnea</font></b> vs. <b><font color="red">Paroxysmal Nocturnal Dyspnea (PND)</font></b> timing.  | Orthopnea: immediate upon lying. <br>PND: 2-5 hours after sleep                    |
+| 100   | Compare <b><font color="red">Bilateral</font></b> vs. <b><font color="red">Unilateral Ankle Edema</font></b>.                     | Bilateral: Heart failure. <br>Unilateral: Venous thrombosis                        |
+| 101   | Contrast <b><font color="red">HIIT</font></b> vs. <b><font color="red">Constant Workload Training</font></b>.                     | HIIT: alternating stimulus/recovery. <br>Constant: steady pace 20-30m              |
+| 102   | Contrasting <b><font color="red">METs</font></b> vs. <b><font color="red">VO2</font></b> terminology.                             | METs: Cardiologists / relative cost. <br>VO2: Pulmonologists / O2 uptake           |
+| 103   | Differentiate <b><font color="red">1RM</font></b> vs. <b><font color="red">10RM</font></b> application.                           | 1RM: Powerlifting focus. <br>10RM: Rehab focus (avoid injury)                      |
+| 104   | Contrast <b><font color="red">VO2</font></b> vs. <b><font color="red">VCO2</font></b> behavior after lactate threshold.           | VO2: Linear rise. <br>VCO2: Steep rise (buffering)                                 |
+| 105   | Contrast <b><font color="red">Type IIA</font></b> vs. <b><font color="red">Type IIB</font></b> fibers.                            | IIA: Intermediate oxidative. <br>IIB: Pure glycolytic power                        |

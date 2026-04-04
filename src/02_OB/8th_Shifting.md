@@ -340,12 +340,12 @@ text
 - (Comparison: Physiologic vs. Pathologic) <font color="red">Physiologic anemia</font> results from expanded plasma volume (40-50%) exceeding RBC mass increase (20%), whereas **iron deficiency anemia** is confirmed when Hgb falls below 11 g/dL.
 - (Comparison: Sickle Cell SS vs. SC) <font color="red">Hb SS disease</font> has significantly higher maternal mortality (OR 11-23) compared to Hb SC disease, though both increase stillbirth risk.
 - (Comparison: TTP vs. HELLP) <font color="red">Transaminitis (High AST/ALT)</font> is characteristic of HELLP syndrome, whereas it is usually absent or mild in **TTP**.
-- (Comparison: TTP vs. HELLP) <font color="red">ADAMTS13 deficiency (<10%)</font> is the hallmark of **TTP**, while it is only mild-to-moderately reduced in HELLP.
+- (Comparison: TTP vs. HELLP) <font color="red">ADAMTS13 deficiency (&lt10%)</font> is the hallmark of **TTP**, while it is only mild-to-moderately reduced in HELLP.
 - (Comparison: Delivery effect) <font color="red">Delivery</font> reverses the pathology of HELLP and Preeclampsia, but has **no effect** on the progression of TMA/TTP.
 - (Comparison: Thalassemia Types) <font color="red">Alpha-thalassemia</font> is more common in Asian Americans, while **Beta-thalassemia** is diagnosed by elevated HbA2 levels.
 - (Comparison: Hemophilia vs. vWD) <font color="red">Hemophilia</font> is X-linked (mostly males affected), whereas **von Willebrand disease** is autosomal (affects males and females equally).
 - (Comparison: Thalassemia major vs. trait) <font color="red">Alpha-thalassemia major (Hb Bart)</font> leads to hydrops fetalis and stillbirth, while **Alpha-thalassemia trait** (2 gene deletion) presents as mild microcytic anemia with no major maternal issues.
-- (Comparison: Ferritin) <font color="red">Low ferritin (<15)</font> is specific for IDA, but **Ferritin** can be falsely elevated up to 100 in patients with IDA who also have liver disease or infection.
+- (Comparison: Ferritin) <font color="red">Low ferritin (&lt15)</font> is specific for IDA, but **Ferritin** can be falsely elevated up to 100 in patients with IDA who also have liver disease or infection.
 - (Comparison: Thrombophilia risk) <font color="red">Heterozygous Factor V Leiden</font> is a low-risk thrombophilia, while **Homozygous Factor V Leiden** is a high-risk condition.
 - (Comparison: Relative vs. Absolute Polycythemia) <font color="red">Relative polycythemia</font> is caused by volume loss (dehydration/diuretics), while **Absolute polycythemia** (Polycythemia Vera) involves a JAK2 mutation and increased RBC mass.
 - (Comparison: B12 vs. Folate) <font color="red">B12 deficiency</font> is common in vegans/gastric surgery; **Folate deficiency** is common in malnutrition or anticonvulsant use.
@@ -881,6 +881,7 @@ text
 ## QA
 ### SYSTEMATIC SUMMARY - THYROID DISORDERS
 
+
 1. What is the pathogenesis of <b><font color="red">Hyperthyroidism (Graves')</font></b>? | TSH-receptor antibodies.<br>Stimulate the thyroid; worsened by hCG in the 1st trimester.
 2. What is the pathogenesis of <b><font color="red">Hypothyroidism (Hashimoto's)</font></b>? | Anti-TPO antibodies.<br>Causes autoimmune glandular destruction.
 3. What are the diagnostic laboratory findings for <b><font color="red">Hyperthyroidism (Graves')</font></b>? | Suppressed TSH, elevated `fT4`.
@@ -1027,6 +1028,7 @@ text
 114. <b><font color="red">Prolactinoma risk</font></b> of enlargement: Micro vs Macro. | Micro (2.4%); Macro (21%).
 115. Timing of <b><font color="red">Postpartum Thyroiditis Phases</font></b>. | Thyrotoxic: 1-4 months PP.<br>Hypothyroid: 4-8 months PP.
 116. Explain <b><font color="red">TSH-hCG mirroring</font></b>. | As hCG rises, TSH falls.<br>As hCG falls, TSH rises back.
+
 
 
 # 8.5 - Connective Tissue Disorders

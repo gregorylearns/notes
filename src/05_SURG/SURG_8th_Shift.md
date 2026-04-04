@@ -200,13 +200,13 @@ SURGERY 2: ACQUIRED HEART DISEASES
 ### GENERAL PRINCIPLES, CLASSIFICATION, AND PREOPERATIVE ASSESSMENT
 
 
-| Topic | Key Features / Description |
-| :--- | :--- |
-| <span style="color:red">NYHA Classification</span> | Functional classification of heart failure based on physical activity limitation: Class I (No limitation) to Class IV (Symptoms at rest). |
-| <span style="color:red">CCS Angina Classification</span> | Grading of angina severity: Class I (Strenuous exertion only) to Class IV (Angina at rest or with any activity). |
-| <span style="color:red">MACE Risk Estimation</span> | Estimated using NSQIP or Revised Cardiac Risk Index (RCRI); Major Cardiac Events include ischemic heart disease, HF, and renal insufficiency. |
-| <span style="color:red">Functional Capacity</span> | Measured in METs; Good functional capacity is ≥4 METs, while <4 METs is poor/unknown and may require stress testing. |
-| <span style="color:red">PCI Stent Precautions</span> | Before elective surgery, delay 30 days for Bare Metal Stents (BMS) and 180–365 days for Drug-Eluting Stents (DES) to prevent thrombosis. |
+| Topic                                                    | Key Features / Description                                                                                                                    |
+| :------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
+| <span style="color:red">NYHA Classification</span>       | Functional classification of heart failure based on physical activity limitation: Class I (No limitation) to Class IV (Symptoms at rest).     |
+| <span style="color:red">CCS Angina Classification</span> | Grading of angina severity: Class I (Strenuous exertion only) to Class IV (Angina at rest or with any activity).                              |
+| <span style="color:red">MACE Risk Estimation</span>      | Estimated using NSQIP or Revised Cardiac Risk Index (RCRI); Major Cardiac Events include ischemic heart disease, HF, and renal insufficiency. |
+| <span style="color:red">Functional Capacity</span>       | Measured in METs; Good functional capacity is ≥4 METs, while <4 METs is poor/unknown and may require stress testing.                          |
+| <span style="color:red">PCI Stent Precautions</span>     | Before elective surgery, delay 30 days for Bare Metal Stents (BMS) and 180–365 days for Drug-Eluting Stents (DES) to prevent thrombosis.      |
 
 • In <span style="color:red">NYHA Class I</span> heart failure classification, physical activity is not limited by fatigue, palpitations, or dyspnea.
 • In <span style="color:red">NYHA Class III</span> heart failure classification, there is a marked limitation of physical activity, as the patient is comfortable only at rest.
@@ -477,8 +477,268 @@ DIFFERENTIATION AND COMPARISON FOR EXAMS
 114. Which parts of the <b><font color="red">Tricuspid Annulus</font></b> typically dilate? | Anterior and Posterior annulus.
 115. Compare the <b><font color="red">STICH vs. BARI Trial</font></b> focus. | STICH: CABG in Heart Failure; BARI: CABG vs PCI in Diabetics.
 
-# 8.3 - ERAS
+# 8.3 - ERAS TOUR
 ## Summary
+
+
+<b>ERAS: ENHANCED RECOVERY AFTER SURGERY</b>
+
+| PHASE | GOAL / KEY INTERVENTIONS | RATIONALE / OUTCOMES |
+| :--- | :--- | :--- |
+| <b>Preoperative</b> | <center><b>Optimization & Education</b></center><br>- Evaluation (Respiratory risk)<br>- Education (Patient as leader)<br>- Nutrition (EN > PN)<br>- Prehabilitation (Exercise)<br>- Smoking Cessation<br>- Carbohydrate Loading | - ↓ Stress response<br>- ↓ Anxiety<br>- ↓ LOS and case cancellations<br>- Transition to anabolic state |
+| <b>Intraoperative</b> | <center><b>Stress Reduction</b></center><br>- Minimally Invasive Surgery (MIS)<br>- Hypothermia Prevention<br>- VTE Prophylaxis<br>- Goal-Directed Fluid Therapy (GDT)<br>- Multimodal Analgesia | - ↓ Complications (Wound infection, Cardiac)<br>- Maintain normothermia<br>- Prevent blood clots (DVT/PE)<br>- Zero fluid balance |
+| <b>Postoperative</b> | <center><b>Functional Recovery</b></center><br>- Early Nutrition (Skip NGT)<br>- Early Mobilization<br>- PONV Prevention<br>- Opioid Sparing/Multimodal Pain Control | - Faster return of bowel function<br>- ↓ Muscle loss & deconditioning<br>- ↓ Hospital stay (LOS)<br>- Faster return to work |
+
+<b>I. NOTABLE PERSONALITIES AND HISTORY</b>
+
+- <font color="red">Professor Henrik Kehlet</font> is described as the <b>founder of ERAS***</b>, having first described a novel perioperative regimen for colon surgery in 1995 in Copenhagen, Denmark.
+- <font color="red">Professor Henrik Kehlet</font>'s 1997 multimodal approach demonstrated a reduction in the median length of stay (LOS) to just 2 days following sigmoid resection*.
+- The <font color="red">ERAS Study Group</font> was founded in 2001 by Professor Ken Fearon and Professor Olle Ljungqvist to create a consensus on best practices and guidelines.
+- <font color="red">Dr. Manuel Francisco Roxas</font> is a Fellow of the PCS and PSCRS and serves as the <b>First President of the Philippine ERAS Society</b>.
+- <font color="red">The Medical City (TMC)</font> in Pasig City is recognized as the <b>only ERAS Center of Excellence</b> in the Philippines and hosted the 1st National ERAS Congress on September 8, 2016.
+- <font color="red">Philippine General Hospital (PGH)</font> has successfully implemented ERAS pathways for elective colorectal surgeries, significantly improving patient outcomes.
+
+<b>II. PREOPERATIVE OPTIMIZATION & EDUCATION</b>
+
+- The <font color="red">Primary Goal of ERAS</font> is to treat the surgical patient using a <b>multidisciplinary team approach</b> throughout the entire perioperative course.
+- The <font color="red">Unified Objective of ERAS</font> is to accelerate functional recovery and optimize patient outcomes strictly based on evidence-based medicine.
+- <font color="red">Preanesthetic evaluation</font> by an anesthesiologist improves OR efficiency and identifies elevated respiratory risk, potentially reducing case cancellations by 88%.
+- <font color="red">Patient Education</font> establishes the <b>patient as the leader</b> in their own care, orienting them on what to expect regarding procedures, tubes, and discharge criteria.
+- <font color="red">Therapeutic communication</font> through preoperative teaching significantly reduces postoperative fatigue, fear, and unexpected pain.
+- <font color="red">Education materials</font> for patients should ideally be Clear, Concise, Friendly, and written at a <b>≤ 6th-grade reading level</b>.
+- <font color="red">Enteral Nutrition (EN)</font> is the <b>preferred route</b> for nutritional support as it is more natural and has fewer risks than Parenteral Nutrition (PN).
+- <font color="red">Standard oral nutrition supplements</font> are high in protein and vitamins/minerals, and are widely available to ensure patients are well-nourished before surgery.
+- <font color="red">Immunonutrition supplements</font> contain added Arginine (improves immunity/tissue repair) and Omega-3 fatty acids (mediates inflammatory response).
+- <font color="red">Milk supplementation</font> for preoperative nutrition is most ideal at a concentration of <b>5 to 7 scoops per 250 mL</b>.
+- <font color="red">Prehabilitation</font> is the process of enhancing an individual's functional capacity through exercise to enable them to withstand the stressful event of surgery.
+- <font color="red">Brief exercise therapy</font> for as little as 1-7 days before major abdominal surgery can decrease postoperative complications.
+- <font color="red">Smoking cessation</font> allows for bronchiolar and collagen remodeling; a longer duration of cessation prior to surgery portends better outcomes.
+- <font color="red">Buerger disease</font> is a condition where small blood vessels in the hands and feet become blocked with blood clots, a risk specifically noted for smokers.
+
+<b>III. METABOLIC STRESS RESPONSE & INSULIN RESISTANCE</b>
+
+- <font color="red">Insulin</font> is the <b>main anabolic hormone</b> involved in glucose control; surgery disrupts this, leading to insulin resistance and protein catabolism.
+- <font color="red">Insulin resistance</font> means the body does not respond well to insulin, causing less sugar to move into cells and more sugar to stay in the blood (hyperglycemia).
+- In the <font color="red">Fed state</font>, insulin levels surge 6-8 times basal levels, stopping glucose production and increasing peripheral glucose uptake 3-4 fold.
+- In the <font color="red">Fasting state</font>, insulin remains at a relative steady state with minimal effects on glucose and protein metabolism.
+- The <font color="red">Postoperative fasting state</font> combined with surgical stress triggers a <b>catabolic state</b>, increasing protein catabolism several fold.
+- <font color="red">Muscle function</font> and mobilization capacity decrease during postoperative fasting because less glycogen is stored in the muscle and lean body mass is lost.
+- <font color="red">Pain</font> has been demonstrated to directly increase insulin resistance by decreasing insulin sensitivity.
+- <font color="red">Magnitude of surgery</font> is directly related to the severity of insulin resistance; open colorectal resection results in a <b>3.5-fold increase</b> in IR compared to lap chole.
+- <font color="red">Free radicals</font> formed during insulin resistance trigger inflammation and change gene activity, creating a <b>vicious cycle</b> of further resistance and inflammation.
+- <font color="red">Preoperative carbohydrate loading</font> with clear liquids transition the metabolism to an <b>anabolic state</b> and improves postoperative muscle strength.
+- The <font color="red">Carbohydrate loading regimen</font> typically involves 100 g of carbohydrate the evening prior and 50 g of carbohydrate 2-3 hours before surgery.
+- <font color="red">Clear liquids</font> can be allowed up to <b>2 hours</b> before surgery, while solid food requires <b>6 hours</b> of fasting based on current guidelines.
+- <font color="red">Aspiration risk</font> does not increase in healthy adults undergoing elective surgery who consume carbohydrate drinks up to 2 hours preoperatively.
+
+<b>IV. INTRAOPERATIVE CONSIDERATIONS</b>
+
+- <font color="red">Surgical Site Infection (SSI) prevention</font> includes patient bathing, skin preparation (betadine/chlorhexidine), and appropriate antimicrobial prophylaxis.
+- <font color="red">Minimally Invasive Surgery (MIS)</font> is preferred in ERAS as it demonstrates reduced LOS, fewer complications, and faster recovery.
+- <font color="red">ERAS protocols</font> are applied specifically to <b>elective procedures</b> and cannot be applied in emergency cases.
+- <font color="red">Inadvertent postoperative hypothermia</font> affects up to 90% of elective surgery patients, with those <b>>60 years old</b> being at higher risk.
+- <font color="red">Radiation</font> is the <b>main cause</b> and most common cause of heat loss, where the patient's body loses heat to the cooler OR environment.
+- <font color="red">Convection</font> involves heat being carried away by cool air flow, such as from operating room air conditioning systems.
+- <font color="red">Evaporation</font> refers to heat loss as fluids like antiseptics or irrigation solutions evaporate from the skin or surgical field.
+- <font color="red">Conduction</font> is the transfer of heat when internal tissues come into direct contact with cold fluids (e.g., cold irrigation).
+- <font color="red">Forced-air warming</font>, such as the <b>“Bair Hugger,”</b> is a key method to maintain normothermia and reduce blood loss and wound infections.
+- <font color="red">Venous Thromboembolism (VTE)</font> prophylaxis is essential; fatal <b>Pulmonary Embolism (PE)</b> can often be the first sign of VTE.
+- <font color="red">DVT</font> occurs in approximately 25% of major surgeries without prophylaxis; risk factors include age >40, obesity, and prolonged procedure times.
+- <font color="red">Early ambulation</font> is the <b>cheapest and most effective</b> non-pharmacologic method to prevent DVT by activating gastrocnemius muscle pumps.
+- <font color="red">Goal-Directed Therapy (GDT) IVF</font> aims for zero fluid balance, using monitors to ensure fluid is only given if it increases cardiac output.
+- <font color="red">Excessive Normal Saline (NSS)</font> can cause <b>hyperchloremia</b>, metabolic acidosis, and acute kidney injury (AKI).
+- <font color="red">PlasmaLyte</font> is a more balanced crystalloid solution that is associated with improved outcomes and lower mortality compared to 0.9% saline.
+- <font color="red">Central Venous Pressure (CVP)</font> monitoring (normal 8-12 mmHg) indicates hypovolemia if <8 mmHg and congestion/overload if >12 mmHg.
+
+<b>V. THE 5 W’s OF POSTOPERATIVE FEVER</b>
+
+- <font color="red">Wind (Pulmonary)</font>: Postoperative fever usually on <b>Day 1</b>, often caused by microatelectasis; prevented by incentive spirometry.
+- <font color="red">Water (Urinary/Fluid)</font>: Fever caused by UTI (often due to catheterization) or dehydration due to the ADH surge in the first 48 hours.
+- <font color="red">Wound (Surgical site)</font>: Fever caused by infection at the surgical site; requires physical inspection of the wound.
+- <font color="red">Walking (Mobility)</font>: Fever related to DVT/thrombophlebitis caused by lack of early mobilization.
+- <font color="red">Wonder drugs (Medications)</font>: Fever caused by drug reactions; considered a diagnosis of exclusion (last resort).
+
+<b>VI. POSTOPERATIVE CARE & PAIN MANAGEMENT</b>
+
+- <font color="red">Opioids</font> are the traditional mainstay for pain but cause side effects like <b>nausea, vomiting, and decreased GI motility</b>.
+- <font color="red">Multimodal analgesia</font> is the point of ERAS—using multiple drugs to limit the dose of opioids and their side effects.
+- <font color="red">Pain</font> is completely subjective, and according to the International Association for the Study of Pain, patients cannot experience pain while unconscious.
+- <font color="red">Postoperative Nausea and Vomiting (PONV)</font> affects up to 80% of high-risk patients (females, non-smokers, history of motion sickness).
+- <font color="red">PONV management</font> includes drugs like <b>perphenazine, aprepitant, dexamethasone, and ondansetron</b>.
+- <font color="red">Postoperative ileus</font> (occurring in 19% of cases) is the <b>most common cause</b> of prolonged hospital stay after digestive tract surgery.
+- <font color="red">Nasogastric tubes (NGTs)</font> should <b>not be used routinely</b> for prophylaxis as they delay the return of GI activity and increase pulmonary complications.
+- <font color="red">Alvimopan</font> is a mu-opioid receptor antagonist administered to reduce postoperative ileus.
+- <font color="red">Early mobilization</font> is a critical component of ERAS; deconditioning and loss of muscle mass can be seen after only <b>2 days of bedrest</b>.
+
+<b>VII. ERAS IN SPECIFIC SURGERIES</b>
+
+- <font color="red">Colorectal surgery</font> has the <b>most data</b> and the largest preponderance of ERAS evidence, with first guidelines published in 2012.
+- <font color="red">Bowel obstruction</font> and <b>skin/soft tissue infection</b> are the most common reasons for readmission in colorectal ERAS programs.
+- <font color="red">Pancreaticoduodenectomy</font> (Whipple) patients often suffer from <b>delayed gastric emptying</b>; ERAS has reduced this incidence by nearly half.
+- <font color="red">Gastrectomy</font> guidelines from 2014 state there should be <b>no routine NGT decompression</b> and early feeding should start within the first POD.
+- <font color="red">Esophagectomy</font> is notoriously complicated; while ERAS is used, <b>prolonged NGT decompression often remains</b> due to surgical complexity.
+
+<b>VIII. DIFFERENTIATING SIMILAR ENTITIES FOR EXAMS</b>
+
+- <font color="red">Henrik Kehlet vs. ERAS Study Group</font>: Kehlet is the <b>founder</b> (1995/1997); Study Group (Fearon/Ljungqvist) expanded ideas and created a consensus (2001).
+- <font color="red">Enteral (EN) vs. Parenteral Nutrition (PN)</font>: EN follows the natural GI tract and is <b>preferred</b>; PN delivers nutrients to the bloodstream and is only for when EN is impossible.
+- <font color="red">Laparoscopic vs. Open Cholecystectomy</font>: Laparoscopic has 3-4 small wounds and faster recovery; Open has a 6-8cm wound and <b>2.5 times</b> more insulin resistance.
+- <font color="red">Radiation vs. Conduction</font>: Radiation is heat loss to the <b>environment/air</b> (no contact); Conduction is heat loss through <b>direct contact</b> with cold fluids/tissues.
+- <font color="red">Standard Supplements vs. Immunonutrition</font>: Standard is high protein/vitamins; Immunonutrition adds <b>Arginine and Omega-3</b> specifically to modulate the immune response.
+- <font color="red">NSS vs. PlasmaLyte</font>: NSS is traditional but can cause <b>hyperchloremia/acidosis</b>; PlasmaLyte is balanced and leads to fewer AKI/morbidity cases.
+- <font color="red">Hypovolemia vs. Hypervolemia</font>: Hypovolemia causes <b>decreased renal perfusion</b>; Hypervolemia causes <b>splanchnic edema</b> and anastomotic dehiscence.
+- <font color="red">Traditional Fasting vs. ERAS Carbohydrate Loading</font>: Traditional is 6-12 hours NPO (catabolic); ERAS allows clear liquids 2 hours prior and <b>Carbohydrate Loading</b> (anabolic).
+- <font color="red">CVP <8 vs. CVP >12</font>: <8 mmHg indicates <b>hypovolemia</b>; >12 mmHg indicates <b>congestion/overload</b>.
+- <font color="red">PONV Risk: Smoking vs. Non-smoking</font>: <b>Non-smoking</b> is a risk factor for PONV; Smoking is a risk factor for arterial obstruction (Buerger’s) and poor wound healing.
+- <font color="red">Colorectal vs. Esophagectomy ERAS</font>: Colorectal has the <b>most robust data</b> and emphasizes early NGT removal; Esophagectomy is complex and often <b>retains NGT</b> decompression.
+- <font color="red">Primary Goal vs. Unified Objective</font>: Primary Goal is the <b>MDT approach</b>; Unified Objective is <b>accelerated functional recovery</b> via evidence-based medicine.
+- <font color="red">Active vs. Passive participant</font>: In ERAS, the <b>patient is the leader</b> (Active); in traditional medicine, the patient is often a passive recipient of care.
+- <font color="red">Prehabilitation vs. Mobilization</font>: Prehabilitation is <b>preoperative</b> exercise; Mobilization is <b>postoperative</b> movement/walking.
+- <font color="red">Nausea vs. Nauseous</font>: "I feel nauseated" is the correct statement; "I am nauseous" implies you are the one causing nausea in others.
+- <font color="red">Wind vs. Walking Fever</font>: <b>Wind</b> is pulmonary/atelectasis (Day 1); <b>Walking</b> is DVT/thrombophlebitis (Day 5+).
+- <font color="red">Crystalloid vs. Colloid</font>: ERAS/Schwartz prefers <b>crystalloids</b> (especially balanced ones like PlasmaLyte) over colloids for perioperative fluid management.
+- <font color="red">Traditional vs. ERAS Opioid use</font>: Traditional uses opioids as the <b>sole mainstay</b>; ERAS uses <b>Multimodal Analgesia</b> to spare/reduce opioid dose.
+- <font color="red">Standard vs. Goal-Directed Fluid Therapy (GDT)</font>: Standard is often liberal/fixed rate; GDT is <b>individualized</b> based on cardiac output and fluid responsiveness.
+- <font color="red">Prophylactic vs. Avoided NGT</font>: Traditional surgery used NGT <b>prophylactically</b>; ERAS recommends <b>avoiding routine use</b> as it delays GI return.
+
 
 ## QA
 
+```text
+<b>I. NOTABLE PERSONALITIES AND HISTORY</b>
+
+1. Who is recognized as the <b><font color="red">founder of ERAS</font></b>? | Professor Henrik Kehlet
+2. In what year and location did Henrik Kehlet first describe the novel perioperative regimen for colon surgery? | 1995, Copenhagen, Denmark
+3. What was the outcome of <b><font color="red">Professor Henrik Kehlet's</font></b> 1997 multimodal approach regarding sigmoid resection? | 2 days median LOS
+4. Which group was founded in 2001 to create consensus on ERAS guidelines? | ERAS Study Group
+5. Who were the founders (2) of the <b><font color="red">ERAS Study Group</font></b>? | 1) Professor Ken Fearon<br>2) Professor Olle Ljungqvist
+6. Who serves as the First President of the <b><font color="red">Philippine ERAS Society</font></b>? | Dr. Manuel Francisco Roxas
+7. Which institution is the only <b><font color="red">ERAS Center of Excellence</font></b> in the Philippines? | The Medical City (TMC)
+8. When did <b><font color="red">The Medical City</font></b> host the 1st National ERAS Congress? | September 8, 2016
+9. Which hospital implemented ERAS pathways for <b><font color="red">elective colorectal surgeries</font></b> to improve outcomes in the Philippines? | Philippine General Hospital (PGH)
+
+<b>II. PREOPERATIVE OPTIMIZATION & EDUCATION</b>
+
+10. What is the <b><font color="red">Primary Goal of ERAS</font></b>? | Multidisciplinary team approach
+11. What is the <b><font color="red">Unified Objective of ERAS</font></b>? | Accelerate functional recovery
+12. What are the key interventions (6) in the <b><font color="red">Preoperative Phase</font></b> of ERAS? | 1) Evaluation<br>2) Education<br>3) Nutrition<br>4) Prehabilitation<br>5) Smoking Cessation<br>6) Carbohydrate Loading
+13. What are the outcomes (4) of the <b><font color="red">Preoperative Phase</font></b>? | 1) ↓ Stress response<br>2) ↓ Anxiety<br>3) ↓ LOS/cancellations<br>4) Transition to anabolic state
+14. How much can <b><font color="red">Preanesthetic evaluation</font></b> reduce case cancellations? | 88% reduction
+15. In <b><font color="red">Patient Education</font></b>, who is established as the leader of their own care? | The patient
+16. What should patients be oriented on during <b><font color="red">Patient Education</font></b>? (3) | 1) Procedures<br>2) Tubes<br>3) Discharge criteria
+17. What are the benefits (3) of <b><font color="red">Therapeutic communication</font></b> in preoperative teaching? | 1) ↓ Postoperative fatigue<br>2) ↓ Fear<br>3) ↓ Unexpected pain
+18. At what reading level should <b><font color="red">Education materials</font></b> for patients be written? | ≤ 6th-grade level
+19. Which route is the <b><font color="red">preferred route</font></b> for nutritional support in ERAS? | Enteral Nutrition (EN)
+20. Why is <b><font color="red">Enteral Nutrition (EN)</font></b> preferred over Parenteral Nutrition (PN)? | More natural; fewer risks
+21. What are <b><font color="red">Standard oral nutrition supplements</font></b> high in? (2) | 1) Protein<br>2) Vitamins/minerals
+22. What additives (2) are found in <b><font color="red">Immunonutrition supplements</font></b>? | 1) Arginine<br>2) Omega-3 fatty acids
+23. What is the role of <b><font color="red">Arginine</font></b> in immunonutrition? | Improves immunity/tissue repair
+24. What is the role of <b><font color="red">Omega-3 fatty acids</font></b> in immunonutrition? | Mediates inflammatory response
+25. What is the ideal concentration for <b><font color="red">Milk supplementation</font></b> in preoperative nutrition? | 5-7 scoops per 250mL
+26. Define <b><font color="red">Prehabilitation</font></b>. | Enhancing functional capacity (exercise)
+27. How long should <b><font color="red">Brief exercise therapy</font></b> be performed before major surgery to decrease complications? | 1 to 7 days
+28. What physiological remodeling does <b><font color="red">Smoking cessation</font></b> allow? (2) | 1) Bronchiolar remodeling<br>2) Collagen remodeling
+29. What condition involving blood clots in hands/feet is a risk for smokers? | <b><font color="red">Buerger disease</font></b>
+
+<b>III. METABOLIC STRESS RESPONSE & INSULIN RESISTANCE</b>
+
+30. What is the main <b><font color="red">anabolic hormone</font></b> involved in glucose control? | Insulin
+31. How does surgery affect <b><font color="red">Insulin</font></b> and protein metabolism? | Insulin resistance; protein catabolism
+32. Define <b><font color="red">Insulin resistance</font></b> in the context of surgery. | Glucose stays in blood (hyperglycemia)
+33. How much do <b><font color="red">Insulin levels</font></b> surge in the fed state compared to basal levels? | 6 to 8 times
+34. What state is triggered by <b><font color="red">Postoperative fasting</font></b> combined with surgical stress? | Catabolic state
+35. Why do <b><font color="red">Muscle function</font></b> and mobilization capacity decrease during postoperative fasting? (2) | 1) ↓ Glycogen storage<br>2) Lean body mass loss
+36. What is the effect of <b><font color="red">Pain</font></b> on insulin? | Increases insulin resistance
+37. How much higher is <b><font color="red">Insulin resistance</font></b> in open colorectal resection compared to lap chole? | 3.5-fold increase
+38. What triggers inflammation and a vicious cycle during <b><font color="red">Insulin resistance</font></b>? | Free radicals
+39. What is the benefit of <b><font color="red">Preoperative carbohydrate loading</font></b> regarding metabolism? | Transitions to anabolic state
+40. What is the <b><font color="red">Carbohydrate loading regimen</font></b> for the evening prior to surgery? | 100 g carbohydrates
+41. What is the <b><font color="red">Carbohydrate loading regimen</font></b> for 2-3 hours before surgery? | 50 g carbohydrates
+42. According to guidelines, how many hours before surgery can <b><font color="red">Clear liquids</font></b> be consumed? | 2 hours
+43. How many hours of fasting are required for <b><font color="red">Solid food</font></b>? | 6 hours
+44. Does consuming carbohydrate drinks 2 hours preoperatively increase <b><font color="red">Aspiration risk</font></b>? | No
+
+<b>IV. INTRAOPERATIVE CONSIDERATIONS</b>
+
+45. What are the key interventions (5) during the <b><font color="red">Intraoperative Phase</font></b>? | 1) MIS<br>2) Hypothermia prevention<br>3) VTE prophylaxis<br>4) GDT<br>5) Multimodal analgesia
+46. What are the outcomes (4) of the <b><font color="red">Intraoperative Phase</font></b>? | 1) ↓ Complications<br>2) Maintain normothermia<br>3) Prevent DVT/PE<br>4) Zero fluid balance
+47. What are the components (3) of <b><font color="red">Surgical Site Infection (SSI) prevention</font></b>? | 1) Patient bathing<br>2) Skin prep<br>3) Antimicrobial prophylaxis
+48. Why is <b><font color="red">Minimally Invasive Surgery (MIS)</font></b> preferred in ERAS? (3) | 1) Reduced LOS<br>2) Fewer complications<br>3) Faster recovery
+49. To which type of procedures are <b><font color="red">ERAS protocols</font></b> specifically applied? | Elective procedures
+50. What percentage of elective surgery patients are affected by <b><font color="red">inadvertent postoperative hypothermia</font></b>? | Up to 90%
+51. Which age group is at higher risk for <b><font color="red">postoperative hypothermia</font></b>? | > 60 years old
+52. What is the <b><font color="red">main cause</font></b> and most common cause of heat loss in the OR? | Radiation
+53. Define <b><font color="red">Radiation</font></b> heat loss. | Loss to cooler environment
+54. Define <b><font color="red">Convection</font></b> heat loss. | Heat carried by airflow
+55. Define <b><font color="red">Evaporation</font></b> heat loss. | Fluid evaporating from skin/field
+56. Define <b><font color="red">Conduction</font></b> heat loss. | Direct contact with cold fluids
+57. What is a key method for <b><font color="red">Forced-air warming</font></b> to maintain normothermia? | Bair Hugger
+58. What can often be the first sign of <b><font color="red">Venous Thromboembolism (VTE)</font></b>? | Fatal Pulmonary Embolism (PE)
+59. What percentage of major surgeries result in <b><font color="red">DVT</font></b> without prophylaxis? | approximately 25%
+60. What are the risk factors (3) for <b><font color="red">DVT</font></b>? | 1) Age >40<br>2) Obesity<br>3) Prolonged procedure time
+61. What is the <b><font color="red">cheapest and most effective</font></b> non-pharmacologic method to prevent DVT? | Early ambulation
+62. What is the target fluid status for <b><font color="red">Goal-Directed Therapy (GDT)</font></b>? | Zero fluid balance
+63. What are the complications (3) of <b><font color="red">Excessive Normal Saline (NSS)</font></b>? | 1) Hyperchloremia<br>2) Metabolic acidosis<br>3) AKI
+64. Which balanced crystalloid is associated with <b><font color="red">lower mortality</font></b> compared to 0.9% saline? | PlasmaLyte
+65. What is the normal range for <b><font color="red">Central Venous Pressure (CVP)</font></b>? | 8 to 12 mmHg
+66. What does a <b><font color="red">CVP < 8 mmHg</font></b> indicate? | Hypovolemia
+67. What does a <b><font color="red">CVP > 12 mmHg</font></b> indicate? | Congestion or overload
+
+<b>V. THE 5 W’s OF POSTOPERATIVE FEVER</b>
+
+68. Enumerate the <b><font color="red">5 W’s of Postoperative Fever</font></b>. | 1) Wind<br>2) Water<br>3) Wound<br>4) Walking<br>5) Wonder drugs
+69. When does <b><font color="red">Wind (Pulmonary)</font></b> fever usually occur? | Postoperative Day 1
+70. What is the main cause of <b><font color="red">Wind (Pulmonary)</font></b> fever? | Microatelectasis
+71. What are the common causes (2) of <b><font color="red">Water (Urinary/Fluid)</font></b> fever? | 1) UTI from catheter<br>2) Dehydration (ADH surge)
+72. How is <b><font color="red">Wound (Surgical site)</font></b> fever managed? | Physical inspection of wound
+73. What is the cause of <b><font color="red">Walking (Mobility)</font></b> fever? | DVT or thrombophlebitis
+74. Why are <b><font color="red">Wonder drugs (Medications)</font></b> classified as a diagnosis of exclusion? | It is a last resort
+
+<b>VI. POSTOPERATIVE CARE & PAIN MANAGEMENT</b>
+
+75. What are the key interventions (4) in the <b><font color="red">Postoperative Phase</font></b>? | 1) Early Nutrition<br>2) Mobilization<br>3) PONV prevention<br>4) Opioid Sparing
+76. What are the outcomes (4) of the <b><font color="red">Postoperative Phase</font></b>? | 1) Return of bowel function<br>2) ↓ Muscle loss<br>3) ↓ LOS<br>4) Return to work
+77. What are the side effects (3) of <b><font color="red">Opioids</font></b>? | 1) Nausea<br>2) Vomiting<br>3) Decreased GI motility
+78. What is the point of <b><font color="red">Multimodal analgesia</font></b> in ERAS? | Limit opioid dose/side effects
+79. Can a patient experience <b><font color="red">Pain</font></b> while unconscious? | No
+80. What percentage of high-risk patients are affected by <b><font color="red">PONV</font></b>? | Up to 80%
+81. What are the risk factors (3) for <b><font color="red">PONV</font></b>? | 1) Females<br>2) Non-smokers<br>3) Motion sickness history
+82. Name four drugs used in <b><font color="red">PONV management</font></b>. | 1) Perphenazine<br>2) Aprepitant<br>3) Dexamethasone<br>4) Ondansetron
+83. What is the <b><font color="red">most common cause</font></b> of prolonged hospital stay after digestive tract surgery? | Postoperative ileus
+84. What is the incidence of <b><font color="red">postoperative ileus</font></b>? | 19% of cases
+85. Should <b><font color="red">Nasogastric tubes (NGTs)</font></b> be used routinely for prophylaxis? | No
+86. What are the risks (2) of routine <b><font color="red">NGT</font></b> use? | 1) Delay GI activity<br>2) Increase pulmonary complications
+87. What is the role of <b><font color="red">Alvimopan</font></b>? | Mu-opioid receptor antagonist (reduces ileus)
+88. After how many days of bedrest can <b><font color="red">loss of muscle mass</font></b> be seen? | 2 days
+
+<b>VII. ERAS IN SPECIFIC SURGERIES</b>
+
+89. Which surgery has the <b><font color="red">most data</font></b> for ERAS evidence? | Colorectal surgery
+90. What are the most common reasons (2) for readmission in <b><font color="red">colorectal ERAS</font></b>? | 1) Bowel obstruction<br>2) Skin/soft tissue infection
+91. What complication does ERAS reduce by half in <b><font color="red">Whipple</font></b> procedures? | Delayed gastric emptying
+92. According to 2014 guidelines, when should feeding start in <b><font color="red">Gastrectomy</font></b>? | Within the first POD
+93. Why does <b><font color="red">prolonged NGT decompression</font></b> often remain in esophagectomy? | Surgical complexity
+
+<b>VIII. DIFFERENTIATING SIMILAR ENTITIES</b>
+
+94. <b><font color="red">Henrik Kehlet vs. ERAS Study Group</font></b>: Who is the founder? | Henrik Kehlet
+95. <b><font color="red">EN vs. PN</font></b>: Which route follows the natural GI tract? | Enteral Nutrition (EN)
+96. <b><font color="red">Lap vs. Open Chole</font></b>: Which has higher insulin resistance? | Open (2.5 times higher)
+97. <b><font color="red">Radiation vs. Conduction</font></b>: Which involves direct contact with cold fluids? | Conduction
+98. <b><font color="red">Standard Supplements vs. Immunonutrition</font></b>: Which contains Arginine? | Immunonutrition
+99. <b><font color="red">NSS vs. PlasmaLyte</font></b>: Which causes hyperchloremia? | Normal Saline (NSS)
+100. <b><font color="red">Hypovolemia vs. Hypervolemia</font></b>: Which causes splanchnic edema? | Hypervolemia
+101. <b><font color="red">Traditional Fasting vs. ERAS Carb Loading</font></b>: Which results in an anabolic state? | Carbohydrate Loading
+102. <b><font color="red">CVP < 8 vs. CVP > 12</font></b>: Which indicates congestion/overload? | CVP > 12 mmHg
+103. <b><font color="red">PONV Risk: Smoking vs. Non-smoking</font></b>: Which is the risk factor? | Non-smoking
+104. <b><font color="red">Colorectal vs. Esophagectomy</font></b>: Which emphasizes early NGT removal? | Colorectal
+105. <b><font color="red">Primary Goal vs. Unified Objective</font></b>: Which refers to the MDT approach? | Primary Goal
+106. <b><font color="red">Active vs. Passive participant</font></b>: What is the patient role in ERAS? | Active (The leader)
+107. <b><font color="red">Prehabilitation vs. Mobilization</font></b>: Which occurs postoperatively? | Mobilization
+108. <b><font color="red">Nausea vs. Nauseous</font></b>: Which refers to the feeling you experience? | Nauseated
+109. <b><font color="red">Wind vs. Walking Fever</font></b>: Which occurs on Day 1? | Wind
+110. <b><font color="red">Crystalloid vs. Colloid</font></b>: Which is preferred by ERAS/Schwartz? | Crystalloid (PlasmaLyte)
+111. <b><font color="red">Traditional vs. ERAS Opioid use</font></b>: Which uses multimodal analgesia? | ERAS
+112. <b><font color="red">Standard vs. Goal-Directed Fluid Therapy (GDT)</font></b>: Which is individualized based on cardiac output? | Goal-Directed Therapy (GDT)
+113. <b><font color="red">Prophylactic vs. Avoided NGT</font></b>: What is the ERAS recommendation? | Avoid routine use
+```
