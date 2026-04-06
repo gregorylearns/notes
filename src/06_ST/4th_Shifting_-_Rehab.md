@@ -1349,3 +1349,207 @@ text
 | 103   | Differentiate <b><font color="red">1RM</font></b> vs. <b><font color="red">10RM</font></b> application.                           | 1RM: Powerlifting focus. <br>10RM: Rehab focus (avoid injury)                      |
 | 104   | Contrast <b><font color="red">VO2</font></b> vs. <b><font color="red">VCO2</font></b> behavior after lactate threshold.           | VO2: Linear rise. <br>VCO2: Steep rise (buffering)                                 |
 | 105   | Contrast <b><font color="red">Type IIA</font></b> vs. <b><font color="red">Type IIB</font></b> fibers.                            | IIA: Intermediate oxidative. <br>IIB: Pure glycolytic power                        |
+
+
+# 4.5 - CPET
+## Summary
+
+
+### **CARDIOPULMONARY EXERCISE TESTING (CPET) & EXERCISE PHYSIOLOGY**
+
+| Topic | Feature | Pathogenesis / Finding | Specific Parameters |
+| :--- | :--- | :--- | :--- |
+| <font color="red">Obstructive Lung Disease</font> | **Example: COPD, Emphysema** | Air trapping in dilated alveoli; lungs appear black on X-ray. | ⬆ Residual Volume (RV), ⬆ Functional Residual Capacity (FRC), ⬇ FEV1/FVC ratio (<80%). |
+| <font color="red">Restrictive Lung Disease</font> | **Example: Consolidation, Atelectasis** | Miniature version of normal lung volumes; overall reduction in capacity. | ⬇ All volumes (RV, FVC, FEV1); FEV1/FVC ratio is typically normal/maintained. |
+| <font color="red">Treadmill Ergometer</font> | **Movement: Walking/Running** | Uses greater muscle mass; more likely to achieve "real" VO2 maximum. | Protocol: **Bruce** or **Modified Bruce** (changes speed and slope). |
+| <font color="red">Cycle Ergometer (Bike)</font> | **Movement: Pedaling** | Easier to monitor BP and collect blood; safer for those with arthritis. | Protocol: **RAMP** (linear increase in resistance measured in **Watts**). |
+| <font color="red">Cardiac Limitation</font> | **Exercise Finding** | Large ventilatory reserve persists; heart fails to meet oxygen demand first. | ⬇ Heart Rate Reserve (HRR), low O2 pulse, abnormal ECG (ST depression >2mm). |
+| <font color="red">Ventilatory Limitation</font> | **Exercise Finding** | Large heart rate reserve (HRR) remains; breathing capacity is the limit. | ⬇ Breathing Reserve (<20% or <11L), absent anaerobic threshold. |
+
+---
+
+**General Principles and Bioenergetics**
+* In the **Wasserman Gears** model of **CPET**, the three essential "gears" that must function for oxygen delivery are the <font color="red">Lungs</font> (entry/exit), the <font color="red">Heart/Blood</font> (delivery), and the <font color="red">Muscle</font> (uptake/metabolism).
+* In **CPET**, <font color="red">Invasive Level II testing</font> involves inserting an arterial line (usually radial artery) to measure serial arterial blood gas (ABG) every 2 minutes.
+* In **CPET**, <font color="red">Invasive Level III testing</font> is the most invasive form (right-sided heart cath) and involves a central line into the internal jugular vein (IJV) to the pulmonary artery to measure capillary wedge pressure.
+* Regarding <font color="red">Pulmonary Arterial Hypertension (PAH)</font> in **CPET**, unoxygenated blood in the pulmonary artery leads to elevated CO2 levels, providing a differential for high CO2.
+* In **Exercise Physiology**, <font color="red">Slow-twitch muscle fibers</font> are fatigue-resistant, have a richer capillary supply, and possess a higher oxidative capacity compared to fast-twitch fibers.
+* In **Exercise Physiology**, <font color="red">Fast-twitch muscle fibers</font> generate rapid, powerful contractions but fatigue easily; these are predominantly activated in sprinters.
+* In post-COVID recovery, <font color="red">Mitochondrial destruction</font> in skeletal muscle has been found via biopsy in patients with "Long COVID" complaining of dyspnea despite normal heart and lung tests.
+* According to the **FIT Equation** for **CPET**, <font color="red">Oxygen uptake (VO2)</font> is calculated as Cardiac Output (HR x SV) multiplied by the arterial-venous O2 difference [CO × (C(a-v)O2)].
+* In the **FIT Equation**, the <font color="red">Stroke Volume (SV)</font> can be negatively affected by cardiomyopathies, poor contractility, or extreme tachycardia (due to reduced filling time).
+
+**Indications and Procedures**
+* According to **AHA Class I Indications**, <font color="red">CPET</font> is indicated to evaluate exercise capacity in heart failure patients being considered for heart transplantation.
+* According to **AHA Class I Indications**, <font color="red">CPET</font> is indicated to differentiate between cardiac versus pulmonary limitations for dyspnea on exertion.
+* In **CPET**, a <font color="red">Class III (Not Indicated)</font> use is the routine evaluation of exercise capacity without specific medical indications.
+* In **CPET** testing, the <font color="red">Modified Bruce Protocol</font> is used for patients (slower speed/slope increase), while the standard <font color="red">Bruce Protocol</font> is used for active individuals/athletes.
+* During **CPET**, the <font color="red">RAMP protocol</font> on a bike involves a uniform, linear increase in resistance (Watts) every minute.
+* A mandatory **CPET** <font color="red">Criteria for Termination</font> is a drop in systolic blood pressure (SBP) during the test or SBP exceeding 250 mmHg.
+* For <font color="red">ECG monitoring during CPET</font>, ST-segment depression of 1 mm indicates ischemia, but the test must be stopped if it exceeds 2 mm or if ST elevation >1 mm occurs.
+* The <font color="red">Maximum Voluntary Ventilation (MVV)</font> is measured at rest via panting for 15-18 seconds and is used to determine the breathing reserve.
+* In the absence of direct measurement, <font color="red">MVV</font> can be estimated using the formula: FEV1 x 40.
+
+**The 9-Panel Wasserman Analysis & Parameters**
+* In the **9-Panel Wasserman Result**, <font color="red">Panels 1 and 8</font> specifically measure metabolism.
+* In the **9-Panel Wasserman Result**, <font color="red">Panels 2 and 3</font> specifically measure cardiovascular/circulatory function.
+* In the **9-Panel Wasserman Result**, <font color="red">Panels 4, 6, and 7</font> evaluate ventilatory efficiency and gas exchange.
+* In **CPET**, <font color="red">VO2 max</font> is the best index for assessing exercise capacity and is defined by a plateau in oxygen consumption despite increasing workload.
+* In **CPET**, <font color="red">VO2 peak</font> refers to the highest VO2 reached during maximum exercise when no plateau is achieved.
+* The <font color="red">Resting VO2</font> (1 MET) is approximately 3.5 ml/kg/min or 250 ml/min.
+* In **CPET**, <font color="red">VO2 max predicted normal</font> is generally >84% of the predicted value based on age, height, and weight.
+* In **CPET**, the <font color="red">Anaerobic Threshold (AT)</font> (also called the Lactate or Ventilatory Threshold) occurs when CO2 production (VCO2) increases exponentially due to bicarbonate buffering of lactic acid.
+* In **CPET**, the <font color="red">AT (Anaerobic Threshold)</font> is typically reached at 50%-60% of the VO2 max in an average person.
+* In the **V-slope Method** (Panel 3), the <font color="red">Anaerobic Threshold</font> is the point where the VCO2 curve deflects upward, deviating from the 45-degree linear relationship with VO2.
+* In **CPET**, the <font color="red">Respiratory Exchange Ratio (RER)</font> is the ratio of VCO2 to VO2; an RER >1.1 is often used as a marker of maximal effort.
+* In **CPET**, the <font color="red">Respiratory Compensatory Point (RCP)</font> is the second threshold, representing the point where bicarbonate can no longer buffer lactate, leading to metabolic acidosis and hyperventilation.
+* In **CPET**, <font color="red">Heart Rate Reserve (HRR)</font> is calculated as (Predicted Max HR - Achieved Max HR); a normal HRR is <15 bpm (indicating the heart was pushed to its limit).
+* In **CPET**, <font color="red">O2 Pulse</font> (VO2/HR) serves as a surrogate for Stroke Volume (SV).
+* In **CPET**, <font color="red">Breathing Reserve</font> is the difference between MVV and maximal exercise ventilation (VEmax); a normal reserve is >20% or >11 Liters.
+* In **CPET**, the <font color="red">VE/VCO2 Slope</font> represents ventilatory efficiency; a normal slope is 27-30, whereas a steep slope (>34) indicates inefficient ventilation (e.g., Heart Failure or Pulmonary Hypertension).
+* In **COPD patients**, the <font color="red">Inspiratory Capacity (IC) Maneuver</font> during exercise identifies air trapping if the end-expiratory lung volume (EELV) increases by >350mL.
+* For <font color="red">Deconditioning Syndrome</font> (Disuse), CPET shows a very low VO2 max but normal cardiopulmonary markers, indicating a primarily muscle-based limitation.
+
+**Exercise Prescription**
+* For <font color="red">Exercise Prescription</font>, CPET results are used to set training zones; Phase 1 is recovery/low intensity, while Phase 2 (between AT and RCP) is moderate/aerobic-anaerobic.
+* In <font color="red">Exercise Prescription</font>, the goal of training is to shift the Anaerobic Threshold (AT) to the right, allowing the patient/athlete to perform more work aerobically.
+* Regarding <font color="red">High-Intensity Interval Training (HIIT)</font>, contraindications include dilated cardiomyopathy (DCM), hypertrophic obstructive cardiomyopathy (HOCM), acute thrombus, and recent aortic dissection.
+* In <font color="red">Karvonen’s Formula</font>, while useful, it is considered less "scientific" than CPET because it does not allow for real-time ECG and gas exchange monitoring to ensure safety.
+
+---
+
+### **COMPARISON FOR EXAM DIFFERENTIATION**
+
+* <font color="red">VO2 Max vs. VO2 Peak</font>: **VO2 Max** is characterized by a "plateau" where oxygen consumption stays flat despite increasing work; **VO2 Peak** is the highest value reached at symptom-limited exhaustion without a clear plateau.
+* <font color="red">Obstructive vs. Restrictive PFT</font>: **Obstructive** (e.g., COPD) shows increased residual volume (air trapping) and a decreased FEV1/FVC ratio; **Restrictive** shows a decrease in all volumes but a normal/maintained FEV1/FVC ratio.
+* <font color="red">Cardiac vs. Pulmonary Limitation</font>: **Cardiac limitation** shows a low O2 pulse and a consumed/low heart rate reserve (HRR) with a large breathing reserve; **Pulmonary limitation** shows a low/absent breathing reserve (<20%) but a large heart rate reserve.
+* <font color="red">Anaerobic Threshold (AT) vs. Respiratory Compensatory Point (RCP)</font>: **AT** is the "first threshold" where lactate begins to accumulate and VCO2 rises; **RCP** is the "second threshold" where bicarbonate buffering is exhausted, leading to frank metabolic acidosis.
+* <font color="red">Inspiratory vs. Expiratory Phase</font>: In **PFT**, **Inhalation** is an active process, while **Exhalation** is a passive process where 75% of gases are released in the first second (FEV1) in healthy individuals.
+* <font color="red">Phase 2 vs. Phase 3 Cardiac Rehab</font>: **Phase 2** is supervised outpatient exercise with monitoring; **Phase 3** is the maintenance phase focusing on independent, long-term healthy habits often using remote monitoring.
+* <font color="red">Treadmill vs. Bike Termination</font>: **Treadmill** testing is often stopped due to general fatigue or gait instability; **Bike** (Cycle) testing is often limited by isolated leg fatigue because it engages a smaller muscle mass than walking.
+* <font color="red">Metabolic vs. Circulatory Panels</font>: In the **9-Panel Wasserman**, **Panels 1 & 8** look at VO2 and VCO2 (metabolism); **Panels 2 & 3** look at HR and O2 pulse (circulation/SV).
+* <font color="red">Isocapnic Buffering vs. Acidosis</font>: **Isocapnic buffering** occurs between the AT and the RCP where bicarbonate successfully maintains pH; **Metabolic acidosis** occurs after the RCP when bicarbonate is depleted.
+* <font color="red">VE/VO2 vs. VE/VCO2</font>: The **nadir (lowest point) of VE/VO2** marks the Anaerobic Threshold (AT); the **nadir of VE/VCO2** marks the Respiratory Compensatory Point (RCP).
+* <font color="red">Hyperventilation vs. Dead Space</font>: A decrease in **PETCO2** suggests hyperventilation; an increase in **PETCO2** suggests increased dead space (VD/VT).
+* <font color="red">Normal Heart vs. Heart Failure O2 Pulse</font>: **Normal** O2 pulse shows a steady linear rise and plateau; **Heart Failure** shows a low O2 pulse that may flatten early or decline, indicating poor stroke volume.
+* <font color="red">HR Formula 220-age vs. achieved HR</font>: If a person's **achieved HR** is higher than **220-age**, it suggests the formula (derived from Western populations) is not perfectly applicable; the test continues as long as the patient is asymptomatic.
+* <font color="red">Spirometry vs. Plethysmography</font>: **Spirometry** cannot measure Residual Volume (RV); **Plethysmography** ("Body Box") is required to measure RV and total lung capacity (TLC).
+* <font color="red">Aerobic vs. Anaerobic Metabolism</font>: **Aerobic** metabolism is efficient and requires oxygen to produce ATP via the Krebs cycle; **Anaerobic** metabolism occurs in the cytoplasm, produces lactate, and only kicks in significantly after the AT.
+
+
+## QA
+
+### **CARDIOPULMONARY EXERCISE TESTING (CPET) & EXERCISE PHYSIOLOGY**
+
+| Count | Q                                                                                                             | A                                                                                                                       |
+| :---- | :------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------- |
+| 1     | <b><font color="red">Obstructive Lung Disease</font></b>: Pathogenesis and X-ray finding?                     | Air trapping in dilated alveoli; lungs appear black on X-ray.                                                           |
+| 2     | <b><font color="red">Obstructive Lung Disease</font></b>: Parameters for RV and FRC?                          | ⬆ Residual Volume (RV) and ⬆ Functional Residual Capacity (FRC).                                                        |
+| 3     | <b><font color="red">Obstructive Lung Disease</font></b>: FEV1/FVC ratio finding?                             | ⬇ FEV1/FVC ratio (<80%).                                                                                                |
+| 4     | <b><font color="red">Restrictive Lung Disease</font></b>: Pathogenesis and lung volume description?           | Miniature version of normal lung volumes; overall reduction in capacity.                                                |
+| 5     | <b><font color="red">Restrictive Lung Disease</font></b>: Specific volume parameters (RV, FVC, FEV1)?         | ⬇ All volumes (RV, FVC, FEV1).                                                                                          |
+| 6     | <b><font color="red">Restrictive Lung Disease</font></b>: FEV1/FVC ratio finding?                             | FEV1/FVC ratio is typically normal/maintained.                                                                          |
+| 7     | <b><font color="red">Treadmill Ergometer</font></b>: Type of movement and muscle mass use?                    | Walking/Running; uses greater muscle mass.                                                                              |
+| 8     | <b><font color="red">Treadmill Ergometer</font></b>: Physiological advantage for VO2 measurement?             | More likely to achieve "real" VO2 maximum.                                                                              |
+| 9     | <b><font color="red">Treadmill Ergometer</font></b>: Standard protocols used? (2)                             | 1) Bruce <br>2) Modified Bruce                                                                                          |
+| 10    | <b><font color="red">Cycle Ergometer (Bike)</font></b>: Type of movement and monitoring benefit?              | Pedaling; easier to monitor BP and collect blood.                                                                       |
+| 11    | <b><font color="red">Cycle Ergometer (Bike)</font></b>: Patient population benefit?                           | Safer for those with arthritis.                                                                                         |
+| 12    | <b><font color="red">Cycle Ergometer (Bike)</font></b>: Protocol and measurement unit?                        | RAMP protocol; measured in Watts.                                                                                       |
+| 13    | <b><font color="red">Cardiac Limitation</font></b>: Exercise finding regarding ventilatory reserve?           | Large ventilatory reserve persists.                                                                                     |
+| 14    | <b><font color="red">Cardiac Limitation</font></b>: Primary failure during exercise?                          | Heart fails to meet oxygen demand first.                                                                                |
+| 15    | <b><font color="red">Cardiac Limitation</font></b>: HRR and O2 pulse findings?                                | ⬇ Heart Rate Reserve (HRR) and low O2 pulse.                                                                            |
+| 16    | <b><font color="red">Cardiac Limitation</font></b>: Specific ECG abnormality finding?                         | ST depression >2mm.                                                                                                     |
+| 17    | <b><font color="red">Ventilatory Limitation</font></b>: Exercise finding regarding heart rate reserve?        | Large heart rate reserve (HRR) remains.                                                                                 |
+| 18    | <b><font color="red">Ventilatory Limitation</font></b>: Breathing reserve parameter?                          | ⬇ Breathing Reserve (<20% or <11L).                                                                                     |
+| 19    | <b><font color="red">Ventilatory Limitation</font></b>: Specific threshold finding?                           | Absent anaerobic threshold.                                                                                             |
+| 20    | <b><font color="red">Wasserman Gears</font></b>: Essential gears (3) for oxygen delivery?                     | 1) Lungs (entry/exit) <br>2) Heart/Blood (delivery) <br>3) Muscle (uptake/metabolism).                                  |
+| 21    | <b><font color="red">Invasive Level II testing</font></b> (CPET): Procedure and measurement interval?         | Arterial line insertion; measures serial ABG every 2 minutes.                                                           |
+| 22    | <b><font color="red">Invasive Level III testing</font></b> (CPET): Procedure and venous access site?          | Right-sided heart cath; central line into Internal Jugular Vein (IJV) to pulmonary artery.                              |
+| 23    | <b><font color="red">Invasive Level III testing</font></b> (CPET): Primary measurement parameter?             | Pulmonary capillary wedge pressure.                                                                                     |
+| 24    | <b><font color="red">Pulmonary Arterial Hypertension (PAH)</font></b>: Mechanism for high CO2 in CPET?        | Unoxygenated blood in the pulmonary artery leads to elevated CO2 levels.                                                |
+| 25    | <b><font color="red">Slow-twitch muscle fibers</font></b>: Three key physiological features?                  | Fatigue-resistant, richer capillary supply, and higher oxidative capacity.                                              |
+| 26    | <b><font color="red">Fast-twitch muscle fibers</font></b>: Function and fatigue characteristics?              | Generate rapid, powerful contractions but fatigue easily.                                                               |
+| 27    | <b><font color="red">Fast-twitch muscle fibers</font></b>: Predominant athlete type?                          | Sprinters.                                                                                                              |
+| 28    | <b><font color="red">Long COVID</font></b>: Biopsy finding in skeletal muscle for dyspnea?                    | Mitochondrial destruction.                                                                                              |
+| 24    | <b><font color="red">FIT Equation</font></b>: Calculation for <b>Oxygen uptake (VO2)</b>?                     | Cardiac Output (HR x SV) x arterial-venous O2 difference [CO × (C(a-v)O2)].                                             |
+| 25    | <b><font color="red">FIT Equation</font></b>: Factors (3) negatively affecting <b>Stroke Volume (SV)</b>?     | 1) Cardiomyopathies <br>2) Poor contractility <br>3) Extreme tachycardia.                                               |
+| 26    | <b><font color="red">AHA Class I Indications</font></b> (CPET): Heart failure specific indication?            | Evaluation for heart transplantation.                                                                                   |
+| 27    | <b><font color="red">AHA Class I Indications</font></b> (CPET): Dyspnea indication?                           | To differentiate between cardiac versus pulmonary limitations.                                                          |
+| 28    | <b><font color="red">Class III Designation</font></b> (CPET): When is it not indicated?                       | Routine evaluation of exercise capacity without specific medical indications.                                           |
+| 29    | <b><font color="red">Modified Bruce Protocol</font></b>: Patient population and speed/slope changes?          | For patients; slower speed/slope increase.                                                                              |
+| 30    | <b><font color="red">Bruce Protocol</font></b>: Indicated population?                                         | Active individuals and athletes.                                                                                        |
+| 31    | <b><font color="red">RAMP protocol</font></b>: Characteristics of resistance increase?                        | Uniform, linear increase in resistance (Watts) every minute.                                                            |
+| 32    | <b><font color="red">CPET Termination Criteria</font></b>: Systolic blood pressure (SBP) findings?            | Drop in SBP or SBP exceeding 250 mmHg.                                                                                  |
+| 33    | <b><font color="red">ECG monitoring during CPET</font></b>: Interpretation of 1 mm ST depression?             | Indicates ischemia.                                                                                                     |
+| 34    | <b><font color="red">ECG monitoring during CPET</font></b>: Termination criteria for ST segment?              | ST-segment depression >2 mm or ST elevation >1 mm.                                                                      |
+| 35    | <b><font color="red">Maximum Voluntary Ventilation (MVV)</font></b>: Procedure for measurement?               | Panting at rest for 15-18 seconds.                                                                                      |
+| 36    | <b><font color="red">Maximum Voluntary Ventilation (MVV)</font></b>: Primary use in CPET?                     | To determine the breathing reserve.                                                                                     |
+| 37    | <b><font color="red">MVV Calculation</font></b>: Estimation formula using FEV1?                               | FEV1 x 40.                                                                                                              |
+| 38    | <b><font color="red">9-Panel Wasserman Result</font></b>: Focus of Panels 1 and 8?                            | Metabolism.                                                                                                             |
+| 39    | <b><font color="red">9-Panel Wasserman Result</font></b>: Focus of Panels 2 and 3?                            | Cardiovascular/circulatory function.                                                                                    |
+| 40    | <b><font color="red">9-Panel Wasserman Result</font></b>: Focus of Panels 4, 6, and 7?                        | Ventilatory efficiency and gas exchange.                                                                                |
+| 41    | <b><font color="red">VO2 max</font></b>: Definition and significance in CPET?                                 | Best index for exercise capacity; defined by a plateau in oxygen consumption despite increasing workload.               |
+| 42    | <b><font color="red">VO2 peak</font></b>: Definition?                                                         | Highest VO2 reached during maximum exercise when no plateau is achieved.                                                |
+| 43    | <b><font color="red">Resting VO2</font></b>: Value in ml/kg/min and ml/min (1 MET)?                           | 3.5 ml/kg/min or 250 ml/min.                                                                                            |
+| 44    | <b><font color="red">VO2 max predicted normal</font></b>: Standard percentage?                                | >84% of the predicted value.                                                                                            |
+| 45    | <b><font color="red">Anaerobic Threshold (AT)</font></b>: Chemical mechanism for VCO2 exponential increase?   | Bicarbonate buffering of lactic acid.                                                                                   |
+| 46    | <b><font color="red">Anaerobic Threshold (AT)</font></b>: Typical percentage of VO2 max?                      | 50%-60%.                                                                                                                |
+| 47    | <b><font color="red">V-slope Method</font></b>: Identification of AT in Panel 3?                              | Point where VCO2 curve deflects upward from the 45-degree linear relationship with VO2.                                 |
+| 48    | <b><font color="red">Respiratory Exchange Ratio (RER)</font></b>: Definition and ratio calculation?           | Ratio of VCO2 to VO2.                                                                                                   |
+| 49    | <b><font color="red">Respiratory Exchange Ratio (RER)</font></b>: Value indicating maximal effort?            | RER >1.1.                                                                                                               |
+| 50    | <b><font color="red">Respiratory Compensatory Point (RCP)</font></b>: Definition and metabolic state?         | Second threshold; bicarbonate can no longer buffer lactate, leading to metabolic acidosis.                              |
+| 51    | <b><font color="red">Heart Rate Reserve (HRR)</font></b>: Calculation formula?                                | Predicted Max HR - Achieved Max HR.                                                                                     |
+| 52    | <b><font color="red">Heart Rate Reserve (HRR)</font></b>: Normal value indicating maximum cardiac push?       | <15 bpm.                                                                                                                |
+| 53    | <b><font color="red">O2 Pulse</font></b>: Formula and physiological surrogate?                                | VO2/HR; surrogate for Stroke Volume (SV).                                                                               |
+| 54    | <b><font color="red">Breathing Reserve</font></b>: Formula and measurement parameters?                        | Difference between MVV and maximal exercise ventilation (VEmax).                                                        |
+| 55    | <b><font color="red">Breathing Reserve</font></b>: Normal result values?                                      | >20% or >11 Liters.                                                                                                     |
+| 56    | <b><font color="red">VE/VCO2 Slope</font></b>: Definition and normal range?                                   | Ventilatory efficiency; 27-30.                                                                                          |
+| 57    | <b><font color="red">VE/VCO2 Slope</font></b>: High value meaning and examples?                               | >34; indicates inefficient ventilation (Heart Failure or Pulmonary Hypertension).                                       |
+| 58    | <b><font color="red">Inspiratory Capacity (IC) Maneuver</font></b>: Finding for air trapping in COPD?         | End-expiratory lung volume (EELV) increases by >350mL.                                                                  |
+| 59    | <b><font color="red">Deconditioning Syndrome</font></b>: CPET markers?                                        | Low VO2 max with normal cardiopulmonary markers; muscle-based limitation.                                               |
+| 60    | <b><font color="red">Exercise Prescription</font></b>: Characteristics of Phase 1 and Phase 2 training zones? | Phase 1: Recovery/low intensity; Phase 2: Moderate/aerobic-anaerobic (between AT and RCP).                              |
+| 61    | <b><font color="red">Exercise Prescription</font></b>: Goal of training regarding Anaerobic Threshold (AT)?   | Shift the AT to the right.                                                                                              |
+| 62    | <b><font color="red">HIIT Contraindications</font></b>: Heart-specific conditions? (2)                        | 1) Dilated cardiomyopathy (DCM) <br>2) Hypertrophic obstructive cardiomyopathy (HOCM).                                  |
+| 63    | <b><font color="red">HIIT Contraindications</font></b>: Vascular/Acute conditions? (2)                        | 1) Acute thrombus <br>2) Recent aortic dissection.                                                                      |
+| 64    | <b><font color="red">Karvonen’s Formula</font></b>: Scientific limitation compared to CPET?                   | Does not allow for real-time ECG and gas exchange monitoring.                                                           |
+| 65    | Compare <b><font color="red">VO2 Max vs. VO2 Peak</font></b> based on testing findings.                       | Max: Has a "plateau" in O2 consumption; Peak: Highest value at exhaustion without a plateau.                            |
+| 66    | Compare <b><font color="red">Obstructive vs. Restrictive PFT</font></b> regarding FEV1/FVC ratio.             | Obstructive: Decreased ratio (<80%); Restrictive: Normal or maintained ratio.                                           |
+| 67    | Compare <b><font color="red">Cardiac vs. Pulmonary Limitation</font></b> regarding Heart Rate Reserve (HRR).  | Cardiac: Consumed/low HRR; Pulmonary: Large HRR persists.                                                               |
+| 68    | Compare <b><font color="red">Cardiac vs. Pulmonary Limitation</font></b> regarding Breathing Reserve.         | Cardiac: Large breathing reserve; Pulmonary: Low/absent reserve (<20%).                                                 |
+| 69    | Compare <b><font color="red">Anaerobic Threshold (AT) vs. RCP</font></b> based on lactate accumulation.       | AT: First threshold where lactate begins to accumulate; RCP: Second threshold where bicarbonate buffering is exhausted. |
+| 70    | <b><font color="red">Inhalation vs. Exhalation</font></b>: Difference in muscular processes?                  | Inhalation: Active process; Exhalation: Passive process.                                                                |
+| 71    | <b><font color="red">Exhalation</font></b>: Efficiency in healthy individuals within the first second?        | 75% of gases are released (FEV1).                                                                                       |
+| 72    | Compare <b><font color="red">Phase 2 vs. Phase 3 Cardiac Rehab</font></b>.                                    | Phase 2: Supervised outpatient exercise with monitoring; Phase 3: Independent maintenance with remote monitoring.       |
+| 73    | Compare <b><font color="red">Treadmill vs. Bike Termination</font></b> reasons.                               | Treadmill: General fatigue/gait instability; Bike: Isolated leg fatigue (smaller muscle mass).                          |
+| 74    | Compare <b><font color="red">Metabolic vs. Circulatory Panels</font></b> in the Wasserman 9-Panel.            | Metabolic (1 & 8): VO2 and VCO2; Circulatory (2 & 3): HR and O2 pulse.                                                  |
+| 75    | Compare <b><font color="red">Isocapnic Buffering vs. Acidosis</font></b> regarding timing.                    | Isocapnic buffering: Occurs between AT and RCP; Acidosis: Occurs after the RCP.                                         |
+| 76    | <b><font color="red">Isocapnic Buffering</font></b>: Role of bicarbonate?                                     | Successfully maintains pH.                                                                                              |
+| 77    | Compare <b><font color="red">VE/VO2 vs. VE/VCO2 nadirs</font></b> for threshold detection.                    | Nadir of VE/VO2: Marks the AT; Nadir of VE/VCO2: Marks the RCP.                                                         |
+| 78    | <b><font color="red">PETCO2</font></b>: Interpretation of a decrease?                                         | Suggests hyperventilation.                                                                                              |
+| 79    | <b><font color="red">PETCO2</font></b>: Interpretation of an increase?                                        | Suggests increased dead space (VD/VT).                                                                                  |
+| 80    | Compare <b><font color="red">Normal Heart vs. Heart Failure</font></b> O2 Pulse appearance.                   | Normal: Steady linear rise and plateau; HF: Low, flattens early, or declines.                                           |
+| 81    | <b><font color="red">HR Formula (220-age)</font></b>: Significance of achieving a higher HR?                  | Formula is not perfectly applicable; test continues if patient is asymptomatic.                                         |
+| 82    | Compare <b><font color="red">Spirometry vs. Plethysmography</font></b> for volume measurement.                | Spirometry: Cannot measure RV; Plethysmography: Measures RV and TLC.                                                    |
+| 83    | Compare <b><font color="red">Aerobic vs. Anaerobic Metabolism</font></b> metabolic pathway?                   | Aerobic: Krebs cycle (oxygen required); Anaerobic: Cytoplasm (produces lactate).                                        |
+| 84    | <b><font color="red">Anaerobic Metabolism</font></b>: When does it start to kick in significantly?            | After the Anaerobic Threshold (AT).                                                                                     |
+| 85    | What is the <b><font color="red">Modified Bruce Protocol</font></b> speed/slope style?                        | Slower speed and slope increase.                                                                                        |
+| 86    | What is the <b><font color="red">9-Panel Wasserman Result</font></b> Panel 3 identification?                  | V-slope method for Anaerobic Threshold.                                                                                 |
+| 87    | <b><font color="red">O2 Pulse</font></b> formula?                                                             | VO2 / HR.                                                                                                               |
+| 88    | <b><font color="red">Normal VE/VCO2 Slope</font></b> value range?                                             | 27-30.                                                                                                                  |
+| 89    | <b><font color="red">Respiratory Compensatory Point (RCP)</font></b>: Effect on ventilation?                  | Leads to hyperventilation.                                                                                              |
+| 90    | <b><font color="red">Class I CPET indication</font></b> regarding heart transplant?                           | Evaluate exercise capacity in heart failure patients.                                                                   |
+| 91    | <b><font color="red">Slow-twitch muscle fibers</font></b> oxidative capacity?                                 | Higher oxidative capacity.                                                                                              |
+| 92    | <b><font color="red">Invasive Level II Testing</font></b> measurements?                                       | Serial arterial blood gas (ABG).                                                                                        |
+| 93    | <b><font color="red">Resting VO2</font></b> for an 80kg person in ml/min?                                     | 280 ml/min. (Calculation: 3.5 x 80).                                                                                    |
+| 94    | <b><font color="red">Bruce Protocol</font></b> used for?                                                      | Active individuals/athletes.                                                                                            |
+| 95    | What determines <b><font color="red">Breathing Reserve</font></b>?                                            | Difference between MVV and VEmax.                                                                                       |
+| 96    | <b><font color="red">V-slope Method</font></b>: Deviation angle from linearity for AT?                        | Deflects upward from the 45-degree relationship.                                                                        |
+| 97    | <b><font color="red">Respiratory Exchange Ratio (RER)</font></b>: Maximal effort value?                       | RER >1.1.                                                                                                               |
+| 98    | <b><font color="red">Heart Rate Reserve (HRR)</font></b> for cardiac limit?                                   | <15 bpm.                                                                                                                |
+| 99    | <b><font color="red">Treadmill vs. Bike</font></b>: Which has higher likelihood for "real" VO2 maximum?       | Treadmill.                                                                                                              |
+| 100   | <b><font color="red">Spirometry</font></b>: Limitation regarding <b>Residual Volume (RV)</b>?                 | Cannot measure it.                                                                                                      |
+| 101   | <b><font color="red">FIT Equation</font></b>: Elements of Cardiac Output (2)?                                 | Heart Rate (HR) and Stroke Volume (SV).                                                                                 |
+| 102   | <b><font color="red">PAH finding</font></b> in CPET?                                                          | High CO2 due to unoxygenated blood in pulmonary artery.                                                                 |
+| 103   | <b><font color="red">ST-segment elevation</font></b> termination criteria?                                    | >1 mm.                                                                                                                  |
+| 104   | <b><font color="red">MVV</font></b> measurement time?                                                         | 15-18 seconds.                                                                                                          |
+| 105   | <b><font color="red">Phase 3 Cardiac Rehab</font></b> focus?                                                  | Independent, long-term healthy habits.                                                                                  |
