@@ -5,6 +5,7 @@
     - [8th_Shifting](02_OB/8th_Shifting.md)
 - [03-GYNE](03_GYNE/README.md)
     - [7th_Shifting](03_GYNE/7th_Shifting.md)
+    - [8th_Shifting](03_GYNE/8th_Shifting.md)
 - [04-IM](04_IM/README.md)
     - [3a](04_IM/3rd_Shifting/3a.md)
     - [3b](04_IM/3rd_Shifting/3b.md)
