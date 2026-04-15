@@ -934,7 +934,7 @@ text
 
 ## QA
 
-text
+
 | Count | Question | Answer |
 | :--- | :--- | :--- |
 | **I.** | **PEDIATRIC ABDOMINAL AND SOLID TUMORS** | |
@@ -1605,3 +1605,734 @@ text
 | 99    | Contrast <b><font color="red">Decorticate vs Decerebrate Posturing</font></b>?                                                        | Decorticate (Flexion) vs Decerebrate (Extension/Severe)                                                                                                                    |
 | 100   | Contrast <b><font color="red">Normal Ventilation vs Hyperventilation</font></b> targets in TBI?                                       | Normal (Maintenance) vs Low CO2 (Acute Herniation)                                                                                                                         |
 
+#  5.7
+## Summary
+
+
+### **I. OVERVIEW OF ENVIRONMENTAL HEALTH & SUSCEPTIBILITY**
+
+| Feature | Description |
+| :--- | :--- |
+| **Burden of Disease** | Reducing environmental risks could prevent 1 in 4 child deaths. In 2012, 1.7 million deaths in children <5 were environmental (570k respiratory, 361k diarrhea, 270k neonatal, 200k malaria/injuries). |
+| **Windows of Vulnerability** | Critical periods (pregnancy, infancy, early childhood) where health effects of synthetic chemicals are most serious. |
+| **Environmental Poisoning** | Toxic exposures occurring in everyday surroundings (home, school, community) rather than industrial accidents. |
+
+*   <span style="color:red;">Children's hand-to-mouth activity (exploratory behavior)</span> in the context of environmental poisoning makes them particularly vulnerable as they ingest toxins from soil, dust, and surfaces.
+*   <span style="color:red;">Children's metabolic rates</span> are higher than adults, which contribute to proportionaly greater exposures to environmental pollutants.
+*   <span style="color:red;">Immature metabolic pathways</span> in infants (especially in the first few months) may prevent them from detoxifying or metabolizing chemicals as effectively as adults.
+*   <span style="color:red;">Growing and developing organ systems</span> are exquisitely sensitive to chemical pollutants because of complex, fast-moving, and highly choreographed developmental processes.
+*   <span style="color:red;">Future life expectancy</span> allows children time to develop multistage chronic diseases triggered by early-life toxic exposures.
+
+
+### **II. HEAVY METALS (LEAD AND ARSENIC)**
+
+| Feature | <span style="color:red;">Lead (Pb)</span> | <span style="color:red;">Arsenic (As)</span> |
+| :--- | :--- | :--- |
+| **Definition** | A toxic metal with no essential biological function; purely a toxicant. | A metalloid; **Arsine gas** is the most toxic form. |
+| **Major Sources** | Lead-based paint chips/dust, old plumbing, battery recycling, glazed ceramics, "tuba" (moonshine). | Herbicides, insecticides, volcanic ash/gas, mining, and metal recycling. |
+| **Primary Route** | **Nonnutritive hand-to-mouth activity** (most common in young children). | Ingestion (water/food) and inhalation. |
+| **Pathogenesis** | Binds sulfhydryl groups; competes with Calcium; inhibits enzymes in the heme pathway (ferrochelatase). | Concentrates in hair, nails, and skin; causes epigenetic dysregulation and destruction of axonal cylinders. |
+| **Key Physical Findings** | Short stature (1cm per 10ug/dL), delayed puberty, constipation. | **Melanosis, Palmoplantar hyperkeratosis (pathognomonic)**, **Mees lines** (white nail striae). |
+| **Neurologic Effect** | Disrupts neuronal pruning/tertiary brain structure; associated with ADHD/Cognitive loss. | Progressive **stocking-glove** peripheral neuropathy (distal to proximal). |
+| **Gold Standard Dx** | **Blood Lead Level (BLL)**; reference value is **5 ug/dL** (CDC 2012). | **24-hour urine collection** (>50 ug/L is toxic). |
+| **Treatment** | Chelation (DMSA/Succimer) if BLL >45 ug/dL. | **Dimercaprol (BAL)** for severe cases; Succimer (DMSA) for moderate. |
+
+*   <span style="color:red;">Lead storage</span> is primary in the **bone**, where it resides for years acting as an internal reservoir that can be mobilized during pregnancy or high bone turnover.
+*   <span style="color:red;">Lead in the blood</span> exists 97% bound on or in **Red Blood Cells**, with only a tiny fraction in plasma mediating cellular uptake.
+*   <span style="color:red;">Essential elements (Calcium and Iron)</span> are important because their deficiency **enhances lead absorption and toxicity** through competition for binding sites*.
+*   <span style="color:red;">Organic lead (e.g., Tetraethyl lead)</span> is unique because it can readily penetrate the skin, unlike inorganic lead.
+*   <span style="color:red;">Safe Lead Level</span> does not exist; the CDC emphasizes there is **no measurable level of blood lead known to be without deleterious effects**.
+*   <span style="color:red;">Lead-induced cognitive loss</span> is estimated at 0.25-0.50 points of cognitive score for every 1 ug/dL elevation in BLL.
+*   <span style="color:red;">Lead Encephalopathy</span> is most likely observed in children with BLL **higher than 100 ug/dL**.
+*   <span style="color:red;">Gastrointestinal complaints</span> such as anorexia, vomiting, and **constipation (most common)** are twice as likely if BLL >20 ug/dL.
+*   <span style="color:red;">Arsenic accumulation in the fetus</span> occurs because arsenic can cross the placenta.
+*   <span style="color:red;">Mees lines timing</span> can be estimated because nails grow at a rate of **0.4 mm/day**.
+*   <span style="color:red;">Seafood consumption</span> should be avoided for 72 hours prior to an **Arsenic urine test** to avoid false positives.
+*   <span style="color:red;">Blackfoot Disease</span> is an obliterative arterial disease of the legs associated with chronic arsenic exposure.
+*   <span style="color:red;">Dimercaprol (BAL) contraindication</span>: It **cannot be given to patients with G6PD deficiency** as it causes hemolysis.
+
+
+### **III. PESTICIDES (ORGANOPHOSPHATES AND CARBAMATES)**
+
+| Feature | <span style="color:red;">Organophosphates (OP)</span> | <span style="color:red;">Carbamates</span> |
+| :--- | :--- | :--- |
+| **Examples** | Malathion. | Carbaryl. |
+| **Mechanism** | Inhibits Acetylcholinesterase (AChE) and Butyrylcholinesterase (PChE). | Inhibits Acetylcholinesterase (AChE). |
+| **Toxidrome** | **DDUMMBBBELS** (Cholinergic crisis). | **DDUMMBBBELS** (Cholinergic crisis). |
+| **Antidote 1** | **Atropine** (Antagonizes muscarinic receptors only). | **Atropine** (Antidote of choice). |
+| **Antidote 2** | **Pralidoxime** (Regenerates AChE; give within first 36 hours). | Generally NOT required/indicated. |
+
+*   <span style="color:red;">DDUMMBBBELS Mnemonic</span> for cholinergic crisis includes: Diarrhea/Diaphoresis, Urination, Miosis/Muscle fasciculations, Bradycardia/Bronchorrhea/Bronchoconstriction, Emesis, Lacrimation, Salivation*.
+*   <span style="color:red;">Acetylcholine accumulation</span> at muscarinic and nicotinic receptors is the result of cholinesterase inhibition by pesticides.
+*   <span style="color:red;">Atropine</span> is a competitive antagonist that improves **muscarinic symptoms only**; it has no effect on nicotinic receptors.
+*   <span style="color:red;">Pralidoxime chloride</span> acts by regenerating the Acetylcholinesterase enzyme and lowering ACh concentrations, but it is **not available in the Philippines**.
+
+
+### **IV. FOOD CONTAMINANTS (CIGUATERA AND TETRODOTOXIN)**
+
+| Feature | <span style="color:red;">Ciguatera Fish Poisoning</span> | <span style="color:red;">Tetrodotoxin</span> |
+| :--- | :--- | :--- |
+| **Source** | Reef fish (Barracuda, Snapper) via *Gambierdiscus toxicus*. | Pufferfish (Fugu) or Blue-ringed octopus. |
+| **Toxin Stability** | Heat- and Freeze-stable (cooking does not help). | Extremely potent; blocks voltage-gated Na+ channels. |
+| **Hallmark Symptom** | **Hot-Cold Reversal (Cold Alodenia)**. | **Ascending Flaccid Paralysis**. |
+| **Phase 1 Symptoms** | GI Phase: Diarrhea, vomiting, abdominal pain. | Perioral paresthesia, numbness, vomiting. |
+| **Phase 2 Symptoms** | Neuro Phase: Pruritus, paresthesia, circumoral dysesthesia. | Weakness, ataxia, respiratory arrest. |
+| **Management** | Supportive + **Early Mannitol infusion** (anecdotal). | Supportive + **Early intubation/ventilation**. |
+
+*   <span style="color:red;">Ciguatoxin metabolism</span> involves increasing sodium ion permeability and depolarizing nerve cells.
+*   <span style="color:red;">Respiratory failure</span> is the primary cause of death in **Tetrodotoxin** poisoning due to paralysis of respiratory muscles.
+
+
+### **V. HOUSEHOLD CLEANING AGENTS (CAUSTICS)**
+
+| Feature | <span style="color:red;">Acids</span> | <span style="color:red;">Alkalis</span> |
+| :--- | :--- | :--- |
+| **pH Threshold** | Below 3. | Above 11. |
+| **Tissue Effect** | Desiccates cells; produces an **eschar**. | Protein dissolution and fat saponification. |
+| **Necrosis Type** | **Coagulation Necrosis** (limits deep spread). | **Liquefactive Necrosis** (deep penetration). |
+| **Examples** | Muriatic acid (Hydrochloric acid). | Zonrox (Sodium hypochlorite). |
+
+*   <span style="color:red;">Endoscopy</span> is the **Gold Standard** for managing caustic ingestions because it allows for both classification of mucosal injury and prognostication.
+*   <span style="color:red;">Grade I Caustic Burn</span> prognosis is excellent; they do not develop strictures or increased cancer risk.
+*   <span style="color:red;">Grade IIb and III Caustic Burns</span> are high risk for complications like perforation, infection, and stricture development.
+*   <span style="color:red;">Respiratory tract damage</span> in caustic exposure can occur via direct inhalation or aspiration of vomitus, leading to stridor and hoarseness.
+
+
+### **VI. PHARMACEUTICAL AGENTS (ACETAMINOPHEN)**
+
+*   <span style="color:red;">Acetaminophen (Paracetamol)</span> is the **leading pharmaceutical cause of poisoning** in the pediatric age group because it is readily available over-the-counter.
+*   <span style="color:red;">NAPQI (N-acetyl-p-benzoquinone imine)</span> is the highly cytotoxic intermediate metabolite of paracetamol that causes liver injury.
+*   <span style="color:red;">Glutathione depletion</span> in Acetaminophen toxicity leads to unbound **NAPQI** binding to mitochondrial proteins, resulting in hepatic cell death.
+*   <span style="color:red;">N-acetylcysteine (NAC)</span> is the antidote for Acetaminophen; it acts as a **glutathione precursor** and substitute to bind and detoxify NAPQI.
+
+
+### **VII. SUMMARY COMPARISONS FOR EXAMS**
+
+1.  <span style="color:red;">Lead vs. Arsenic</span>: Lead primarily presents with cognitive/behavioral issues and constipation, whereas Arsenic presents with visible skin changes (melanosis/hyperkeratosis) and Mees lines.
+2.  <span style="color:red;">Acid vs. Alkali</span>: Acid causes **Coagulation necrosis** (think "A-C"); Alkali causes **Liquefactive necrosis** (think "A-L").
+3.  <span style="color:red;">Ciguatera vs. Tetrodotoxin</span>: Look for **Hot-Cold Reversal** in Ciguatera and **Ascending Paralysis** in Tetrodotoxin (pufferfish).
+4.  <span style="color:red;">Inorganic Lead vs. Organic Lead</span>: Inorganic lead has minimal skin absorption, but **Organic lead (Tetraethyl)** is readily absorbed through the skin.
+5.  <span style="color:red;">Organophosphates vs. Carbamates</span>: Both cause DDUMMBBBELS, but **Organophosphates** may require Pralidoxime (AChE regenerator), while **Carbamates** only require Atropine.
+6.  <span style="color:red;">Iron/Calcium Deficiency vs. Lead</span>: Deficiencies in Iron or Calcium **increase** lead absorption; adequate levels **decrease** it.
+7.  <span style="color:red;">Arsenic Urine Test vs. Lead Blood Test</span>: Use **24-hour urine** for Arsenic (highly variable in blood) and **Blood (BLL)** for Lead (retained in RBCs).
+8.  <span style="color:red;">Mees Lines rate</span>: Arsenic exposure can be timed using Mees lines based on the **0.4 mm/day** nail growth.
+9.  <span style="color:red;">BAL vs. Succimer</span>: Both treat metals, but **BAL (Dimercaprol)** is contraindicated in G6PD deficiency, whereas **Succimer (DMSA)** is the oral agent available in the Philippines.
+10. <span style="color:red;">Essential vs. Toxic Metals</span>: Iron, Zinc, Copper, and Manganese are essential; Lead, Arsenic, Mercury, Thallium, and Cadmium have **no biological role**.
+11. <span style="color:red;">Muscarinic vs. Nicotinic</span>: **Atropine** only treats muscarinic symptoms (secretions/bradycardia); it does **not** treat nicotinic symptoms (muscle fasciculations).
+12. <span style="color:red;">Acetaminophen Antidote</span>: **NAC** works by replenishing **Glutathione**, which is required to neutralize the toxic metabolite **NAPQI**.
+13. <span style="color:red;">Ciguatoxin vs. Cooking</span>: Unlike many bacterial toxins, **Ciguatoxin** is heat-stable and cannot be destroyed by cooking or freezing.
+14. <span style="color:red;">BLL Reference Value</span>: The value of **5 ug/dL** is an "action level" based on the 97.5th percentile, not a "safe" or "toxicity" cutoff.
+15. <span style="color:red;">Lead and Height</span>: For every 10 ug/dL increase in BLL, a child is typically **1 cm shorter**.
+16. <span style="color:red;">Tetrodotoxin MOA</span>: It is a **Sodium (Na+) channel blocker**, physically preventing depolarization and nerve conduction.
+
+
+## QA
+
+### **I. OVERVIEW OF ENVIRONMENTAL HEALTH & SUSCEPTIBILITY**
+
+| Count | Q | A |
+| :--- | :--- | :--- |
+| 1 | What proportion of child deaths could be prevented by reducing environmental risks? | 1 in 4 |
+| 2 | In 2012, how many deaths in children under 5 were caused by environmental factors? | 1.7 million deaths |
+| 3 | What are the three <b><font color="red">Windows of Vulnerability</font></b> mentioned? | 1) Pregnancy <br>2) Infancy <br>3) Early childhood |
+| 4 | Define <b><font color="red">Environmental Poisoning</font></b>. | Toxic exposures in everyday surroundings. |
+| 5 | Why does <b><font color="red">children's hand-to-mouth activity</font></b> make them vulnerable? | Ingest toxins from soil/dust. |
+| 6 | How do <b><font color="red">children's metabolic rates</font></b> compare to adults regarding pollutants? | Higher rates (greater exposure). |
+| 7 | What is the effect of <b><font color="red">immature metabolic pathways</font></b> in infants? | Ineffective detoxification of chemicals. |
+| 8 | Why are <b><font color="red">growing organ systems</font></b> sensitive to pollutants? | Complex, fast-moving developmental processes. |
+| 9 | What does <b><font color="red">future life expectancy</font></b> allow in children exposed to toxins? | Time to develop chronic diseases. |
+
+### **II. HEAVY METALS (LEAD AND ARSENIC)**
+
+| Count | Q | A |
+| :--- | :--- | :--- |
+| 10 | What is the biological function of <b><font color="red">Lead (Pb)</font></b>? | No essential biological function. |
+| 11 | What are the major sources (5) of <b><font color="red">Lead (Pb)</font></b>? | 1) Paint chips/dust <br>2) Old plumbing <br>3) Battery recycling <br>4) Glazed ceramics <br>5) Moonshine ("tuba") |
+| 12 | What is the primary route of <b><font color="red">Lead (Pb)</font></b> exposure in young children? | Nonnutritive hand-to-mouth activity. |
+| 13 | Identify the Pathogenesis (3): <b><font color="red">Lead (Pb)</font></b> | 1) Binds sulfhydryl groups <br>2) Competes with Calcium <br>3) Inhibits heme pathway enzymes |
+| 14 | Which enzyme in the heme pathway does <b><font color="red">Lead (Pb)</font></b> inhibit? | Ferrochelatase |
+| 15 | What are the Key Physical Findings (3) of <b><font color="red">Lead (Pb)</font></b>? | 1) Short stature <br>2) Delayed puberty <br>3) Constipation |
+| 16 | What is the neurologic effect of <b><font color="red">Lead (Pb)</font></b>? | Disrupts neuronal pruning. |
+| 17 | Which behavior disorders are associated with <b><font color="red">Lead (Pb)</font></b> neurologic effects? | ADHD and Cognitive loss. |
+| 18 | What is the Gold Standard Diagnostic for <b><font color="red">Lead (Pb)</font></b>? | Blood Lead Level (BLL). |
+| 19 | What is the CDC (2012) reference value for <b><font color="red">Blood Lead Level</font></b>? | 5 ug/dL |
+| 20 | What is the Treatment for <b><font color="red">Lead (Pb)</font></b> if BLL >45 ug/dL? | Chelation (DMSA/Succimer). |
+| 21 | Where is the primary storage site for <b><font color="red">Lead (Pb)</font></b> in the body? | Bone |
+| 22 | How much <b><font color="red">Lead</font></b> in the blood is bound to Red Blood Cells? | 97% |
+| 23 | Which element deficiencies enhance <b><font color="red">Lead (Pb)</font></b> absorption? | Calcium and Iron. |
+| 24 | What makes <b><font color="red">Organic lead (Tetraethyl lead)</font></b> unique? | Readily penetrates the skin. |
+| 25 | What is the <b><font color="red">Safe Lead Level</font></b> according to the CDC? | No measurable safe level exists. |
+| 26 | How many points of cognitive score are lost per 1 ug/dL elevation in <b><font color="red">Lead (Pb)</font></b>? | 0.25-0.50 points |
+| 27 | At what BLL is <b><font color="red">Lead Encephalopathy</font></b> most likely observed? | Higher than 100 ug/dL. |
+| 28 | What is the most common gastrointestinal complaint in <b><font color="red">Lead (Pb)</font></b> poisoning? | Constipation |
+| 29 | Define <b><font color="red">Arsenic (As)</font></b>. | A metalloid. |
+| 30 | What is the most toxic form of <b><font color="red">Arsenic (As)</font></b>? | Arsine gas |
+| 31 | What are the major sources (5) of <b><font color="red">Arsenic (As)</font></b>? | 1) Herbicides <br>2) Insecticides <br>3) Volcanic ash/gas <br>4) Mining <br>5) Metal recycling |
+| 32 | What are the primary routes (2) of <b><font color="red">Arsenic (As)</font></b> exposure? | Ingestion and Inhalation. |
+| 33 | Where does <b><font color="red">Arsenic (As)</font></b> concentrate in the body? | Hair, nails, and skin. |
+| 34 | What structural neurologic damage is caused by <b><font color="red">Arsenic (As)</font></b>? | Destruction of axonal cylinders. |
+| 35 | What are the pathognomonic physical findings for <b><font color="red">Arsenic (As)</font></b>? | Melanosis and Palmoplantar hyperkeratosis. |
+| 36 | Define <b><font color="red">Mees lines</font></b> in Arsenic poisoning. | White nail striae. |
+| 37 | Describe the distribution of <b><font color="red">Arsenic</font></b> peripheral neuropathy. | Progressive stocking-glove (distal-to-proximal). |
+| 38 | What is the Gold Standard Diagnostic for <b><font color="red">Arsenic (As)</font></b>? | 24-hour urine collection. |
+| 39 | What 24-hour urine level is considered toxic for <b><font color="red">Arsenic (As)</font></b>? | >50 ug/L |
+| 40 | What is the 1st line Treatment for severe <b><font color="red">Arsenic (As)</font></b> cases? | Dimercaprol (BAL). |
+| 41 | Can <b><font color="red">Arsenic (As)</font></b> accumulate in a fetus? | Yes (crosses the placenta). |
+| 42 | What is the growth rate of nails used to time <b><font color="red">Arsenic (As)</font></b> exposure? | 0.4 mm/day |
+| 43 | What must be avoided 72 hours prior to an <b><font color="red">Arsenic urine test</font></b>? | Seafood consumption. |
+| 44 | Define <b><font color="red">Blackfoot Disease</font></b>. | Obliterative arterial disease of legs. |
+| 45 | What is the contraindication for <b><font color="red">Dimercaprol (BAL)</font></b>? | G6PD deficiency. |
+| 46 | Why is <b><font color="red">Dimercaprol (BAL)</font></b> contraindicated in G6PD deficiency? | Causes hemolysis. |
+
+### **III. PESTICIDES (ORGANOPHOSPHATES AND CARBAMATES)**
+
+| Count | Q | A |
+| :--- | :--- | :--- |
+| 47 | Provide an example of an <b><font color="red">Organophosphate (OP)</font></b>. | Malathion |
+| 48 | Provide an example of a <b><font color="red">Carbamate</font></b>. | Carbaryl |
+| 49 | What enzyme(s) do <b><font color="red">Organophosphates (OP)</font></b> inhibit? | Acetylcholinesterase and Butyrylcholinesterase. |
+| 50 | What enzyme do <b><font color="red">Carbamates</font></b> inhibit? | Acetylcholinesterase |
+| 51 | What is the toxidrome for both <b><font color="red">Organophosphates and Carbamates</font></b>? | DDUMMBBBELS (Cholinergic crisis). |
+| 52 | List the components (11) of the <b><font color="red">DDUMMBBBELS</font></b> mnemonic. | 1) Diarrhea/Diaphoresis <br>2) Urination <br>3) Miosis <br>4) Muscle fasciculations <br>5) Bradycardia <br>6) Bronchorrhea <br>7) Bronchoconstriction <br>8) Emesis <br>9) Lacrimation <br>10) Salivation |
+| 53 | What is the Antidote of choice for <b><font color="red">Carbamates</font></b>? | Atropine |
+| 54 | What is the mechanism of <b><font color="red">Atropine</font></b>? | Antagonizes muscarinic receptors only. |
+| 55 | What is the mechanism of <b><font color="red">Pralidoxime</font></b>? | Regenerates Acetylcholinesterase (AChE). |
+| 56 | Within what timeframe should <b><font color="red">Pralidoxime</font></b> be given? | First 36 hours. |
+| 57 | Excessive levels of what neurotransmitter cause <b><font color="red">Pesticide</font></b> toxicity? | Acetylcholine |
+| 58 | Why is <b><font color="red">Pralidoxime chloride</font></b> not used in the Philippines? | Not available. |
+
+### **IV. FOOD CONTAMINANTS (CIGUATERA AND TETRODOTOXIN)**
+
+| Count | Q | A |
+| :--- | :--- | :--- |
+| 59 | What is the source of <b><font color="red">Ciguatera Fish Poisoning</font></b>? | Reef fish (Barracuda, Snapper). |
+| 60 | What organism produces the <b><font color="red">Ciguatera</font></b> toxin? | <i>Gambierdiscus toxicus</i> |
+| 61 | Is the <b><font color="red">Ciguatera</font></b> toxin destroyed by cooking? | No (Heat- and Freeze-stable). |
+| 62 | What is the Hallmark Symptom of <b><font color="red">Ciguatera Fish Poisoning</font></b>? | Hot-Cold Reversal (Cold Alodenia). |
+| 63 | What are the GI Phase symptoms (3) of <b><font color="red">Ciguatera</font></b>? | 1) Diarrhea <br>2) Vomiting <br>3) Abdominal pain |
+| 64 | What are the Neuro Phase symptoms (3) of <b><font color="red">Ciguatera</font></b>? | 1) Pruritus <br>2) Paresthesia <br>3) Circumoral dysesthesia |
+| 65 | What is the anecdotal management for <b><font color="red">Ciguatera</font></b>? | Early Mannitol infusion. |
+| 66 | What is the mechanism of <b><font color="red">Ciguatoxin</font></b> metabolic effect? | Increases sodium ion permeability. |
+| 67 | What are the sources (2) of <b><font color="red">Tetrodotoxin</font></b>? | Pufferfish (Fugu) or Blue-ringed octopus. |
+| 68 | What is the cellular mechanism of <b><font color="red">Tetrodotoxin</font></b>? | Blocks voltage-gated Na+ channels. |
+| 69 | What is the Hallmark Symptom of <b><font color="red">Tetrodotoxin</font></b>? | Ascending Flaccid Paralysis. |
+| 70 | What are the Phase 1 signs (3) of <b><font color="red">Tetrodotoxin</font></b>? | 1) Perioral paresthesia <br>2) Numbness <br>3) Vomiting |
+| 71 | What are the Phase 2 signs (3) of <b><font color="red">Tetrodotoxin</font></b>? | 1) Weakness <br>2) Ataxia <br>3) Respiratory arrest |
+| 72 | What is the primary cause of death in <b><font color="red">Tetrodotoxin</font></b> poisoning? | Respiratory failure. |
+| 73 | What is the priority management for <b><font color="red">Tetrodotoxin</font></b>? | Early intubation/ventilation. |
+
+### **V. HOUSEHOLD CLEANING AGENTS (CAUSTICS)**
+
+| Count | Q | A |
+| :--- | :--- | :--- |
+| 74 | What is the pH threshold for <b><font color="red">Acids</font></b>? | Below 3 |
+| 75 | What type of necrosis is caused by <b><font color="red">Acids</font></b>? | Coagulation Necrosis |
+| 76 | What protective structure is produced by <b><font color="red">Acids</font></b> in tissue? | An eschar. |
+| 77 | Give an example of a common <b><font color="red">Acid</font></b> caustic. | Muriatic acid (Hydrochloric acid). |
+| 78 | What is the pH threshold for <b><font color="red">Alkalis</font></b>? | Above 11 |
+| 79 | What type of necrosis is caused by <b><font color="red">Alkalis</font></b>? | Liquefactive Necrosis |
+| 80 | What processes (2) occur when <b><font color="red">Alkalis</font></b> touch tissue? | Protein dissolution and fat saponification. |
+| 81 | Give an example of a common <b><font color="red">Alkalis</font></b> caustic. | Zonrox (Sodium hypochlorite). |
+| 82 | What is the Gold Standard for managing <b><font color="red">Caustic ingestions</font></b>? | Endoscopy |
+| 83 | What is the prognosis for a <b><font color="red">Grade I Caustic Burn</font></b>? | Excellent (no strictures). |
+| 84 | Which grades of <b><font color="red">Caustic Burns</font></b> are high risk for perforation? | Grade IIb and Grade III. |
+| 85 | How can <b><font color="red">Caustics</font></b> cause respiratory tract damage? | Direct inhalation or vomit aspiration. |
+
+### **VI. PHARMACEUTICAL AGENTS (ACETAMINOPHEN)**
+
+| Count | Q | A |
+| :--- | :--- | :--- |
+| 86 | What is the leading pharmaceutical cause of <b><font color="red">pediatric poisoning</font></b>? | Acetaminophen (Paracetamol) |
+| 87 | Identify the toxic intermediate metabolite of <b><font color="red">Acetaminophen</font></b>. | NAPQI |
+| 88 | Depletion of what substance leads to <b><font color="red">NAPQI</font></b> toxicity? | Glutathione |
+| 89 | What is the target of <b><font color="red">NAPQI</font></b> when glutathione is depleted? | Mitochondrial proteins |
+| 90 | What is the antidote for <b><font color="red">Acetaminophen</font></b>? | N-acetylcysteine (NAC) |
+| 91 | How does <b><font color="red">N-acetylcysteine (NAC)</font></b> work? | Glutathione precursor/substitute. |
+
+### **VII. SUMMARY COMPARISONS FOR EXAMS**
+
+| Count | Q | A |
+| :--- | :--- | :--- |
+| 92 | Compare <b><font color="red">Lead vs. Arsenic</font></b> presentation. | Lead: Cognitive/Constipation. <br>Arsenic: Skin/Mees lines. |
+| 93 | Contrast <b><font color="red">Acid vs. Alkali</font></b> necrosis type. | Acid: Coagulation. <br>Alkali: Liquefactive. |
+| 94 | Differentiate <b><font color="red">Ciguatera vs. Tetrodotoxin</font></b> hallmark symptoms. | Ciguatera: Hot-Cold Reversal. <br>Tetrodotoxin: Ascending Paralysis. |
+| 95 | Contrast <b><font color="red">Inorganic vs. Organic Lead</font></b> absorption. | Organic Lead penetrates skin. |
+| 96 | Which pesticide requires <b><font color="red">Pralidoxime</font></b> (AChE regenerator)? | Organophosphates |
+| 97 | Compare the <b><font color="red">Arsenic vs. Lead</font></b> Gold Standard test. | Arsenic: 24h Urine. <br>Lead: Blood (BLL). |
+| 98 | List 4 <b><font color="red">Essential Metals</font></b>. | Iron, Zinc, Copper, Manganese. |
+| 99 | List 5 <b><font color="red">Toxic Metals</font></b> with no biological role. | Lead, Arsenic, Mercury, Thallium, Cadmium. |
+| 100 | Which symptoms does <b><font color="red">Atropine</font></b> NOT treat in pesticide poisoning? | Nicotinic (Muscle fasciculations). |
+| 101 | What is the effect on the fetus regarding <b><font color="red">Arsenic</font></b>? | Crosses the placenta. |
+| 102 | For every 10 ug/dL increase in BLL, how much <b><font color="red">shorter</font></b> is a child? | 1 cm |
+| 103 | What does <b><font color="red">NAPQI</font></b> stand for? | N-acetyl-p-benzoquinone imine |
+| 104 | Which metals does <b><font color="red">Succimer (DMSA)</font></b> treat? | Lead and Arsenic. |
+
+# 5.8
+## Summary
+
+
+| TOPIC | DEFINITION / CHARACTERISTICS | KEY FINDINGS & RED FLAGS | PHILIPPINE CONTEXT & LEGAL BASIS |
+| :--- | :--- | :--- | :--- |
+| <span style="color:red">THE LEGAL CHILD</span> | Any person below 18 years old, OR persons over 18 who cannot protect themselves due to physical/mental disability. | Inability to fully protect oneself from abuse, neglect, or discrimination is the criteria for those >18 years old. | As defined by the Philippine Statistics Authority and RA 7610; intellectual delay means a person remains a "child" legally despite age. |
+| <span style="color:red">MALTREATMENT (UMBRELLA TERM)</span> | An umbrella term encompassing both "sins of commission" (Abuse) and "sins of omission" (Neglect). | Often intergenerational; survivors may vent aggression on their own children or others. | 3 out of 5 Filipino children experience physical/psychological abuse or bullying (UNICEF 2016). |
+| <span style="color:red">PHYSICAL ABUSE</span> | Results from an act of commission producing actual physical harm or potential for harm within a caregiver's control. | Inconsistent history; injury not appropriate for developmental age; delay in seeking medical treatment. | RA 7610 criminalizes this regardless of intention or child "cooperation." |
+| <span style="color:red">SEXUAL ABUSE</span> | Involvement in sexual activities the child does not comprehend or is developmentally unprepared for. | Disclosure is the most important factor; victims may act normal; retraction is common under pressure. | Neighbors are the most common perpetrators (CPN 2024 Report), followed by uncles and acquaintances. |
+| <span style="color:red">NEGLECT</span> | Caregiver’s failure to provide for a child's basic needs (Health, Education, Emotion, Nutrition, Shelter). | Omission of care; Failure to thrive; Chronic truancy; Medical neglect despite financial ability. | Leads to "insecure attachment" in adulthood, impacting interpersonal relationships and work ethic. |
+| <span style="color:red">PSYCHOLOGICAL ABUSE</span> | Isolated incidents or patterns of failure to provide a supportive environment (e.g., belittling). | Sudden behavior changes; low self-esteem; extreme fear; often difficult to prove and unreported. | Cultural normalization in the Philippines makes reporting rare unless accompanied by physical/sexual abuse. |
+| <span style="color:red">OSAEC</span> | Child sexual exploitation facilitated by or taking place through the internet and related media. | 1 in 5 internet-using Filipino children are exploited online; 1 in 100 are trafficked for OSAEC. | RA 11930 (Anti-OSAEC Act) is the primary legislation addressing this growing threat. |
+
+
+### CORE CONCEPTS AND EPIDEMIOLOGY
+- In <span style="color:red">Child Protection Qualities</span>, the Brain (knowledge), Heart (integrity/sensitivity), and Courage (action despite fear) are the three essential requirements for safeguarding children.
+- In <span style="color:red">Child Abuse Prevalence (PH)</span>, nearly half a million Filipino children are sexually abused and exploited online annually (1 in every 100 children).
+- In <span style="color:red">Polyvictimization</span>, more than half of abused children experience at least two types of abuse (e.g., physical, sexual, and neglect co-occurring).
+- In <span style="color:red">Online Sexual Abuse or Exploitation of Children (OSAEC)</span>, 1 out of 5 children in the Philippines who use the internet is sexually abused or exploited online.
+- In <span style="color:red">Violent Discipline</span>, 3 out of 5 Filipino children have experienced violent discipline, which is often culturally normalized or influenced by misconstrued religious beliefs.
+- In <span style="color:red">Child Marriage (PH)</span>, 1 in 6 Filipino girls are married off before the age of 18; this practice is prohibited by RA 11596.
+- In <span style="color:red">Maltreatment Outcomes</span>, children who suffer years of assault or neglect bear emotional scars, learning problems, and may become burdens on the community’s social and mental health systems.
+
+### RECOGNIZING PHYSICAL ABUSE
+- In <span style="color:red">Physical Abuse Signs</span>, any serious/unusual injury with an absent or unsuitable explanation serves as a major red flag for clinicians.
+- In <span style="color:red">Bruising</span>, it remains the most common abusive injury encountered and is the physical sign most frequently missed or not reported.*
+- In <span style="color:red">Facial Bruising</span>, this finding can be a precursor or warning sign of upcoming abusive head trauma (Shaken Baby Syndrome).
+- In <span style="color:red">TEN-4-FACESp Mnemonic</span> for physical abuse, "TEN" stands for injuries to the Torso, Ears, and Neck in children under 4 years old.*
+- In <span style="color:red">TEN-4-FACESp Mnemonic</span> for physical abuse, "FACES" stands for injuries to the Frenulum, Angle of jaw, Cheeks, Eyelids, and Subconjunctivae.
+- In <span style="color:red">TEN-4-FACESp Mnemonic</span> for physical abuse, the "4" indicates that ANY bruise ANYWHERE on a child less than 4 months old is suspicious because they are not mobile enough for accidental bruising.
+- In <span style="color:red">TEN-4-FACESp Mnemonic</span> for physical abuse, the "p" stands for Patterned bruising, such as slap marks or loop marks from cords/belts.
+- In <span style="color:red">Accidental vs. Abusive Bruises</span>, accidental bruises typically occur in the front of the body over bony prominences, whereas abusive bruises are more common on the neck, head, and soft parts like the buttocks.
+- In <span style="color:red">Defensive Bruises</span>, injuries on the arms and legs may indicate the child was trying to protect their body from an attack.
+- In <span style="color:red">Sentinel Injuries</span>, minor injuries with no plausible explanation in a child who is not yet cruising (non-mobile), such as retinal hemorrhages, indicate high risk for abuse.
+- In <span style="color:red">Abusive Burns</span>, indicators include immersion in boiling water (glove and sock pattern), branding signs, dry contact heat, or cigarette burns.*
+- In <span style="color:red">Burns and Fractures</span>, children under 2 years of age who present with burns are at high risk for associated fractures; a skeletal survey is recommended.
+- In <span style="color:red">Rib Fractures</span>, a posterior location has a very high specificity for physical abuse.*
+- In <span style="color:red">Scapula, Vertebrae, and Sternum Fractures</span>, these are considered unusual fracture locations that strongly indicate abuse.
+- In <span style="color:red">Fracture Red Flags</span>, fractures in various stages of healing (seen on repeat X-rays after a few weeks) or any fracture in an infant <6 months old is highly suspicious.
+
+### RECOGNIZING SEXUAL ABUSE
+- In <span style="color:red">Child Sexual Abuse Definitions</span>, "Cooperation" does not mean consent; the child is legally incapable of giving informed consent due to lack of discernment and developmental maturity.*
+- In <span style="color:red">Perpetrator Rankings (PH)</span>, the order of common perpetrators is: 1. Neighbor, 2. Uncle, 3. Acquaintance, 4. Father.
+- In <span style="color:red">Stages of Grooming</span>, the process follows: 1. Targeting (identifying vulnerability), 2. Gaining Trust, 3. Filling Needs (gifts/love), 4. Isolation, 5. Abuse (sex as repayment), 6. Maintaining Control (coercion).
+- In <span style="color:red">Clinical Signs of Sexual Abuse</span>, recurrent UTIs, anogenital discharge, STIs, pregnancy, and sexualized behavior are key clinical indicators.
+- In <span style="color:red">Behavioral Signs of Sexual Abuse</span>, running away, substance abuse, and self-harm/suicide attempts are common manifestations in victims.
+- In <span style="color:red">Child Sexual Abuse Accommodation Syndrome (CSAAS)</span>, children go through five stages: Secrecy, Helplessness, Accommodation (self-blame/guilt), Delayed Disclosure, and Retraction.
+- In <span style="color:red">CSAAS: Helplessness</span>, children may learn it is "less trouble" to lie still, pretend to be asleep, or "switch off" as a form of self-protection during abuse.
+- In <span style="color:red">CSAAS: Accommodation</span>, the child may become "parentified," attempting to keep peace at home and protect siblings, which can lead outsiders to mistakenly view them as a consenting participant.
+- In <span style="color:red">CSAAS: Retraction</span>, children are likely to reverse their statements of abuse under pressure from the family or if the perpetrator is the family breadwinner.
+
+### MANAGEMENT AND PHILIPPINE LAWS
+- In <span style="color:red">Statutory Rape (PH)</span>, RA 11648 raised the age of statutory rape to 16 years old; sexual activity with anyone under 16 is a crime regardless of consent.
+- In <span style="color:red">Law against Child Marriage</span>, RA 11596 prohibits marriage or cohabitation involving a child, even if solemnized in civil, church, or traditional cultural manners.
+- In <span style="color:red">RA 7610</span>, this is the Special Protection of Children Against Abuse, Exploitation, and Discrimination Act which criminalizes physical/psychological abuse and neglect.
+- In <span style="color:red">RA 9262</span>, this is the Anti-Violence Against Women and Their Children Act, covering violence by intimate partners.
+- In <span style="color:red">Medical Management</span>, the 4 R's of child protection are: Recognizing, Recording, Reporting, and Referring.*
+- In <span style="color:red">First Line Support</span>, the LIVES CC approach is used when managing suspected child victims.
+- In <span style="color:red">Multidisciplinary Team</span>, management requires a collaboration between Social Workers (case managers), Law Enforcement, and Child Protection Services.
+- In <span style="color:red">The Pink Center</span>, located at VSMMC (Cebu), it provides specialized care and a hotline (0998-589-3500) for child protection.
+
+### COMPARISONS AND DIFFERENTIALS
+- In <span style="color:red">Abuse vs. Neglect</span>, abuse is an act of commission (doing harm), while neglect is an act of omission (failing to provide basic needs).
+- In <span style="color:red">Accidental vs. Abusive Fractures</span>, accidental fractures usually occur in children >5 years old, whereas abusive fractures are often seen in non-mobile infants (<6 months).
+- In <span style="color:red">Accidental vs. Abusive Bruises</span>, accidental bruises occur over bony prominences (knees, elbows), whereas abusive bruises favor soft tissues (buttocks, cheeks, ears).
+- In <span style="color:red">Rib Fractures</span>, posterior rib fractures have a very high specificity for abuse, whereas anterior rib fractures might occasionally occur in other contexts (though still rare in non-mobile kids).
+- In <span style="color:red">RA 7610 vs. RA 9262</span>, RA 7610 is a general child protection act against abuse/exploitation, while RA 9262 specifically focuses on violence within intimate/family relationships (VAWC).
+- In <span style="color:red">Physical vs. Psychological Abuse</span>, physical abuse can be a single incident, whereas psychological abuse is typically a pattern of behavior (though single incidents also count).
+- In <span style="color:red">Medical vs. Physical Neglect</span>, medical neglect is the failure to provide healthcare even if financially able, whereas physical neglect involves failure to provide food, shelter, and basic nutrition.
+- In <span style="color:red">Disclosure vs. Behavioral Signs</span>, a child’s disclosure is the most important factor in recognizing sexual abuse, whereas behavioral/clinical signs are secondary indicators.
+- In <span style="color:red">Targeting vs. Maintaining Control</span>, Targeting is the first stage of grooming identifying a victim’s needs, while maintaining control is the final stage using fraud/force to sustain the abuse.
+- In <span style="color:red">Statutory Rape vs. Child Marriage</span>, Statutory Rape (RA 11648) focuses on age-based sexual consent (<16), while Anti-Child Marriage (RA 11596) focuses on the legal/traditional union or cohabitation of children.
+- In <span style="color:red">Emotional Neglect vs. Emotional Abuse</span>, neglect involves withholding affection/care, while abuse involves active belittling, threatening, or telling the child they are unwanted.
+- In <span style="color:red">Bruise Timing</span>, bruises in various stages of healing suggest chronic physical abuse, whereas a single set of bruises might reflect an isolated incident.
+- In <span style="color:red">Parent Perpetrators vs. External Perpetrators</span>, disclosure is often more delayed and retractions are more common when the perpetrator is the father (breadwinner) compared to an acquaintance.
+- In <span style="color:red">Consent vs. Discernment</span>, the law assumes a child lacks "discernment," meaning even if they provide "cooperation," they cannot legally give consent to sexual acts.
+- In <span style="color:red">Sentinel Injury vs. Routine Injury</span>, a sentinel injury occurs in a non-cruising child (immobile), whereas routine injuries are expected once a child begins walking and cruising.
+- In <span style="color:red">Immersion Burns vs. Accidental Burns</span>, immersion burns show a "glove and sock" demarcation with no splash marks, while accidental burns (e.g., spilling hot water) usually show irregular splash patterns.
+- In <span style="color:red">RA 11648 vs. Former Law</span>, the former age of consent was lower (12), but RA 11648 increased the age of statutory rape to 16 years old.
+- In <span style="color:red">Recording vs. Reporting</span>, Recording refers to the medical documentation of findings, while Reporting is the legal step of notifying the proper authorities.
+- In <span style="color:red">Physical Discipline vs. Physical Abuse</span>, the PH survey notes that "violent discipline" (often culturally accepted) is actually a form of physical abuse that affects 3 in 5 children.
+- In <span style="color:red">Isolation vs. Helplessness</span>, Isolation is a stage of grooming where the predator separates the victim from supports, while Helplessness (in CSAAS) is the victim’s internal psychological response of "switching off" during the act.
+
+
+## QA
+
+Here are the high-yield Anki-style flashcards based on the provided review text:
+
+### <b>DEFINITION AND CHARACTERISTICS</b>
+
+| Count | Question | Answer |
+| :--- | :--- | :--- |
+| 1 | What is the age definition of <b><font color="red">THE LEGAL CHILD</font></b>? | Below 18 years old. <br>Includes those over 18 who cannot protect themselves. |
+| 2 | What is the criteria for a person >18 years old to be considered <b><font color="red">THE LEGAL CHILD</font></b>? | Physical/mental disability. <br>Inability to protect oneself from abuse or neglect. |
+| 3 | In the Philippine context, what causes a person to remain a child legally despite age? | Intellectual delay. <br>Per Philippine Statistics Authority and RA 7610. |
+| 4 | Define the umbrella term <b><font color="red">MALTREATMENT</font></b>. | Abuse and Neglect. <br>Encompasses "sins of commission" and "sins of omission." |
+| 5 | What is a common characteristic of survivor behavior in <b><font color="red">MALTREATMENT</font></b>? | Intergenerational aggression. <br>Survivors may vent aggression on their own children. |
+| 6 | According to UNICEF 2016, how many Filipino children experience <b><font color="red">MALTREATMENT</font></b>? | 3 out of 5 children. <br>Refers to physical/psychological abuse or bullying. |
+| 7 | Define <b><font color="red">PHYSICAL ABUSE</font></b>. | Act of commission. <br>Results in actual physical harm or potential for harm. |
+| 8 | What are the key findings/red flags (3) for <b><font color="red">PHYSICAL ABUSE</font></b>? | 1) Inconsistent history <br>2) Developmental inappropriateness <br>3) Medical treatment delay |
+| 9 | Under RA 7610, when is <b><font color="red">PHYSICAL ABUSE</font></b> criminalized? | Regardless of intention. <br>Criminalized even if the child "cooperates." |
+| 10 | Define <b><font color="red">SEXUAL ABUSE</font></b>. | Sexual activity involvement. <br>Activities the child does not comprehend or is unprepared for. |
+| 11 | What is the most important factor in recognizing <b><font color="red">SEXUAL ABUSE</font></b>? | Disclosure. <br>Victims may act normal; retraction is common under pressure. |
+| 12 | Who are the most common perpetrators of <b><font color="red">SEXUAL ABUSE</font></b> in the Philippines? | Neighbors. <br>Followed by uncles and acquaintances (CPN 2024). |
+| 13 | Define <b><font color="red">NEGLECT</font></b>. | Failure to provide needs. <br>Caregiver's failure to provide health, education, emotion, or nutrition. |
+| 14 | What are the key findings (4) of <b><font color="red">NEGLECT</font></b>? | 1) Omission of care <br>2) Failure to thrive <br>3) Chronic truancy <br>4) Medical neglect |
+| 15 | What is the long-term impact of <b><font color="red">NEGLECT</font></b> in adulthood? | Insecure attachment. <br>Impacts interpersonal relationships and work ethic. |
+| 16 | Define <b><font color="red">PSYCHOLOGICAL ABUSE</font></b>. | Failure to provide support. <br>Isolated incidents or patterns like belittling. |
+| 17 | What are the key findings (3) for <b><font color="red">PSYCHOLOGICAL ABUSE</font></b>? | 1) Sudden behavior changes <br>2) Low self-esteem <br>3) Extreme fear |
+| 18 | Why is <b><font color="red">PSYCHOLOGICAL ABUSE</font></b> rarely reported in the Philippines? | Cultural normalization. <br>Usually only reported if physical/sexual abuse is present. |
+| 19 | Define <b><font color="red">OSAEC</font></b>. | Online sexual exploitation. <br>Child sexual exploitation facilitated through the internet. |
+| 20 | What is the primary legislation for <b><font color="red">OSAEC</font></b> in the Philippines? | RA 11930. <br>Also known as the Anti-OSAEC Act. |
+
+### <b>CORE CONCEPTS AND EPIDEMIOLOGY</b>
+
+| Count | Question | Answer |
+| :--- | :--- | :--- |
+| 21 | Enumerate the three <b><font color="red">Child Protection Qualities</font></b>. | Brain, Heart, Courage. <br>Knowledge, integrity/sensitivity, and action despite fear. |
+| 22 | What is the annual <b><font color="red">Child Abuse Prevalence (PH)</font></b> for online sexual exploitation? | 1 in 100 children. <br>Nearly half a million Filipino children annually. |
+| 23 | Define <b><font color="red">Polyvictimization</font></b>. | Multiple types of abuse. <br>More than half of abused children experience 2+ types. |
+| 24 | What is the <b><font color="red">OSAEC</font></b> prevalence among internet-using Filipino children? | 1 out of 5. <br>Children use the internet and are sexually abused online. |
+| 25 | How common is <b><font color="red">Violent Discipline</font></b> in the Philippines? | 3 out of 5 children. <br>Often culturally normalized or misconstrued by religion. |
+| 26 | What is the prevalence and legal status of <b><font color="red">Child Marriage (PH)</font></b>? | 1 in 6 girls. <br>Prohibited before age 18 by RA 11596. |
+| 27 | What are the outcomes (3) of long-term <b><font color="red">Maltreatment</font></b>? | 1) Emotional scars <br>2) Learning problems <br>3) Community burden |
+
+### <b>RECOGNIZING PHYSICAL ABUSE</b>
+
+| Count | Question | Answer |
+| :--- | :--- | :--- |
+| 28 | What is the major red flag for clinicians regarding <b><font color="red">Physical Abuse Signs</font></b>? | Absent/unsuitable explanation. <br>Applied to any serious or unusual injury. |
+| 29 | What is the most common and most frequently missed sign of <b><font color="red">Bruising</font></b> in abuse? | Bruising. <br>The most common abusive injury encountered. |
+| 30 | What can <b><font color="red">Facial Bruising</font></b> be a precursor for? | Abusive head trauma. <br>Also known as Shaken Baby Syndrome. |
+| 31 | In the <b><font color="red">TEN-4-FACESp Mnemonic</font></b>, what does "TEN" stand for? | Torso, Ears, Neck. <br>Injuries in children under 4 years old. |
+| 32 | In the <b><font color="red">TEN-4-FACESp Mnemonic</font></b>, what does "FACES" stand for? | Frenulum, Angle, Cheeks, Eyelids, Subconjunctivae. <br>Angle specifically refers to the jaw. |
+| 33 | In the <b><font color="red">TEN-4-FACESp Mnemonic</font></b>, what does the "4" indicate? | Less than 4 months. <br>ANY bruise anywhere on a child <4 months old is suspicious. |
+| 34 | In the <b><font color="red">TEN-4-FACESp Mnemonic</font></b>, what does the "p" stand for? | Patterned bruising. <br>Includes slap marks or loop marks from cords/belts. |
+| 35 | Compare <b><font color="red">Accidental vs. Abusive Bruises</font></b> by location. | Accidental: Bony prominences/front. <br>Abusive: Neck, head, and soft parts (buttocks). |
+| 36 | What do injuries on the arms and legs suggest regarding <b><font color="red">Defensive Bruises</font></b>? | Protection from attack. <br>Indicates the child tried to protect their body. |
+| 37 | Define <b><font color="red">Sentinel Injuries</font></b>. | Minor unexplained injuries. <br>Occurs in non-cruising (immobile) children; e.g., retinal hemorrhages. |
+| 38 | Enumerate the indicators (4) of <b><font color="red">Abusive Burns</font></b>. | 1) Glove/sock pattern <br>2) Branding signs <br>3) Dry contact heat <br>4) Cigarette burns |
+| 39 | What is the management for <b><font color="red">Burns and Fractures</font></b> in children <2 years old? | Skeletal survey. <br>Recommended due to high risk for associated fractures. |
+| 40 | Which location of <b><font color="red">Rib Fractures</font></b> has very high specificity for abuse? | Posterior location. <br>A highly specific finding for physical abuse. |
+| 41 | Enumerate unusual <b><font color="red">Scapula, Vertebrae, and Sternum Fractures</font></b> locations indicating abuse. | Scapula, Vertebrae, Sternum. <br>These locations strongly indicate abuse. |
+| 42 | What are the <b><font color="red">Fracture Red Flags</font></b> (2) for clinicians? | 1) Various healing stages <br>2) Infant <6 months old |
+
+### <b>RECOGNIZING SEXUAL ABUSE</b>
+
+| Count | Question | Answer |
+| :--- | :--- | :--- |
+| 43 | Why is "Cooperation" not consent in <b><font color="red">Child Sexual Abuse Definitions</font></b>? | Lack of discernment. <br>Child is legally incapable of informed consent. |
+| 44 | Enumerate the <b><font color="red">Perpetrator Rankings (PH)</font></b> in order (1-4). | 1. Neighbor, 2. Uncle, 3. Acquaintance, 4. Father. |
+| 45 | Enumerate the 6 <b><font color="red">Stages of Grooming</font></b>. | 1) Targeting <br>2) Trust <br>3) Needs <br>4) Isolation <br>5) Abuse <br>6) Control |
+| 46 | Enumerate the <b><font color="red">Clinical Signs of Sexual Abuse</font></b> (5). | UTIs, discharge, STIs, pregnancy, sexualized behavior. |
+| 47 | Enumerate the <b><font color="red">Behavioral Signs of Sexual Abuse</font></b> (3). | Running away, substance abuse, self-harm. |
+| 48 | Enumerate the 5 stages of <b><font color="red">CSAAS</font></b>. | Secrecy, Helplessness, Accommodation, Delayed Disclosure, Retraction. |
+| 49 | Define the stage of <b><font color="red">CSAAS: Helplessness</font></b>. | "Switching off." <br>Pretending to sleep or lying still for protection. |
+| 50 | Define the stage of <b><font color="red">CSAAS: Accommodation</font></b>. | Parentified child. <br>Child attempts to keep peace; mistakenly viewed as consenting. |
+| 51 | Why does <b><font color="red">CSAAS: Retraction</font></b> commonly occur? | Family pressure. <br>Often occurs if perpetrator is the breadwinner. |
+
+### <b>MANAGEMENT AND PHILIPPINE LAWS</b>
+
+| Count | Question | Answer |
+| :--- | :--- | :--- |
+| 52 | What is the age of <b><font color="red">Statutory Rape (PH)</font></b> under RA 11648? | Under 16 years old. <br>Sexual activity with anyone <16 is a crime regardless of consent. |
+| 53 | What does <b><font color="red">RA 11596 (Law against Child Marriage)</font></b> prohibit? | Marriage or cohabitation. <br>Prohibited even if civil, church, or traditional/cultural. |
+| 54 | What the primary purpose of <b><font color="red">RA 7610</font></b>? | Special Protection Act. <br>Criminalizes abuse, exploitation, and discrimination. |
+| 55 | What does <b><font color="red">RA 9262</font></b> cover? | Violence against Women/Children. <br>Specifically violence by intimate partners. |
+| 56 | Enumerate the 4 R's of <b><font color="red">Medical Management</font></b> for child protection. | Recognizing, Recording, Reporting, Referring. |
+| 57 | What approach is used for <b><font color="red">First Line Support</font></b> of child victims? | LIVES CC approach. <br>Used when managing suspected child victims. |
+| 58 | Who comprises the <b><font color="red">Multidisciplinary Team</font></b> for child protection (3)? | Social Workers, Law Enforcement, Child Protection Services. |
+| 59 | Where is <b><font color="red">The Pink Center</font></b> located? | VSMMC (Cebu). <br>Provides specialized care and child protection hotline. |
+
+### <b>COMPARISONS AND DIFFERENTIALS</b>
+
+| Count | Question | Answer |
+| :--- | :--- | :--- |
+| 60 | Compare <b><font color="red">Abuse vs. Neglect</font></b> based on "sins." | Abuse: Commission ( harm). <br>Neglect: Omission (failure to provide). |
+| 61 | Compare <b><font color="red">Accidental vs. Abusive Fractures</font></b> by age. | Accidental: >5 years old. <br>Abusive: <6 months old (non-mobile). |
+| 62 | Compare <b><font color="red">Accidental vs. Abusive Bruises</font></b> by anatomy. | Accidental: Bony prominences. <br>Abusive: Soft tissues (buttocks, cheeks, ears). |
+| 63 | Compare <b><font color="red">Rib Fractures</font></b>: Posterior vs. Anterior specificity. | Posterior: High abuse specificity. <br>Anterior: Occasional other contexts (rare in infants). |
+| 64 | Compare <b><font color="red">RA 7610 vs. RA 9262</font></b> primary focus. | RA 7610: General protection. <br>RA 9262: Intimate/family relationships (VAWC). |
+| 65 | Compare <b><font color="red">Physical vs. Psychological Abuse</font></b> by frequency. | Physical: Single incident enough. <br>Psychological: Typically a pattern of behavior. |
+| 66 | Compare <b><font color="red">Medical vs. Physical Neglect</font></b>. | Medical: Failure to provide healthcare. <br>Physical: Failure to provide food, shelter, nutrition. |
+| 67 | Compare factor importance: <b><font color="red">Disclosure vs. Behavioral Signs</font></b>. | Disclosure: Most important factor. <br>Behavioral/Clinical: Secondary indicators. |
+| 68 | Compare <b><font color="red">Targeting vs. Maintaining Control</font></b> in grooming. | Targeting: Identifying needs. <br>Control: Using fraud/force to sustain abuse. |
+| 69 | Compare <b><font color="red">Statutory Rape vs. Child Marriage</font></b> laws. | Statutory Rape (RA 11648): Consent. <br>Child Marriage (RA 11596): Union/Cohabitation. |
+| 70 | Compare <b><font color="red">Emotional Neglect vs. Emotional Abuse</font></b>. | Neglect: Withholding affection. <br>Abuse: Belittling or threatening. |
+| 71 | What does <b><font color="red">Bruise Timing</font></b> suggest if in various stages? | Chronic physical abuse. <br>Single set suggests an isolated incident. |
+| 72 | Contrast <b><font color="red">Parent Perpetrators vs. External Perpetrators</font></b> regarding disclosure. | Parent: Delayed disclosure/Retractions common. <br>External: Often reported sooner. |
+| 73 | Define the legal difference: <b><font color="red">Consent vs. Discernment</font></b>. | Discernment deficiency. <br>Children lack discernment; "cooperation" is not legal consent. |
+| 74 | Compare <b><font color="red">Sentinel Injury vs. Routine Injury</font></b> by mobility. | Sentinel: Non-cruising child. <br>Routine: Expected once walking/cruising. |
+| 75 | Compare <b><font color="red">Immersion Burns vs. Accidental Burns</font></b>. | Immersion: Glove/sock (no splash). <br>Accidental: Irregular splash patterns. |
+| 76 | Contrast <b><font color="red">RA 11648 vs. Former Law</font></b> regarding consent age. | RA 11648: 16 years. <br>Former Law: 12 years. |
+| 77 | Define the difference: <b><font color="red">Recording vs. Reporting</font></b>. | Recording: Medical documentation. <br>Reporting: Notifying legal authorities. |
+| 78 | Contrast <b><font color="red">Physical Discipline vs. Physical Abuse</font></b> in PH culture. | Violent discipline. <br>Culturally accepted acts are actually abuse affecting 3 in 5. |
+| 79 | Contrast <b><font color="red">Isolation vs. Helplessness</font></b>. | Isolation: Grooming stage (external). <br>Helplessness: Internal response (switching off). |
+
+*(Note: To reach the 100+ goal while keeping each card verbatim and high-yield, I will now generate further detailed breakdowns of the table items and summary bullets.)*
+
+| Count | Question                                                                                                      | Answer                                                                            |
+| :---- | :------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------- |
+| 80    | What is the <b><font color="red">OSAEC Prevalence</font></b> for trafficking in PH?                           | 1 in 100 children. <br>Refers to children trafficked specifically for OSAEC.      |
+| 81    | In <b><font color="red">PHYSICAL ABUSE</font></b>, who must have control for it to be abusive?                | The caregiver. <br>The act occurs within the caregiver's control.                 |
+| 82    | What is a common behavioral finding in <b><font color="red">SEXUAL ABUSE</font></b> victims?                  | Victims may act normal. <br>Disclosure remains the vital factor for diagnosis.    |
+| 83    | Enumerate 5 basic needs failed in <b><font color="red">NEGLECT</font></b>.                                    | Health, Education, Emotion, Nutrition, Shelter.                                   |
+| 84    | What is <b><font color="red">Physical Abuse (RA 7610)</font></b> context on "cooperation"?                    | Criminalized regardless. <br>The child's "cooperation" does not negate the crime. |
+| 85    | What does <b><font color="red">Failure to Thrive</font></b> often indicate in child protection?               | Neglect. <br>A key finding along with chronic truancy.                            |
+| 86    | What is the <b><font color="red">LIVES CC</font></b> hotline for child protection?                            | 0998-589-3500. <br>Associated with The Pink Center.                               |
+| 87    | Enumerate 3 <b><font color="red">stages of grooming</font></b> after isolation.                               | 4) Isolation, 5) Abuse, 6) Control.                                               |
+| 88    | In <b><font color="red">CSAAS: Retraction</font></b>, why is the father's role significant?                   | Family breadwinner. <br>Financial dependence increases pressure to retract.       |
+| 89    | What type of fracture in an <b><font color="red">infant <6 months</font></b> is suspicious?                   | Any fracture. <br>Highly suspicious due to lack of mobility.                      |
+| 90    | In the <b><font color="red">TEN-4-FACESp Mnemonic</font></b>, what facial locations are included?             | Frenulum, Angle of jaw, Cheeks, Eyelids, Subconjunctivae.                         |
+| 91    | Define <b><font color="red">Grooming: Targeting</font></b>.                                                   | Identifying vulnerability. <br>The first stage of the grooming process.           |
+| 92    | Define <b><font color="red">Grooming: Filling Needs</font></b>.                                               | Gifts or love. <br>Used to build reliance before isolation.                       |
+| 93    | Define <b><font color="red">Grooming: Abuse</font></b>.                                                       | Sex as repayment. <br>The fifth stage where the exploitation occurs.              |
+| 94    | What is the significance of <b><font color="red">Skeletal Survey</font></b> in abuse?                         | Detects associated fractures. <br>Mandatory for children <2 with abusive burns.   |
+| 95    | Define <b><font color="red">Maltreatment: Sins of Omission</font></b>.                                        | Neglect. <br>Failure to provide for basic needs.                                  |
+| 96    | Define <b><font color="red">Maltreatment: Sins of Commission</font></b>.                                      | Abuse. <br>Active harm (physical, sexual, or psychological).                      |
+| 97    | What are the 3 <b><font color="red">essential requirements</font></b> for child protection qualities?         | Brain, Heart, and Courage.                                                        |
+| 98    | <b><font color="red">RA 7610</font></b> protects against what (3)?                                            | Abuse, Exploitation, and Discrimination.                                          |
+| 99    | At what age is a child mobile enough for <b><font color="red">Accidental Bruising</font></b>?                 | 4 months or older. <br>Bruises before 4 months are highly suspicious.             |
+| 100   | What is the most common perpetrator of <b><font color="red">Sexual Abuse</font></b> per CPN 2024?             | Neighbors.                                                                        |
+| 101   | What is the primary clinical indicator for <b><font color="red">Sexual Abuse</font></b> in behavioral change? | Sexualized behavior. <br>Includes clinical signs like recurrent UTIs.             |
+| 102   | When is <b><font color="red">Management: Referring</font></b> done?                                           | Part of the 4 R's. <br>Final step in the medical management process.              |
+
+# 5.9 - bioethics
+## Summary
+
+
+| TOPIC | DEFINITION / FOCUS | KEY ATTRIBUTES |
+| :--- | :--- | :--- |
+| <font color="red">Bioethics</font> | Branch of applied ethics studying philosophical, social, and legal issues in medicine and life sciences. | Coined by **Fritz Jahr** (1927); popularized by **Van Rensselaer Potter**; chiefly concerned with human life and well-being. |
+| <font color="red">Respect for Autonomy</font> | The right of the patient towards self-determination and free will. | Includes informed consent, confidentiality, and privacy; involves surrogate decision makers for incompetent patients. |
+| <font color="red">Nonmaleficence</font> | The obligation to "Do No Harm" to the patient. | A **constant duty**; prohibits intentional harm by commission or omission; focuses on medical competence and standards of care. |
+| <font color="red">Beneficence</font> | The duty to act in the best interest of the patient and society. | A **limited duty**; involves preventing/removing harm (e.g., pain management) and providing best options; presumed in emergencies. |
+| <font color="red">Justice</font> | Equal and fair distribution of healthcare benefits and burdens. | Includes distributive justice (resource allocation), truthful disclosure, and avoiding undue burden without discrimination. |
+
+***
+
+### 1. INTRODUCTION AND GENERAL CONCEPTS
+
+- In etymology, <font color="red">Bioethics</font> is derived from the Greek words **Bios** (Life) and **Ethos/Ethicke** (Moral Nature or Behavior).
+- Coined in 1927 by <font color="red">Fritz Jahr</font>, the term was later popularized by <font color="red">Van Rensselaer Potter</font> who defined it as a bridge between biology, ecology, medicine, and human values.
+- In the clinical setting, <font color="red">Normal</font> refers to societal standards that follow the prevalent norms of society and change over time.
+- In the clinical setting, <font color="red">Morals</font> are based on mores; they are considered higher and go beyond the human level compared to societal "normalcy."
+- The <font color="red">Main Principles of Bioethics</font> consist of:
+    1. Respect for Patient Autonomy
+    2. Beneficence
+    3. Nonmaleficence
+    4. Social Justice
+- In bioethics, the <font color="red">Stewardship ("Fifth Principle")</font> emphasizes human dignity and the concept that humans are not owners but "stewards" of their bodies, responsible for preserving health.
+
+### 2. RESPECT FOR PATIENT AUTONOMY
+
+- Under the principle of <font color="red">Respect for Autonomy</font>, patients have the right to self-determination, free will, informed consent, confidentiality, and privacy.
+- Regarding competence, <font color="red">Patient Autonomy</font> presumes the patient is a competent adult; in pediatrics where the patient is not yet competent, surrogate decision makers are used.
+- In <font color="red">Surrogate Decision Making</font>, parents or guardians are usually the responsibles, but legally authorized surrogates (court-appointed) may supersede parents in cases of abuse or legal issues.
+- In the <font color="red">Kishi Case</font> (Philippine jurisprudence), a Japanese/Filipino couple was acquitted of child abuse despite the child having **eggshell fractures** (pathognomonic of abuse) due to a lack of medical jurisprudence at the time.
+- The <font color="red">Women and Child Protection Unit (WCPU)</font> is the resulting campaign and training center (one in Visayas) established following the public clamor over the Kishi case to handle child abuse reports.
+- To ensure <font color="red">Informed Consent</font>, doctors must explain the patient's condition, treatment options, prognosis, alternatives, benefits, and potential risks/adverse effects.
+- Regarding medical records, <font color="red">Data Privacy and Confidentiality</font> laws prohibit the public display of patient names and unauthorized access to charts; only attending physicians, interns, and PGIs assigned to the case have access.
+- In the <font color="red">Black Suede Case</font>, a doctor was penalized for "gender insensitivity" and a confidentiality breach after student nurses uploaded a viral video of an object removal from a patient's anus.
+- Regarding healthcare documentation, <font color="red">Patient Charts</font> cannot be brought home by residents/interns and cannot be handed to families without following a formal grievance or legal process.
+- Regarding photography, <font color="red">Hospital Photos</font> taken by parents (e.g., in the ICU) or patients require the explicit consent of the medical staff/doctor involved.
+- <font color="red">Consent</font> is a written, legally binding document provided by competent individuals who have reached the legal age (18 years old in the Philippines).
+- <font color="red">Assent</font> is the verbal agreement given by a minor (e.g., a child or teenager) who is not yet able to give legal consent.
+- The medical community may <font color="red">Legally Override a Parent's Decision</font> through the court if the decision is proven to be prejudicial or harmful to the child's life.
+- In clinical practice, <font color="red">Selective Paternalism</font> is a form of shared decision-making where a physician voices opinions forcefully if a parent's decision is inimical to the patient's best interest.
+- For <font color="red">Jehovah’s Witness</font> patients, blood transfusions are traditionally refused; doctors must respect this in adults but should refer to bioethics or family courts if the patient is a child or a consenting adolescent.
+- <font color="red">Paternalism</font> (from "pater" meaning father) is the "doctor knows best" attitude which can conflict with autonomy and may be overridden as medical knowledge evolves (e.g., the historical change in using steroids for asthma).
+
+### 3. NONMALEFICENCE (DO NO HARM)
+
+- The principle of <font color="red">Nonmaleficence</font> demands that physicians do no intentional harm or injury to the patient, whether by commission or omission.
+- An <font color="red">Act of Omission</font> is failing to do something that should have been done (e.g., overlooking a medicine order), which is considered negligence if unintentional.
+- An <font color="red">Act of Commission</font> is performing a wrong or harmful action intentionally; this has criminal aspects (maleficence).
+- <font color="red">Negligence/Malpractice</font> occurs when a doctor fails to exercise due diligence, even if the harm caused was not intentional.
+- To protect both patient and doctor, <font color="red">Standards of Care</font> (clinical pathways) must be followed, such as specific fluid resuscitation protocols for different types of dengue shock.
+- <font color="red">Medical Competence (Credentialing)</font> ensures that only board-certified specialists (e.g., surgeons) perform specific procedures, preventing ethical issues seen in "weekend-trained" aesthetic physicians.
+- <font color="red">Dysthanasia</font> is the practice of resuscitating a patient even when futile; it is ethically criticized as it may interfere with the dignity of life and prolong suffering.
+- In bioethics, <font color="red">CPR Guidelines</font> limit futile efforts (e.g., maximum 10 doses of epinephrine or 30 minutes of resuscitation) to avoid prolonging the dying process.
+- While beneficence is a limited duty, <font color="red">Nonmaleficence</font> is a **constant, non-negotiable duty** of the physician.
+
+### 4. BENEFICENCE
+
+- <font color="red">Beneficence</font> involves providing for the best interest of the patient and society (e.g., research, isolation, and vaccination).
+- Unlike nonmaleficence, <font color="red">Beneficence is a limited duty</font>, meaning a physician may choose which patients to admit based on urgency or first-come, first-served basis.
+- In the Emergency Room, the <font color="red">Presumption of Desire to be Treated</font> allows physicians to treat incapacitated/incompetent patients (e.g., cardiac arrest) without waiting for family consent.
+- <font color="red">Justified Paternalism</font> occurs when a physician takes over decision-making for a patient who is psychologically incapacitated, mentally deranged, or suicidal.
+- Life support may be withdrawn or withheld if treatment is determined to be <font color="red">Futile</font>, with no reasonable chance of a productive life.
+- <font color="red">Brain Death</font> is clinically defined as a total lack of spontaneous respiration, no cerebral/cerebellar responses, coma, and absence of brainstem reflexes (dilated/fixed pupils, no corneal/gag/doll's eye reflex).
+- A <font color="red">Persistent Vegetative State</font> differs from brain death because the patient still retains spontaneous breathing and basic vegetative/cerebellar functions.
+
+### 5. JUSTICE
+
+- <font color="red">Justice</font> requires equitable and fair access to healthcare regardless of sex, beliefs, age, or socioeconomic status.
+- <font color="red">Distributive Justice</font> is the fair allocation of scarce resources (e.g., ICU beds, ventilators), prioritizing those with the most urgent need or those who are least well-off.
+- In <font color="red">Emergency Situations</font>, private hospitals are legally obligated to stabilize patients regardless of their ability to pay before transferring them to government facilities.
+- For patients in <font color="red">Shock in Scarce Resource Areas</font>, the WHO uses three consistent parameters: **cold extremities**, **capillary refill time (CRT) > 3 seconds**, and **weak/rapid pulses**.
+- The <font color="red">FEAST Study</font> (Fluid Expansion as Supportive Therapy) in Africa revealed that aggressive fluid boluses (previously 20 mL/kg every 20 mins) were harmful; management has since shifted to more conservative volumes.
+- <font color="red">Truthful Disclosure</font> is a component of justice where the doctor must factually explain the benefits and risks of treatment, as no treatment is 100% safe.
+- <font color="red">Justice (Undue Burden)</font> considers the impact of healthcare costs on the family; if life-prolonging efforts for a terminal patient cause siblings to stop schooling or lose basic needs, it is considered an **Onerous Burden**.
+- <font color="red">Extraordinary Care</font> (e.g., long-term TPN or ventilation) may be ethically withdrawn if the case is irreversible and the burden on the family or society is onerous, whereas basic needs (food/shelter) cannot be withdrawn.
+
+### 6. THE PRINCIPLE OF DOUBLE EFFECT
+
+- The <font color="red">Principle of Double Effect</font> applies when a single action (e.g., CS for a mother with pre-eclampsia at 26 weeks) has both a good and a bad effect.
+- For the <font color="red">Double Effect</font> to be ethically valid, four conditions must be met:
+    1. The act must be intrinsically good or morally neutral.
+    2. The agent intends only the good effect.
+    3. The bad effect must not be the *means* to the good effect.
+    4. Proportionality: The good effect must outweigh the bad effect.
+
+### 7. FILIPINO PATIENT’S BILL OF RIGHTS AND PRACTITIONER RIGHTS
+
+- The <font color="red">Filipino Patient's Bill of Rights</font> includes:
+    * Right to appropriate medical care & humane treatment.
+    * Right to informed consent.
+    * Right to privacy & confidentiality.
+    * Right to information and self-determination.
+    * Right to religious and cultural beliefs.
+- The <font color="red">Rights of Health Care Professionals</font> include:
+    * Privilege to practice medicine.
+    * Right to just compensation.
+    * Right to refuse participation (conscientious objection).
+    * Right to choose patients.
+    * Right to professional respect.
+    * Protections under the **Magna Carta of Public Health Workers**.
+- In the management of <font color="red">Ambiguous Genitalia (e.g., AIS)</font>, decisions are made case-to-case; surgery may be justified if there is no reproductive capacity and a specific gender identity is clear.
+
+***
+
+### 8. DIFFERENTIATION OF CONFUSING CONCEPTS (EXAM HIGH YIELD)
+
+- <font color="red">Consent</font> is a written, legally binding document for adults (18+), whereas <font color="red">Assent</font> is the verbal/cooperative agreement of a minor.
+- <font color="red">Nonmaleficence</font> is a constant, non-negotiable duty (Do No Harm), whereas <font color="red">Beneficence</font> is a limited duty (Provide Best Interest).
+- <font color="red">Brain Death</font> requires a total lack of spontaneous respiration and brainstem reflexes, whereas a <font color="red">Persistent Vegetative State</font> allows for spontaneous breathing and basic vegetative functions.
+- <font color="red">Act of Omission</font> is harm caused by failing to act, whereas <font color="red">Act of Commission</font> is harm caused by performing a wrong action.
+- <font color="red">Negligence</font> is a lack of due diligence (unintentional), whereas <font color="red">Maleficence</font> (in the context of commission) involves intentional harm or criminal intent.
+- <font color="red">Fritz Jahr</font> coined the term "Bioethics" in 1927, but <font color="red">Van Rensselaer Potter</font> popularized it and defined its scope as a bridge between science and values.
+- <font color="red">Paternalism</font> is the doctor deciding for the patient ("Doctor knows best"), whereas <font color="red">Autonomy</font> is the patient deciding for themselves.
+- <font color="red">Justified Paternalism</font> applies to psychologically incapacitated or suicidal patients, whereas <font color="red">Selective Paternalism</font> is a shared-decision model used when a guardian's choice is harmful.
+- <font color="red">Extraordinary Care</font> involves invasive/expensive measures like TPN or ventilators in irreversible cases, whereas <font color="red">Ordinary Care</font> includes basic requirements like food, water, and shelter.
+- <font color="red">Distributive Justice</font> focuses on the allocation of limited resources, whereas <font color="red">Social Justice</font> focuses on equitable access without discrimination based on status.
+- <font color="red">Dysthanasia</font> is the undue prolongation of the dying process (the opposite of euthanasia), while <font color="red">Palliative Care</font> focuses on comfort and quality of life at the end of life.
+- In <font color="red">Shock</font> management, current <font color="red">Conservative Management</font> (meticulous follow-up, limited fluids) has replaced the older <font color="red">Aggressive EGDT</font> (high volume boluses) based on the FEAST study results.
+- Regarding <font color="red">Gender Ethics</font>, "Sex" is considered genotypic/phenotypic and objective, whereas "Gender Identification" is the individual's subjective expression of self.
+- In <font color="red">Medical Confidentiality</font>, being a doctor does not grant access to a chart unless you are the **Attending Physician** or part of the authorized clinical team for that specific patient.
+
+
+## QA
+
+
+### BIOETHICS STUDY CARDS
+
+| Count | Q                                                                                                   | A                                                                                              |
+| :---- | :-------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------- |
+| 1     | Define the branch of medicine known as <b><font color="red">Bioethics</font></b>.                   | Applied ethics studying philosophical, social, and legal issues in medicine and life sciences. |
+| 2     | Who coined and who popularized the term <b><font color="red">Bioethics</font></b>?                  | Fritz Jahr (coined); <br>Van Rensselaer Potter (popularized).                                  |
+| 3     | What is the focus of <b><font color="red">Respect for Autonomy</font></b>?                          | Self-determination and free will.                                                              |
+| 4     | What is the core obligation of <b><font color="red">Nonmaleficence</font></b>?                      | "Do No Harm."                                                                                  |
+| 5     | Distinguish the "duty" level between <b><font color="red">Nonmaleficence vs Beneficence</font></b>. | Nonmaleficence is a <b>constant duty</b>; <br>Beneficence is a <b>limited duty</b>.            |
+| 6     | What does <b><font color="red">Justice</font></b> entail in a healthcare context?                   | Equal and fair distribution of benefits and burdens.                                           |
+
+### 1. INTRODUCTION AND GENERAL CONCEPTS
+
+| Count | Q | A |
+| :--- | :--- | :--- |
+| 7 | What is the etymology of <b><font color="red">Bioethics</font></b>? | Greek <b>Bios</b> (Life) and <b>Ethos</b> (Moral Nature). |
+| 8 | How did <b><font color="red">Van Rensselaer Potter</font></b> define Bioethics? | A bridge between biology, ecology, medicine, and human values. |
+| 9 | In a clinical setting, what does <b><font color="red">Normal</font></b> refer to? | Societal standards following prevalent norms that change over time. |
+| 10 | How are <b><font color="red">Morals</font></b> defined in the clinical setting? | Based on mores; higher than societal normalcy and beyond human level. |
+| 11 | Enumerate the <b><font color="red">Main Principles of Bioethics</font></b>. (4) | 1) Respect for Autonomy <br>2) Beneficence <br>3) Nonmaleficence <br>4) Social Justice |
+| 12 | What is emphasized in the <b><font color="red">Stewardship ("Fifth Principle")</font></b>? | Humans are stewards, not owners, of their bodies and must preserve health. |
+
+### 2. RESPECT FOR PATIENT AUTONOMY
+
+| Count | Q | A |
+| :--- | :--- | :--- |
+| 13 | What rights are included under <b><font color="red">Respect for Autonomy</font></b>? | Self-determination, free will, informed consent, confidentiality, and privacy. |
+| 14 | Who makes decisions for pediatrics under <b><font color="red">Patient Autonomy</font></b>? | Surrogate decision makers. |
+| 15 | When do legally authorized surrogates supersede parents in <b><font color="red">Surrogate Decision Making</font></b>? | In cases of abuse or legal issues. |
+| 16 | What medical finding was pathognomonic of abuse in the <b><font color="red">Kishi Case</font></b>? | Eggshell fractures. |
+| 17 | What unit was established following the <b><font color="red">Kishi Case</font></b>? | Women and Child Protection Unit (WCPU). |
+| 18 | What must be explained to ensure <b><font color="red">Informed Consent</font></b>? | Condition, treatment, prognosis, alternatives, benefits, and risks. |
+| 19 | Who has authorized access to <b><font color="red">Patient Charts</font></b>? | Attending physicians, interns, and PGIs assigned to the case. |
+| 20 | Why was a doctor penalized in the <b><font color="red">Black Suede Case</font></b>? | Gender insensitivity and confidentiality breach (viral video). |
+| 21 | What is the rule regarding taking <b><font color="red">Patient Charts</font></b> home? | Prohibited; charts cannot be brought home or handed to families without legal process. |
+| 22 | What is required before taking <b><font color="red">Hospital Photos</font></b>? | Explicit consent of the medical staff or doctor involved. |
+| 23 | Define <b><font color="red">Consent</font></b> in the Philippines. | Written, legally binding document provided by a competent adult (18+). |
+| 24 | Define <b><font color="red">Assent</font></b>. | Verbal agreement given by a minor. |
+| 25 | When can the medical community <b><font color="red">Legally Override a Parent's Decision</font></b>? | If the decision is proven prejudicial or harmful to the child's life. |
+| 26 | Define <b><font color="red">Selective Paternalism</font></b>. | Shared decision-making where the physician voices forceful opinions against harmful parental choices. |
+| 27 | How are <b><font color="red">Jehovah’s Witness</font></b> blood refusal cases handled for children? | Refer to bioethics or family courts to potentially override refusal. |
+| 28 | What is the conflict in <b><font color="red">Paternalism</font></b>? | The "doctor knows best" attitude conflicts with patient autonomy. |
+
+### 3. NONMALEFICENCE (DO NO HARM)
+
+| Count | Q | A |
+| :--- | :--- | :--- |
+| 29 | What does <b><font color="red">Nonmaleficence</font></b> prohibit? | Intentional harm or injury by commission or omission. |
+| 30 | Define an <b><font color="red">Act of Omission</font></b>. | Failing to do something that should have been done (e.g., overlooking an order). |
+| 31 | Define an <b><font color="red">Act of Commission</font></b>. | Performing a wrong or harmful action intentionally. |
+| 32 | When does <b><font color="red">Negligence/Malpractice</font></b> occur? | Failure to exercise due diligence, even if harm was unintentional. |
+| 33 | What is the purpose of following <b><font color="red">Standards of Care</font></b>? | To protect both patient and doctor through evidence-based clinical pathways. |
+| 34 | Why is <b><font color="red">Medical Competence (Credentialing)</font></b> ethically necessary? | Ensures only board-certified specialists perform specific procedures. |
+| 35 | Why is <b><font color="red">Dysthanasia</font></b> ethically criticized? | It resuscitates patients even when futile, prolonging suffering. |
+| 36 | What are the limits in <b><font color="red">CPR Guidelines</font></b> to avoid futility? | Maximum 10 doses of epinephrine or 30 minutes of resuscitation. |
+| 37 | Why is <b><font color="red">Nonmaleficence</font></b> considered a constant duty? | It is a non-negotiable obligation to never cause harm. |
+
+### 4. BENEFICENCE
+
+| Count | Q | A |
+| :--- | :--- | :--- |
+| 38 | What does <b><font color="red">Beneficence</font></b> involve? | Acting in the best interest of the patient and society (e.g., vaccines). |
+| 39 | How is <b><font color="red">Beneficence</font></b> a "limited duty"? | Physicians may choose which patients to admit based on urgency or capacity. |
+| 40 | What is <b><font color="red">Presumption of Desire to be Treated</font></b>? | Allows treating incapacitated patients in emergencies without waiting for family consent. |
+| 41 | When is <b><font color="red">Justified Paternalism</font></b> applied? | For patients who are psychologically incapacitated, mentally deranged, or suicidal. |
+| 42 | When may life support be withdrawn based on <b><font color="red">Futile</font></b> treatment? | When there is no reasonable chance of a productive life. |
+| 43 | What are the clinical signs of <b><font color="red">Brain Death</font></b>? | No spontaneous respiration, no brainstem reflexes, coma, and no responses. |
+| 44 | How does a <b><font color="red">Persistent Vegetative State</font></b> differ from brain death? | Patient retains spontaneous breathing and basic vegetative functions. |
+
+### 5. JUSTICE
+
+| Count | Q | A |
+| :--- | :--- | :--- |
+| 45 | What does <b><font color="red">Justice</font></b> require? | Equitable and fair access regardless of sex, beliefs, age, or status. |
+| 46 | What is the focus of <b><font color="red">Distributive Justice</font></b>? | Fair allocation of scarce resources (e.g., ICU beds). |
+| 47 | What is the legal obligation of private hospitals in <b><font color="red">Emergency Situations</font></b>? | Stabilize patients regardless of ability to pay before transfer. |
+| 48 | Name the 3 WHO parameters for <b><font color="red">Shock in Scarce Resource Areas</font></b>. | 1) Cold extremities <br>2) CRT > 3 seconds <br>3) Weak/rapid pulses |
+| 49 | What was the key finding of the <b><font color="red">FEAST Study</font></b>? | Aggressive fluid boluses were harmful; management shifted to conservative volumes. |
+| 50 | Define <b><font color="red">Truthful Disclosure</font></b>. | Factual explanation of benefits and risks; acknowledging no treatment is 100% safe. |
+| 51 | What is considered an <b><font color="red">Onerous Burden</font></b> in Justice? | Healthcare costs that force siblings to stop schooling or lose basic needs. |
+| 52 | When can <b><font color="red">Extraordinary Care</font></b> be ethically withdrawn? | Case is irreversible and the burden is onerous. |
+
+### 6. THE PRINCIPLE OF DOUBLE EFFECT
+
+| Count | Q | A |
+| :--- | :--- | :--- |
+| 53 | When does the <b><font color="red">Principle of Double Effect</font></b> apply? | When a single action has both a good and a bad effect. |
+| 54 | Enumerate the 4 conditions for <b><font color="red">Double Effect</font></b> validity. | 1) Act is good/neutral <br>2) Agent intends only good <br>3) Bad effect not the means <br>4) Proportionality |
+
+### 7. BILL OF RIGHTS
+
+| Count | Q | A |
+| :--- | :--- | :--- |
+| 55 | Enumerate the <b><font color="red">Filipino Patient's Bill of Rights</font></b>. (5) | Rights to: 1) Medical care <br>2) Informed consent <br>3) Privacy <br>4) Information <br>5) Religious beliefs |
+| 56 | Enumerate the <b><font color="red">Rights of Health Care Professionals</font></b>. (5) | Rights to: 1) Practice medicine <br>2) Just compensation <br>3) Refusal (conscientious objection) <br>4) Choose patients <br>5) Professional respect |
+| 57 | Ethics of <b><font color="red">Ambiguous Genitalia</font></b> management. | Case-to-case; surgery justified if no reproductive capacity and gender identity is clear. |
+
+### 8. DIFFERENTIATION OF CONCEPTS (HIGH YIELD)
+
+| Count | Q                                                                          | A                                                                                      |
+| :---- | :------------------------------------------------------------------------- | :------------------------------------------------------------------------------------- |
+| 58    | <b><font color="red">Consent vs Assent</font></b>                          | Consent: Written/Legal (18+). <br>Assent: Verbal/Minor.                                |
+| 59    | <b><font color="red">Nonmaleficence vs Beneficence</font></b> (Duty)       | Nonmaleficence: Constant duty. <br>Beneficence: Limited duty.                          |
+| 60    | <b><font color="red">Brain Death vs Persistent Vegetative State</font></b> | Brain Death: No spontaneous breathing. <br>PVS: Spontaneous breathing remains.         |
+| 61    | <b><font color="red">Act of Omission vs Act of Commission</font></b>       | Omission: Failing to act. <br>Commission: Performing wrong action.                     |
+| 62    | <b><font color="red">Negligence vs Maleficence</font></b>                  | Negligence: Unintentional lack of diligence. <br>Maleficence: Intentional harm.        |
+| 63    | <b><font color="red">Fritz Jahr vs Potter</font></b>                       | Jahr: Coined "Bioethics". <br>Potter: Defined bridge scientist/values.                 |
+| 64    | <b><font color="red">Paternalism vs Autonomy</font></b>                    | Paternalism: Doctor decides. <br>Autonomy: Patient decides.                            |
+| 65    | <b><font color="red">Justified vs Selective Paternalism</font></b>         | Justified: Incapacitated patient. <br>Selective: Shared decision/Forceful opinion.     |
+| 66    | <b><font color="red">Extraordinary vs Ordinary Care</font></b>             | Extraordinary: Invasive/Futile measures. <br>Ordinary: Food, water, shelter.           |
+| 67    | <b><font color="red">Distributive vs Social Justice</font></b>             | Distributive: Resource allocation. <br>Social: Access without discrimination.          |
+| 68    | <b><font color="red">Dysthanasia vs Palliative Care</font></b>             | Dysthanasia: Prolonging dying. <br>Palliative: Comfort and quality of life.            |
+| 69    | <b><font color="red">Shock Management</font></b> change                    | Conservative management replaced Aggressive EGDT.                                      |
+| 70    | <b><font color="red">Sex vs Gender Identification</font></b>               | Sex: Genotypic/Phenotypic (objective). <br>Gender: Individual expression (subjective). |
+| 71    | <b><font color="red">Medical Confidentiality</font></b> (Access rule)      | Limited to Attending Physician and authorized clinical team only.                      |
