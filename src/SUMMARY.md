@@ -19,6 +19,7 @@
 - [08-PEDIA](08_PEDIA/README.md)
     - [4th_Shifting](08_Pedia/4th_Shift/4th_Shifting_Trans_Summaries.md)
     - [5th_Shifting](08_Pedia/5th_Shifting.md)
+    - [2nd OSOE](08_Pedia/2nd_OSOE.md)
 - [10-ORL](10_ORL/README.md)
     - [2nd_Shifting](10_ORL/2nd_Shift.md)
 - [11-CLINPATH](11_CLINPATH/README.md)
