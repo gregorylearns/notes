@@ -4,19 +4,19 @@ Here is the comprehensive summary of the provided medical text, transformed into
 
 ### **Infectious Disease Clinical Comparison Tables**
 
-| Topic | **Pathogenesis / Pathophysiology** | **Hallmark Clinical Manifestations** | **Primary Diagnosis & Hallmarks** | **Management / Treatment Plan** |
-| :--- | :--- | :--- | :--- | :--- |
-| **Pneumonia** | Inflammation of lung parenchyma; viral (airway obstruction/edema) vs. bacterial (consolidation). | **Tachypnea** (most consistent), cough, retractions, crackles/wheezing. | **Chest X-ray**: Infiltrates. Viral = interstitial; Bacterial = lobar consolidation. | **Amoxicillin** (90mg/kg/day) for bacterial; supportive & Zinc for viral. |
-| **Dengue** | Flavivirus spread by *Aedes aegypti*; capillary permeability leading to plasma leakage/shock (DHF). | **Biphasic fever**, retroorbital pain, "isles of white in sea of red" rash, warning signs (**CLLLAMP**). | **NS1** (early), **IgM** (Day 5+). DHF requires proof of plasma leak (Hct rise >20%, effusion). | **Supportive**; IV Isotonic Crystalloids (NS/LR) for shock; **Avoid Aspirin**. |
-| **Tuberculosis** | Inhalation of *M. tuberculosis*; formation of **Ghon complex**; caseous necrosis and CMI response. | Chronic cough/wheeze >2 wks, night sweats, failure to thrive/weight loss. | **Xpert MTB/RIF** (rapid PCR), **TST** (>5mm), CXR (hilar LAD/consolidation). | **2HRZE / 4HR** regimen; Isoniazid Preventive Therapy (IPT) for <5yo contacts. |
-| **Measles** | *Paramyxoviridae*; spreads via respiratory droplets; involves Warthin-Finkeldey giant cells. | **3 Cs** (Cough, Coryza, Conjunctivitis) + **Koplik spots** (pathognomonic). | Clinical diagnosis; confirmed by **IgM** (1-2 days post-rash) or PCR. | **Supportive** + **Vitamin A** (100k-200k IU) to prevent complications/death. |
-| **UTI** | Ascending fecal flora (UPEC via **P-fimbriae**) or hematogenous (neonates). | Infants: fever/jaundice. Older: **Dysuria**, urgency, flank pain (Pyelo). | **Urine Culture** (Gold standard); **Pyuria** (≥5 WBC/hpf) on Urinalysis. | **Cefixime/Ceftriaxone**. Treat constipation/bowel-bladder dysfunction. |
-| **Neonatal Sepsis** | Early (Vertical/Birth canal) vs. Late (Horizontal/Hospital). Immature immune system. | **Temperature instability**, poor feeding, apnea, lethargy, "not doing well." | **Blood/CSF cultures**. I/T ratio ≥0.2. High index of suspicion based on maternal risk. | **Ampicillin + Gentamicin** (Standard empiric). Initiate within 1 hour. |
-| **Meningitis** | Bacteria (S. pneumo) cross BBB; triggers TNF/IL-1 inflammation; leads to cerebral edema/ICP. | **Nuchal rigidity**, Kernig/Brudzinski signs, bulging fontanelle, photophobia. | **Lumbar Puncture** (CSF): High protein, low glucose, high WBC (neutrophils). | **Ceftriaxone + Vancomycin** + **Dexamethasone** (reduces hearing loss). |
+| Topic               | **Pathogenesis / Pathophysiology**                                                                  | **Hallmark Clinical Manifestations**                                                                     | **Primary Diagnosis & Hallmarks**                                                               | **Management / Treatment Plan**                                                |
+| :------------------ | :-------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- |
+| **Pneumonia**       | Inflammation of lung parenchyma; viral (airway obstruction/edema) vs. bacterial (consolidation).    | **Tachypnea** (most consistent), cough, retractions, crackles/wheezing.                                  | **Chest X-ray**: Infiltrates. Viral = interstitial; Bacterial = lobar consolidation.            | **Amoxicillin** (90mg/kg/day) for bacterial; supportive & Zinc for viral.      |
+| **Dengue**          | Flavivirus spread by *Aedes aegypti*; capillary permeability leading to plasma leakage/shock (DHF). | **Biphasic fever**, retroorbital pain, "isles of white in sea of red" rash, warning signs (**CLLLAMP**). | **NS1** (early), **IgM** (Day 5+). DHF requires proof of plasma leak (Hct rise >20%, effusion). | **Supportive**; IV Isotonic Crystalloids (NS/LR) for shock; **Avoid Aspirin**. |
+| **Tuberculosis**    | Inhalation of *M. tuberculosis*; formation of **Ghon complex**; caseous necrosis and CMI response.  | Chronic cough/wheeze >2 wks, night sweats, failure to thrive/weight loss.                                | **Xpert MTB/RIF** (rapid PCR), **TST** (>5mm), CXR (hilar LAD/consolidation).                   | **2HRZE / 4HR** regimen; Isoniazid Preventive Therapy (IPT) for <5yo contacts. |
+| **Measles**         | *Paramyxoviridae*; spreads via respiratory droplets; involves Warthin-Finkeldey giant cells.        | **3 Cs** (Cough, Coryza, Conjunctivitis) + **Koplik spots** (pathognomonic).                             | Clinical diagnosis; confirmed by **IgM** (1-2 days post-rash) or PCR.                           | **Supportive** + **Vitamin A** (100k-200k IU) to prevent complications/death.  |
+| **UTI**             | Ascending fecal flora (UPEC via **P-fimbriae**) or hematogenous (neonates).                         | Infants: fever/jaundice. Older: **Dysuria**, urgency, flank pain (Pyelo).                                | **Urine Culture** (Gold standard); **Pyuria** (≥5 WBC/hpf) on Urinalysis.                       | **Cefixime/Ceftriaxone**. Treat constipation/bowel-bladder dysfunction.        |
+| **Neonatal Sepsis** | Early (Vertical/Birth canal) vs. Late (Horizontal/Hospital). Immature immune system.                | **Temperature instability**, poor feeding, apnea, lethargy, "not doing well."                            | **Blood/CSF cultures**. I/T ratio ≥0.2. High index of suspicion based on maternal risk.         | **Ampicillin + Gentamicin** (Standard empiric). Initiate within 1 hour.        |
+| **Meningitis**      | Bacteria (S. pneumo) cross BBB; triggers TNF/IL-1 inflammation; leads to cerebral edema/ICP.        | **Nuchal rigidity**, Kernig/Brudzinski signs, bulging fontanelle, photophobia.                           | **Lumbar Puncture** (CSF): High protein, low glucose, high WBC (neutrophils).                   | **Ceftriaxone + Vancomycin** + **Dexamethasone** (reduces hearing loss).       |
 
 ***
 
-```text
+
 ### 1. PNEUMONIA
 - (Pneumonia) <font color="red">Pneumonia</font> is defined as inflammation of the lung parenchyma and is the leading infectious cause of death globally among children younger than 5 years.
 - (Pneumonia) <font color="red">Streptococcus pneumoniae</font> is the most common bacterial pathogen in children aged 3 weeks to 5 years.
@@ -100,7 +100,7 @@ Here is the comprehensive summary of the provided medical text, transformed into
 - (Meningitis) <font color="red">Dexamethasone</font> administered before or with the first antibiotic dose reduces the risk of hearing loss, especially in Hib meningitis cases.
 - (Meningitis) <font color="red">Rifampin</font> is used for chemoprophylaxis of close contacts in cases of N. meningitidis or H. influenzae type b, but not for S. pneumoniae.
 - (Meningitis) <font color="red">Sensorineural hearing loss</font> is a major long-term sequela; thus, hearing assessment is vital before or after discharge.
-```
+
 
 ***
 
@@ -261,7 +261,7 @@ Here is the comprehensive educational material for pediatric gastrointestinal di
 
 ### **Comprehensive High-Yield Bullet Points**
 
-```text
+
 - ACCUTE GASTROENTERITIS: Rotavirus is the most common cause of severe diarrhea in children worldwide.
 - ACUTE GASTROENTERITIS: Dehydration is the most common and critical manifestation of gastroenteritis, requiring priority assessment of fontanelles and urine output.
 - ACUTE GASTROENTERITIS: Dysentery is characterized by frequent small stools containing visible blood, often with fever and tenesmus.
@@ -301,7 +301,7 @@ Here is the comprehensive educational material for pediatric gastrointestinal di
 - GASTROESOPHAGEAL REFLUX DISEASE: Sandifer Syndrome is a unique presentation of GERD in infants involving abnormal neck posturing and arching.
 - GASTROESOPHAGEAL REFLUX DISEASE: In older children with typical symptoms, a 2-4 week empiric trial of PPIs can be used as a diagnostic strategy.
 - GASTROESOPHAGEAL REFLUX DISEASE: Multichannel intraluminal impedance (MII) is superior to pH monitoring for detecting non-acidic or weakly acidic reflux.
-```
+
 
 ***
 
@@ -317,3 +317,112 @@ Here is the comprehensive educational material for pediatric gastrointestinal di
 - **<font color="red">Meconium Ileus vs. Meconium Plug</font>**: **<font color="red">Meconium Ileus</font>** is associated with Cystic Fibrosis and involves the terminal ileum; **<font color="red">Meconium Plug Syndrome</font>** is a transient obstruction of the colon often seen in infants of diabetic mothers.
 - **<font color="red">Gastric vs. Duodenal Ulcer</font>**: Pain in **<font color="red">Duodenal Ulcers</font>** is typically relieved by food ingestion, whereas **<font color="red">Gastric Ulcer</font>** pain may be exacerbated by eating.
 - **<font color="red">Short-segment vs. Long-segment Hirschsprung</font>**: **<font color="red">Short-segment</font>** (rectosigmoid) is the most common (80%) and has a 4:1 male predominance; **<font color="red">Long-segment</font>** has a higher familial incidence.
+
+## QA
+
+Below is the comprehensive high-yield study material for pediatric gastrointestinal diseases, formatted as requested for Anki-style flashcards.
+
+### **Pediatric Gastrointestinal Disease Flashcards**
+
+| Count | Q                                                                                                                                | A                                                                                           |
+| :---- | :------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ |
+| 1     | What is the primary pathogenesis of <b><font color="red">Acute Gastroenteritis</font></b>?                                       | Fecal-oral infection. <br>Caused by viral, bacterial, or parasitic agents.                  |
+| 2     | What are the hallmark clinical features (3) of <b><font color="red">Acute Gastroenteritis</font></b>?                            | 1) Diarrhea <br>2) Vomiting <br>3) Dehydration                                              |
+| 3     | What are the key diagnostic tools for <b><font color="red">Acute Gastroenteritis</font></b>?                                     | Stool culture and microscopy.                                                               |
+| 4     | What is the primary management for <b><font color="red">Acute Gastroenteritis</font></b>?                                        | Rehydration and Zinc. <br>Includes Oral Rehydration Salts or Intravenous Fluids.            |
+| 5     | What is the primary pathogenesis of <b><font color="red">Neonatal Jaundice</font></b>?                                           | Unconjugated bilirubin accumulation.                                                        |
+| 6     | What is the hallmark clinical feature of <b><font color="red">Neonatal Jaundice</font></b>?                                      | Cephalocaudal yellowing of skin.                                                            |
+| 7     | What is the key diagnostic tool for <b><font color="red">Neonatal Jaundice</font></b>?                                           | Total and Fractionated Bilirubin.                                                           |
+| 8     | What is the primary management for <b><font color="red">Neonatal Jaundice</font></b>?                                            | Phototherapy.                                                                               |
+| 9     | What is the primary pathogenesis of <b><font color="red">Biliary Atresia</font></b>?                                             | Obliterative cholangiopathy.                                                                |
+| 10    | What are the hallmark clinical features (2) of <b><font color="red">Biliary Atresia</font></b>?                                  | 1) Persistent jaundice <br>2) Acholic stools                                                |
+| 11    | What is the key diagnostic tool for <b><font color="red">Biliary Atresia</font></b>?                                             | Intraoperative Cholangiogram.                                                               |
+| 12    | What is the primary management for <b><font color="red">Biliary Atresia</font></b>?                                              | Kasai Procedure. <br>Also known as Hepatoportoenterostomy.                                  |
+| 13    | What is the primary pathogenesis of <b><font color="red">Intussusception</font></b>?                                             | Telescoping of bowel segments.                                                              |
+| 14    | What are the hallmark clinical features (2) of <b><font color="red">Intussusception</font></b>?                                  | 1) Colicky pain <br>2) Currant jelly stools                                                 |
+| 15    | What is the key diagnostic tool for <b><font color="red">Intussusception</font></b>?                                             | Ultrasound. <br>Shows a Target Sign.                                                        |
+| 16    | What is the primary management for <b><font color="red">Intussusception</font></b>?                                              | Non-surgical Enema Reduction.                                                               |
+| 17    | What is the primary pathogenesis of <b><font color="red">Pyloric Stenosis</font></b>?                                            | Pyloric muscle hypertrophy.                                                                 |
+| 18    | What is the hallmark clinical feature of <b><font color="red">Pyloric Stenosis</font></b>?                                       | Nonbilious projectile vomiting.                                                             |
+| 19    | What is the key diagnostic tool for <b><font color="red">Pyloric Stenosis</font></b>?                                            | Ultrasound. <br>Identifies an Olive mass.                                                   |
+| 20    | What is the primary management for <b><font color="red">Pyloric Stenosis</font></b>?                                             | Ramstedt Pyloromyotomy.                                                                     |
+| 21    | What is the primary pathogenesis of <b><font color="red">Peptic Ulcer Disease</font></b>?                                        | Acid-protective factor imbalance.                                                           |
+| 22    | What is the hallmark clinical feature of <b><font color="red">Peptic Ulcer Disease</font></b>?                                   | Epigastric pain relieved by food.                                                           |
+| 23    | What is the key diagnostic tool for <b><font color="red">Peptic Ulcer Disease</font></b>?                                        | Upper Endoscopy. <br>Also known as Esophagogastroduodenoscopy.                              |
+| 24    | What medications (2) are primary management for <b><font color="red">Peptic Ulcer Disease</font></b>?                            | 1) Proton Pump Inhibitors <br>2) H2 Blockers                                                |
+| 25    | What is added to <b><font color="red">Peptic Ulcer Disease</font></b> management if Helicobacter pylori is present?              | Antibiotics.                                                                                |
+| 26    | What is the primary pathogenesis of <b><font color="red">Hirschsprung Disease</font></b>?                                        | Failure of neuroblast migration.                                                            |
+| 27    | What is the hallmark clinical feature of <b><font color="red">Hirschsprung Disease</font></b>?                                   | Delayed meconium. <br>Failure to pass within 48 hours.                                      |
+| 28    | What is the key diagnostic tool for <b><font color="red">Hirschsprung Disease</font></b>?                                        | Rectal Suction Biopsy.                                                                      |
+| 29    | What is the primary management for <b><font color="red">Hirschsprung Disease</font></b>?                                         | Surgical Pull-through.                                                                      |
+| 30    | What is the primary pathogenesis of <b><font color="red">GERD</font></b>?                                                        | Transient Lower Esophageal Sphincter Relaxations.                                           |
+| 31    | What is the hallmark clinical feature of <b><font color="red">GERD</font></b>?                                                   | Postprandial regurgitation.                                                                 |
+| 32    | What are the key diagnostic tools (2) for <b><font color="red">GERD</font></b>?                                                  | 1) Clinical assessment <br>2) pH Monitoring                                                 |
+| 33    | What is the primary management for <b><font color="red">GERD</font></b>?                                                         | Lifestyle changes and PPIs. <br>Proton Pump Inhibitors.                                     |
+| 34    | What is the most common cause of severe diarrhea in children worldwide in <b><font color="red">Acute Gastroenteritis</font></b>? | Rotavirus.                                                                                  |
+| 35    | What is the most critical manifestation of <b><font color="red">Acute Gastroenteritis</font></b>?                                | Dehydration.                                                                                |
+| 36    | Assessment of which two sites is priority for dehydration in <b><font color="red">Acute Gastroenteritis</font></b>?              | 1) Fontanelles <br>2) Urine output                                                          |
+| 37    | Define <b><font color="red">Dysentery</font></b> features (3).                                                                   | 1) Frequent small stools <br>2) Visible blood <br>3) Fever/tenesmus                         |
+| 38    | What is the mechanism of noninflammatory diarrhea in <b><font color="red">Acute Gastroenteritis</font></b>?                      | Toxin-mediated. <br>Example: Vibrio cholerae.                                               |
+| 39    | What are the stool findings in noninflammatory <b><font color="red">Acute Gastroenteritis</font></b>?                            | No WBCs or RBCs. <br>No white or red blood cells.                                           |
+| 40    | What is the mechanism of inflammatory diarrhea in <b><font color="red">Acute Gastroenteritis</font></b>?                         | Direct mucosal invasion. <br>Examples: Shigella, Salmonella.                                |
+| 41    | How does inflammatory <b><font color="red">Acute Gastroenteritis</font></b> typically present?                                   | Bloody stools.                                                                              |
+| 42    | What is the benefit of Zinc Supplementation in <b><font color="red">Acute Gastroenteritis</font></b>?                            | Reduces duration and severity.                                                              |
+| 43    | Which pathogens (2) cause Hemolytic Uremic Syndrome in <b><font color="red">Acute Gastroenteritis</font></b>?                    | 1) Shigella dysenteriae 1 <br>2) E. coli O157:H7                                            |
+| 44    | When is <b><font color="red">Neonatal Jaundice</font></b> considered Pathologic?                                                 | Birth or first 24 hours.                                                                    |
+| 45    | What are the properties of indirect bilirubin in <b><font color="red">Neonatal Jaundice</font></b>?                              | Lipid-soluble and neurotoxic.                                                               |
+| 46    | Indirect bilirubin accumulation in the basal ganglia leads to what in <b><font color="red">Neonatal Jaundice</font></b>?         | Kernicterus.                                                                                |
+| 47    | What does direct (conjugated) hyperbilirubinemia always indicate in <b><font color="red">Neonatal Jaundice</font></b>?           | Serious hepatic/systemic illness. <br>It is always pathologic.                              |
+| 48    | What serum level correlates with jaundice of the face in <b><font color="red">Neonatal Jaundice</font></b>?                      | ~5 mg/dL.                                                                                   |
+| 49    | What serum level correlates with jaundice of the mid-abdomen in <b><font color="red">Neonatal Jaundice</font></b>?               | ~15 mg/dL.                                                                                  |
+| 50    | What serum level correlates with jaundice of the soles in <b><font color="red">Neonatal Jaundice</font></b>?                     | ~20 mg/dL.                                                                                  |
+| 51    | What light wavelength is used in phototherapy for <b><font color="red">Neonatal Jaundice</font></b>?                             | 420-470 nm. <br>Blue light.                                                                 |
+| 52    | What is the major clinical clue for <b><font color="red">Biliary Atresia</font></b>?                                             | Acholic stools. <br>White or pale-colored stools.                                           |
+| 53    | What is the leading indication for pediatric liver transplantation in <b><font color="red">Biliary Atresia</font></b>?           | Biliary Atresia.                                                                            |
+| 54    | What is the diagnostic Gold Standard for <b><font color="red">Biliary Atresia</font></b>?                                        | Intraoperative Cholangiogram.                                                               |
+| 55    | What is the ideal timing for the Kasai procedure in <b><font color="red">Biliary Atresia</font></b>?                             | Before 60 days of life.                                                                     |
+| 56    | What is the most common cause of intestinal obstruction in children ages 5 months to 3 years?                                    | <b><font color="red">Intussusception</font></b>.                                            |
+| 57    | List the component of the Classic Triad for <b><font color="red">Intussusception</font></b> (3).                                 | 1) Intermittent colicky pain <br>2) Sausage-shaped mass <br>3) Currant jelly stools         |
+| 58    | Where is the sausage-shaped mass typically palpated in <b><font color="red">Intussusception</font></b>?                          | Right Upper Quadrant.                                                                       |
+| 59    | What is the most common lead point in <b><font color="red">Intussusception</font></b> for patients over 2 years old?             | Meckel Diverticulum.                                                                        |
+| 60    | What is the ultrasound Gold Standard finding for <b><font color="red">Intussusception</font></b>?                                | "Target" or "Donut" sign.                                                                   |
+| 61    | What is the first-line treatment for stable <b><font color="red">Intussusception</font></b> cases?                               | Air or Contrast Enema. <br>Radiologic hydrostatic/pneumatic reduction.                      |
+| 62    | Describe the hallmark vomiting in <b><font color="red">Hypertrophic Pyloric Stenosis</font></b>.                                 | Nonbilious projectile vomiting.                                                             |
+| 63    | What is the typical age for <b><font color="red">Hypertrophic Pyloric Stenosis</font></b>?                                       | 3 weeks to 5 months.                                                                        |
+| 64    | What is the pathognomonic physical finding in <b><font color="red">Hypertrophic Pyloric Stenosis</font></b>?                     | Olive-shaped mass. <br>2 cm, firm, and movable.                                             |
+| 65    | What is the classic biochemical profile for <b><font color="red">Hypertrophic Pyloric Stenosis</font></b>?                       | Hypochloremic, hypokalemic metabolic alkalosis.                                             |
+| 66    | Which antibiotic exposure increases the risk for <b><font color="red">Hypertrophic Pyloric Stenosis</font></b>?                  | Erythromycin. <br>Macrolides in the first 2 weeks.                                          |
+| 67    | What must be done before surgery in <b><font color="red">Hypertrophic Pyloric Stenosis</font></b>?                               | Metabolic stabilization with fluids.                                                        |
+| 68    | What are primary ulcers usually associated with in <b><font color="red">Peptic Ulcer Disease</font></b>?                         | Helicobacter pylori infection.                                                              |
+| 69    | What is the common site for primary <b><font color="red">Peptic Ulcer Disease</font></b>?                                        | Duodenum.                                                                                   |
+| 70    | <b><font color="red">Cushing's ulcer</font></b> is a stress ulcer associated with what?                                          | Central Nervous System lesions.                                                             |
+| 71    | <b><font color="red">Curling's ulcer</font></b> is a stress ulcer associated with what?                                          | Severe burns.                                                                               |
+| 72    | What is the method of choice for diagnosing <b><font color="red">Peptic Ulcer Disease</font></b>?                                | Esophagogastroduodenoscopy.                                                                 |
+| 73    | What are the components of Triple Therapy for <b><font color="red">Peptic Ulcer Disease</font></b> (3)?                          | 1) PPI <br>2) Amoxicillin <br>3) Clarithromycin/Metronidazole                               |
+| 74    | What is the duration of Triple Therapy for <b><font color="red">Peptic Ulcer Disease</font></b>?                                 | 14 days.                                                                                    |
+| 75    | What is the most common cause of neonatal lower intestinal obstruction?                                                          | <b><font color="red">Hirschsprung Disease</font></b>.                                       |
+| 76    | What percentage of <b><font color="red">Hirschsprung Disease</font></b> neonates fail to pass meconium in 48 hours?              | Majority.                                                                                   |
+| 77    | What is the Gold Standard diagnostic finding for <b><font color="red">Hirschsprung Disease</font></b>?                           | Absence of ganglion cells. <br>Found on Rectal Suction Biopsy.                              |
+| 78    | Define the <b><font color="red">Blast Sign</font></b> in Hirschsprung Disease.                                                   | Explosive discharge of gas/stool. <br>Occurs during rectal exam.                            |
+| 79    | What is the leading cause of death in <b><font color="red">Hirschsprung Disease</font></b>?                                      | Enterocolitis.                                                                              |
+| 80    | What is the main mechanism behind <b><font color="red">GERD</font></b>?                                                          | Transient Lower Esophageal Sphincter Relaxations.                                           |
+| 81    | What is <b><font color="red">Sandifer Syndrome</font></b> in GERD?                                                               | Abnormal neck posturing/arching.                                                            |
+| 82    | What is the diagnostic strategy for older children with typical <b><font color="red">GERD</font></b> symptoms?                   | Empiric PPI trial. <br>Lasting 2 to 4 weeks.                                                |
+| 83    | Why is Multichannel intraluminal impedance superior to pH monitoring in <b><font color="red">GERD</font></b>?                    | Detects non-acidic reflux.                                                                  |
+| 84    | Compare liver biopsy: <b><font color="red">Biliary Atresia vs Neonatal Hepatitis</font></b>.                                     | Atresia: Bile duct proliferation. <br>Hepatitis: Giant cell transformation.                 |
+| 85    | Compare vomiting: <b><font color="red">Pyloric Stenosis vs GERD</font></b>.                                                      | Stenosis: Projectile, nonbilious. <br>GERD: Effortless regurgitation.                       |
+| 86    | Compare meconium timing: <b><font color="red">Hirschsprung vs Functional Constipation</font></b>.                                | Hirschsprung: Delayed (at birth). <br>Functional: Starts later.                             |
+| 87    | Which condition lacks encopresis: <b><font color="red">Hirschsprung or Functional Constipation</font></b>?                       | Hirschsprung Disease.                                                                       |
+| 88    | Compare rectal exam results: <b><font color="red">Hirschsprung vs Functional Constipation</font></b>.                            | Hirschsprung: Empty rectum. <br>Functional: Rectum full of stool.                           |
+| 89    | Compare the cause of <b><font color="red">Cushing vs Curling Ulcers</font></b>.                                                  | Cushing: Increased Intracranial Pressure. <br>Curling: Severe systemic burns.               |
+| 90    | Compare timing: <b><font color="red">Physiologic vs Pathologic Jaundice</font></b>.                                              | Physiologic: After 24 hours. <br>Pathological: Within first 24 hours.                       |
+| 91    | Compare pain pattern: <b><font color="red">Intussusception vs Gastroenteritis</font></b>.                                        | Intussusception: Paroxysmal with calm intervals. <br>Gastroenteritis: Generally continuous. |
+| 92    | Compare solubility: <b><font color="red">Unconjugated vs Conjugated Bilirubin</font></b>.                                        | Unconjugated: Lipid-soluble. <br>Conjugated: Water-soluble.                                 |
+| 93    | Which bilirubin type crosses the blood-brain barrier?                                                                            | <b><font color="red">Unconjugated Bilirubin</font></b>.                                     |
+| 94    | What does <b><font color="red">Conjugated Bilirubin</font></b> in the urine imply?                                               | Structural or liver disease.                                                                |
+| 95    | Compare <b><font color="red">Meconium Ileus vs Meconium Plug</font></b>: Association.                                            | Ileus: Cystic Fibrosis. <br>Plug: Infants of diabetic mothers.                              |
+| 96    | Compare <b><font color="red">Meconium Ileus vs Meconium Plug</font></b>: Location.                                               | Ileus: Terminal ileum. <br>Plug: Colon.                                                     |
+| 97    | Compare food effect: <b><font color="red">Gastric vs Duodenal Ulcer</font></b> pain.                                             | Gastric: Exacerbated by eating. <br>Duodenal: Relieved by food.                             |
+| 98    | What is the most common type (80%) of <b><font color="red">Hirschsprung Disease</font></b>?                                      | Short-segment. <br>Involves the rectosigmoid.                                               |
+| 99    | Compare sex predominance: <b><font color="red">Short-segment Hirschsprung</font></b>.                                            | 4:1 male predominance.                                                                      |
+| 100   | Compare incidence: <b><font color="red">Long-segment Hirschsprung</font></b>.                                                    | Higher familial incidence.                                                                  |
