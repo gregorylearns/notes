@@ -3,6 +3,7 @@
 - [mdBook Quickstart](README.md)
 - [02-OB](02_OB/README.md)
     - [8th_Shifting](02_OB/8th_Shifting.md)
+    - [Finals](02_OB/Finals.md)
 - [03-GYNE](03_GYNE/README.md)
     - [7th_Shifting](03_GYNE/7th_Shifting.md)
     - [8th_Shifting](03_GYNE/8th_Shifting.md)
