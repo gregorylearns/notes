@@ -30,3 +30,4 @@
 - [12-NEURO](12_NEURO/README.md)
     - [2nd Shifting](12_NEURO/2nd_Shifting.md)
     - [3rd Shifting](12_NEURO/3rd_Shifting.md)
+    - [Finals](12_NEURO/Finals.md)
